@@ -1,0 +1,572 @@
+{
+  "tag": "2023-05-18_032918",
+  "state_str": "0f392c7413e9f5f93cb6e163187b4738",
+  "state_str_content_free": "956a19006dff10987c793fbbddece2aa",
+  "foreground_activity": "com.quzhuan.app/com.lexing.module.ui.activity.LXGetEnergyActivity",
+  "activity_stack": [
+    "com.quzhuan.app/com.lexing.module.ui.activity.LXGetEnergyActivity",
+    "com.quzhuan.app/com.lezou.app.view.activity.MainActivity"
+  ],
+  "background_services": [
+    "com.miui.player/com.xiaomi.mipush.sdk.PushMessageHandler",
+    "com.android.calendar/com.xiaomi.mipush.sdk.PushMessageHandler",
+    "org.codeaurora.ims/.ImsService",
+    "com.tencent.mm/.plugin.webview.stub.WebViewStubService",
+    "com.xiaomi.mi_connect_service/.MiConnectService",
+    "com.qualcomm.qti.uceShimService/.RCSService",
+    "android.ext.services/.notification.Assistant",
+    "com.qualcomm.location/.LocationService",
+    "com.miui.powerkeeper/.feedbackcontrol.FeedbackControlService",
+    "com.miui.analytics/.AppenderService",
+    "com.tencent.mm/.ipcinvoker.wx_extension.service.MainProcessIPCService",
+    "com.miui.analytics/.onetrack.OneTrackService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.qualcomm.location/.izat.IzatService",
+    "com.qualcomm.qti.smcinvokepkgmgr/.SmcInvokeService",
+    "com.miui.notification/miui.notification.service.NotificationListener",
+    "com.android.systemui/.ImageWallpaper",
+    "com.miui.securitycenter/com.miui.antivirus.service.GuardService",
+    "com.quzhuan.app/com.qq.e.comm.DownloadService",
+    "com.miui.powerkeeper/.powerchecker.PowerCheckerService",
+    "com.miui.securitycenter/com.miui.gamebooster.service.NotificationListener",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.xiaomi.metoknlp/com.xiaomi.location.metoknlp.MetokGeocodeService",
+    "com.miui.systemAdSolution/.splashscreen.SplashScreenService",
+    "com.android.camera/.EmptyService",
+    "com.longcheer.autoregistration/.RegistrationService",
+    "com.miui.securitycenter/com.miui.networkassistant.vpn.miui.MiuiVpnManageService",
+    "com.miui.analytics/.AnalyticsService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.android.bluetooth/.pbap.BluetoothPbapService",
+    "com.xiaomi.misettings/.usagestats.UsageCacheService",
+    "com.tencent.mm/.booter.CoreService",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "com.android.systemui/.fsgesture.FsGestureService",
+    "com.qualcomm.qcrilmsgtunnel/.QcrilMsgTunnelService",
+    "com.miui.securitycenter/com.miui.powercenter.provider.PowerSaveService",
+    "com.xiaomi.xmsf/.push.service.HttpService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.android.systemui/.SystemUIService",
+    "com.xiaomi.xmsf/com.xiaomi.push.service.XMPushService",
+    "com.tencent.mm/.service.ProcessService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.sohu.inputmethod.sogou.xiaomi/com.sohu.inputmethod.settings.status.SogouStatusService",
+    "com.miui.guardprovider/.manager.SecurityService",
+    "com.miui.hybrid/org.hapjs.card.support.service.PlatformInstallService",
+    "com.qualcomm.location/.LBSSystemMonitorService",
+    "com.xiaomi.powerchecker/.PowerCheckerService",
+    "com.android.mms/.transaction.NotificationAssistService",
+    "com.android.server.telecom/.components.BluetoothPhoneService",
+    "com.miui.daemon/.performance.SysoptService",
+    "com.xiaomi.xmsf/.push.service.notificationcollection.NotificationListener",
+    "com.xiaomi.joyose/.stepsprovider.StepsService",
+    "com.qti.dpmserviceapp/.DpmServiceApp",
+    "com.android.stk/.StkAppService",
+    "com.miui.analytics/.internal.WakeupService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.miui.powerkeeper/.WakelockManagerService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.miui.hybrid/.statistics.StatsService",
+    "com.qti.qualcomm.datastatusnotification/.DataStatusNotificationService",
+    "com.miui.powerkeeper/.PowerKeeperBackgroundService",
+    "com.xiaomi.joyose/.sysbase.MetokClService",
+    "com.tencent.mm/com.tencent.matrix.lifecycle.supervisor.SupervisorService",
+    "com.android.smspush/.WapPushManager",
+    "com.miui.securitycenter/.service.RemoteService",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "com.android.browser/com.xiaomi.mipush.sdk.MessageHandleService",
+    "com.miui.wmsvc/.WMService",
+    "android/com.android.server.content.SyncJobService",
+    "com.miui.systemAdSolution/.changeSkin.ChangeSkinService",
+    "com.tencent.mm/.ipcinvoker.wx_extension.service.PushProcessIPCService",
+    "com.xiaomi.joyose/.smartop.SmartOpService",
+    "com.miui.powerkeeper/.statemachine.PowerStateMachineService",
+    "com.xiaomi.metoknlp/com.xiaomi.location.metoknlp.MetokLocationService",
+    "com.miui.securitycenter/com.miui.networkassistant.service.FirewallService",
+    "com.miui.daemon/.performance.MiuiPerfService",
+    "com.android.browser/com.xiaomi.mipush.sdk.PushMessageHandler",
+    "com.miui.securitycenter/com.miui.networkassistant.service.tm.TrafficManageService",
+    "com.qualcomm.qti.telephonyservice/.QtiTelephonyService",
+    "com.xiaomi.location.fused/.FusedLocationService",
+    "com.miui.powerkeeper/.NotificationListener",
+    "com.android.bluetooth/.map.BluetoothMapService",
+    "com.android.mms.service/.MmsService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.android.bluetooth/.hid.HidHostService",
+    "se.dirac.acs/.AudioControlService",
+    "com.miui.analytics/.internal.collection.MusicStateListener",
+    "com.miui.player/com.xiaomi.mipush.sdk.MessageHandleService",
+    "com.quzhuan.app/com.ss.android.socialbase.downloader.notification.DownloadNotificationService",
+    "com.lbe.security.miui/com.lbe.security.service.SecurityService",
+    "com.android.bluetooth/.pan.PanService",
+    "com.android.systemui/com.android.keyguard.wallpaper.service.MiuiKeyguardPictorialWallpaper",
+    "com.tencent.soter.soterserver/.SoterService",
+    "com.android.calendar/com.xiaomi.mipush.sdk.MessageHandleService"
+  ],
+  "width": 1080,
+  "height": 2160,
+  "views": [
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          488
+        ],
+        [
+          1080,
+          1608
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1080*1120",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "070804a97e856f524ede4888ce30c54f"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          488
+        ],
+        [
+          1080,
+          1608
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1080*1120",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "e35f950c9245758dec0137b77323f62b"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          488
+        ],
+        [
+          1080,
+          1608
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1080*1120",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content",
+      "view_str": "c8a1e6818a6b9a308fe50eedf3b5b2ee"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 5,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4,
+        6,
+        7,
+        10,
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          488
+        ],
+        [
+          1080,
+          1608
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/lx_dialog_root",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1080*1120",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.quzhuan.app:id/lx_dialog_root[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.quzhuan.app:id/lx_dialog_root",
+      "view_str": "dc48950809d4179e3dda73bdc8fc83ff"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          204,
+          488
+        ],
+        [
+          875,
+          1159
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/lx_header_img",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "671*671",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.quzhuan.app:id/lx_header_img[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.quzhuan.app:id/lx_header_img",
+      "view_str": "dd27bde2f51171cae86911d469693d0b"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          204,
+          964
+        ],
+        [
+          875,
+          1038
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/lx_title",
+      "checked": false,
+      "text": "\u786e\u8ba4\u79bb\u5f00",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "671*74",
+      "signature": "[class]android.widget.TextView[resource_id]com.quzhuan.app:id/lx_title[text]\u786e\u8ba4\u79bb\u5f00[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.quzhuan.app:id/lx_title",
+      "view_str": "46dffb97380924b0f81ae061873ea43f"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          341,
+          1159
+        ],
+        [
+          739,
+          1266
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/lx_text_1",
+      "checked": false,
+      "text": "\u8ddd7.2\u91d1\u5e01\u53ea\u5dee\u4e00\u6b65",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 6,
+      "size": "398*107",
+      "signature": "[class]android.widget.TextView[resource_id]com.quzhuan.app:id/lx_text_1[text]\u8ddd7.2\u91d1\u5e01\u53ea\u5dee\u4e00\u6b65[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.quzhuan.app:id/lx_text_1",
+      "view_str": "1b52cff713b87cdc72fd1284bc1c11e8"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        8,
+        9
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          156,
+          1335
+        ],
+        [
+          923,
+          1495
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/lx_btn_layout",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 7,
+      "size": "767*160",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.quzhuan.app:id/lx_btn_layout[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.quzhuan.app:id/lx_btn_layout",
+      "view_str": "5edc1bf0bb48303c9541995ed9de95ce"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          156,
+          1335
+        ],
+        [
+          505,
+          1467
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/lx_exit",
+      "checked": false,
+      "text": "\u6211\u4e0d\u8981\u4e86",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "349*132",
+      "signature": "[class]android.widget.TextView[resource_id]com.quzhuan.app:id/lx_exit[text]\u6211\u4e0d\u8981\u4e86[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.quzhuan.app:id/lx_exit",
+      "view_str": "81b5885d5397ad4804d32e85049eae0f"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          574,
+          1335
+        ],
+        [
+          923,
+          1467
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/lx_commit",
+      "checked": false,
+      "text": "\u7ee7\u7eed\u8d5a\u5e01",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 9,
+      "size": "349*132",
+      "signature": "[class]android.widget.TextView[resource_id]com.quzhuan.app:id/lx_commit[text]\u7ee7\u7eed\u8d5a\u5e01[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.quzhuan.app:id/lx_commit",
+      "view_str": "1188a07681ed1335d1279895313b9e06"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          160,
+          1495
+        ],
+        [
+          919,
+          1495
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/lx_ad_layout",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 10,
+      "size": "759*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.quzhuan.app:id/lx_ad_layout[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.quzhuan.app:id/lx_ad_layout",
+      "view_str": "c4069d31854eb194aba190f40b1e6121"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          490,
+          1509
+        ],
+        [
+          589,
+          1608
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/lx_close_end",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 11,
+      "size": "99*99",
+      "signature": "[class]android.widget.ImageView[resource_id]com.quzhuan.app:id/lx_close_end[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.quzhuan.app:id/lx_close_end",
+      "view_str": "bbcb69edaa69d63aaddae640caee2e20"
+    }
+  ]
+}

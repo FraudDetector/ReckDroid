@@ -1,0 +1,32 @@
+GET https://mobads-pre-config.cdn.bcebos.com/sdk/reward/eggBG.png HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads-pre-config.cdn.bcebos.com
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: JSP3/2.0.14
+Date: Wed, 17 May 2023 05:10:51 GMT
+Content-Type: image/png
+Content-Length: 4080
+Connection: keep-alive
+Expires: Sat, 20 May 2023 05:09:32 GMT
+Last-Modified: Wed, 18 May 2022 09:39:09 GMT
+ETag: "c123630c564d9daeeca3f2de26d99295"
+Age: 74
+Accept-Ranges: bytes
+Content-MD5: wSNjDFZNna7so/LeJtmSlQ==
+x-bce-content-crc32: 908598127
+x-bce-debug-id: 1r4KZalKDfG7mHHLZhhQDvgdLjTrMgvnpj8sM2zCHAncELCfSAq75EG7gcvRlMGfB1wYMMi4gLGwP1+mRgINBw==
+x-bce-request-id: 12d6df82-f627-4d00-8901-25d86dcb0f7f
+x-bce-storage-class: STANDARD
+Ohc-Global-Saved-Time: Wed, 17 May 2023 05:09:32 GMT
+Ohc-Upstream-Trace: 183.136.195.57
+Ohc-Cache-HIT: nb8ct57 [2], xiangyix95 [2]
+Ohc-Response-Time: 1 0 0 0 0 0
+Ohc-File-Size: 4080
+X-Cache-Status: HIT
+

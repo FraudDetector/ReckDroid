@@ -1,0 +1,39 @@
+GET https://cdn.vedioads.cn/program/20230427/b7fe43aad20d4f1584344b667de193db.png HTTP/1.1
+Host: cdn.vedioads.cn
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://activity.doumobthree.top/static2/7uFiFO/v2/laoyu2/index.html?processId=3802600124d4ddff9c0c57bd2637ce3a&hdgghtmlid=705&appkey=4a65d20f10cceadacf0573779d7cb02c&adSpaceKey=49c0614a1ae0ff3baaebfefd6893852a&from=H5&1=1&t=1684352229857&interactionType=html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/png
+Content-Length: 62287
+Connection: keep-alive
+Date: Wed, 17 May 2023 09:36:45 GMT
+x-oss-request-id: 6464A02D2D1F29353782F68F
+x-oss-cdn-auth: success
+Accept-Ranges: bytes
+ETag: "A70653C57F4C992186AABF48E93AA4F2"
+Last-Modified: Thu, 27 Apr 2023 03:14:00 GMT
+x-oss-object-type: Normal
+x-oss-storage-class: Standard
+Content-MD5: pwZTxX9MmSGGqr9I6Tqk8g==
+x-oss-server-time: 107
+Ali-Swift-Global-Savetime: 1684316205
+Via: cache11.l2cn2647[0,0,304-0,H], cache41.l2cn2647[1,0], vcache25.cn4732[0,0,200-0,H], vcache6.cn4732[3,0]
+x-oss-hash-crc64ecma: 13835401292608200767
+Age: 36040
+X-Cache: HIT TCP_HIT dirn:9:343467966
+X-Swift-SaveTime: Wed, 17 May 2023 11:20:54 GMT
+X-Swift-CacheTime: 80151
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: b465c61a16843522454473702e
+

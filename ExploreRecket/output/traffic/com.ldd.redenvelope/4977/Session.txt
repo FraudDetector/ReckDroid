@@ -1,0 +1,27 @@
+GET https://pgdt.ugdtimg.com/141/20204/snscosdownload/SZ/reserved/6433ac56000373ad27620630caac970b0000008d00004eec?m=7deb5327d0ae36b6446a1c4d8230c098&ck=7deb5327d0ae36b6446a1c4d8230c098&sha256=e942f395827aab03e388c185efb963e6d9111608b9d29387446bca191311b8a8&imageView2/format/webp= HTTP/1.1
+User-Agent: GDTMobSDK4.492.1362-[Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)]
+Host: pgdt.ugdtimg.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 03:15:44 GMT
+Content-Type: image/webp
+Access-Control-Allow-Headers: Origin; No-Cache; X-Requested-With; If-Modified-Since; Pragma; Last-Modified; Cache-Control; Expires; Content-Type; Content-Language; Cache-Control; X-E4M-With
+Access-Control-Allow-Origin: *
+C-Seq: 
+X-Front-Innner-Ip: 11.149.12.188
+X-Verify-Code: 529892f6743a30c61f222cc5baba7c08
+x-ClientIp: 121.51.248.241
+x-videoerrno: 0
+Age: 6701
+Content-Length: 65378
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 11697282085483117543
+Connection: keep-alive
+Server: Lego Server
+X-Cache-Lookup: Cache Hit
+Cache-Control: max-age=31536000
+Timing-Allow-Origin: *
+

@@ -1,0 +1,20 @@
+POST https://tdid.m.qq.com/?mc=2 HTTP/1.1
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Turing
+Accept: */*
+Accept-Charset: utf-8
+Content-Type: application/octet-stream
+Content-length: 280
+Connection: close
+Host: tdid.m.qq.com
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 05:07:22 GMT
+Content-Type: application/octet-stream
+Content-Length: 1104
+Connection: close
+Server: SecureServer
+

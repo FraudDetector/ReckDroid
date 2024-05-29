@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>oneId</title>
+</head>
+<body>
+  <script type="text/javascript">
+    function parseUrl(url) {
+      var searchs = url.split("?")[1]
+      var values = searchs.split("&")
+      var result = {}
+      var vals = undefined
+      for (var i = 0; i < values.length; i++) {
+        vals = values[i].split("=")
+        result[vals[0]] = decodeURIComponent(vals[1])
+      }
+      return result
+    }
+
+    function forEach(obj, fn) {
+      var keys = Object.keys(obj)
+      for (var i = 0; i < keys.length; i++) {
+        fn(i, keys[i], obj[keys[i]])
+      }
+    }
+
+    function stringify(obj) {
+      var result = []
+      forEach(obj, function(i, key, value) {
+        result.push(key + "=" + encodeURIComponent(value))
+      })
+      return result.join("&")
+    }
+
+    function ajax(options) {
+      options.method = options.method || 'get'
+      var config = ajax.config
+      var xhr = new XMLHttpRequest()
+      var data = options.data || {}
+      var qs = stringify(data)
+      var url = config.baseUrl + options.url
+
+      if (options.method === 'get') {
+        url += "?" + qs
+      }
+
+      xhr.open(options.method, url, options.async || true)
+
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          var res = xhr.responseText
+          try {
+            res = JSON.parse(res)
+          } catch (error) {}
+          options.success && options.success(res)
+        }
+      }
+
+      if (options.method === "post") {
+        xhr.setRequestHeader("Content-type", "application/json")
+        xhr.send(JSON.stringify(data))
+        return
+      }
+
+      xhr.send()
+    }
+
+    ajax.config = {
+      baseUrl: ""
+    }
+
+    function storage(key) {
+      return {
+        set: function(value) {
+          try {
+            value = JSON.stringify(value)
+          } catch (error) {}
+          try {
+            localStorage.setItem(key, value)
+          } catch (error) {}
+        },
+        get: function() {
+          var value
+          try {
+            value = localStorage.getItem(key)
+          } catch (error) {}
+          try {
+            value = JSON.parse(value)
+          } catch (error) {}
+          return value
+        }
+      }
+    }
+
+    var cache = storage('_oneid_')
+    var verifyCache = storage('_verifyData_');
+
+    function sendMessage(data) {
+      window.parent.postMessage({
+        type: 'oneId',
+        data
+      }, '*')
+    }
+
+    function onMessage() {
+      window.addEventListener('message', function(e) {
+        console.log('from parent', e)
+      })
+    }
+    function openLogVerify(data) {
+        var img = new Image();
+        img.src =
+          'https://openlog.tuia.cn/openlog/collect' +
+          '/?' +
+          stringify({
+            type: 196,
+            logName: 'innerExt02',
+            json: JSON.stringify({
+              ...data,
+              isIframe:1,
+              ua: navigator.userAgent,
+              domain: document.domain,
+              iframeSetting: 1
+            }),
+          });
+      }
+
+    function saveVerifyData() {
+        var currentData = parseUrl(location.href);
+        currentData.initTime = new Date().getTime();
+        var oldData = verifyCache.get();
+        if (oldData) {
+          openLogVerify(oldData);
+        } else {
+          verifyCache.set(currentData);
+          openLogVerify(currentData);
+        }
+      }
+
+    function main() {
+      onMessage()
+      var userinfo = cache.get() || {}
+      var data = parseUrl(location.href)
+      sendMessage(userinfo)
+      if (!data.deviceId) return
+
+      data.localStorage = userinfo
+
+      if (data.openId) {
+        saveVerifyData();
+      }
+
+      ajax({
+        method: 'post',
+        url: '/idMapping/getOneId',
+        data: data,
+        success: function(res) {
+          if (res.success && res.data) {
+            userinfo.oneId = res.data.oneId
+            userinfo.uuid7 = res.data.uuid7
+            forEach(data, function(i, key, value) {
+              if (key !== 'localStorage') {
+                // 如果以下四个值为空，则不更新
+                if (key === 'openId' || key === 'idfa' || key === 'imei' || key === 'oaid') {
+                  if (!value) {
+                    return;
+                  }
+                }
+                userinfo[key] = value;
+              }
+            })
+            console.log(userinfo)
+            cache.set(userinfo)
+            sendMessage(userinfo)
+          }
+        }
+      })
+    }
+
+    main()
+  </script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "tag": "2023-05-17_130504",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "stop_intent": "am force-stop com.ldd.redenvelope"
+  },
+  "start_state": "97d56983cd634f83de39ed2479fe69b1",
+  "stop_state": "900ec9e0e9269bf6d901e5834abf45f0",
+  "event_str": "KillAppEvent()"
+}

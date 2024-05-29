@@ -1,0 +1,22 @@
+GET https://dm.toutiao.com/get_domains/v4/?abi=arm64-v8a&aid=1371&device_platform=android&channel=openadsdk&version_code=3251&device_id=null HTTP/1.1
+Host: dm.toutiao.com
+User-Agent: VADNetAgent/0
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 400 Bad Request
+Server: Tengine
+Content-Length: 0
+Connection: keep-alive
+Date: Wed, 17 May 2023 19:29:51 GMT
+Upstream-Caught: 1684351791592579
+X-Tt-Logid: 20230518032951AA59B746D7959F7DC7CF
+server-timing: inner; dur=1
+x-tt-trace-tag: id=03;cdn-cache=miss;type=dyn
+server-timing: cdn-cache;desc=MISS,edge;dur=0,origin;dur=110
+x-alicdn-da-ups-status: endOs,0,400
+Via: cache15.cn5486[110,0]
+Timing-Allow-Origin: *
+EagleId: 3ad80fa316843517914985504e
+

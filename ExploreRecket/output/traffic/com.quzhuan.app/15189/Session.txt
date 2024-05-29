@@ -1,0 +1,23 @@
+GET https://toblog.ctobsnssdk.com/service/2/app_alert_check/?aid=164362&tt_info=dGMDDAABPI7VaqDL0DJmMNLSKGxaCTbdTSf0P2SmSSuVEKeswnA-ft-mDkQO95qtmDXQtKvzH_Fk%0AMzSi-dd425cNvxgutfRx8_qP6mPTvj_EUPASUZvuZVGso7t19iw6jb_RoSNTyYFPWYHfFmdYUkmL%0AgrqUsruHTnde5DoV-Bdf90-zV0UtTUFYhPon0nr51jRVxODOjTSx8CWA5j9Rqh4Q92nKj7KcuCsq%0AoYxvNQyOZP-mBVzesiJXdPrrEFSidk0fGMfVDnBZG9eT_10bNxV_PbqEqNcr0-obNRfFlBnt4TmG%0ArkmMTTKUoHWKeBJkAns3SDz5ZluVsuWbE4tmO9pRY-InQo_L8ii47F5ImUGjNZP_3ykoJubOZcO1%0AmuqgDtvqXP7mRotzV_mfoeazBfNxCu--acd9LA3WUe0EjRu1BQF9Y1lfbMHtHSg0KaPQvRb11CzL%0AyIw12G16kllXOAoBRGeDBVIIiCgTj1ry8_V3U_CPnXsUdIU1OwRSbHGeVSTIXctNrm6diNjkP4m9%0A96GqbXPGW3kZ0yh_t7KVRJCbf17wnsNPxIZq0CfQxL2Y0tL8tgMA%0A HTTP/1.1
+Accept-Encoding: gzip
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: toblog.ctobsnssdk.com
+Connection: Keep-Alive
+
+
+HTTP/1.1 200 OK
+Server: dsa-nginx
+Content-Type: application/json
+Content-Length: 21
+Connection: keep-alive
+Date: Wed, 17 May 2023 19:30:29 GMT
+X-Tt-Logid: 20230518033028BAD9343F3BB90AA36C13
+server-timing: inner; dur=7, cdn-cache;desc=MISS, origin;dur=30, edge;dur=0
+x-tt-trace-host: 016196cb5983309e99a6f7defd4b31472f7991962fe3d79b524d41457324435adb194bc34ad0b0d02872a7a6a6bf41556c0b2c9b304a7b3cfcb821c847526a8107079375d33078bfb7ddd227e1b9b58722ac50199d30e3200fe89c1b56675a1e57
+x-tt-trace-tag: id=5
+x-tt-trace-id: 00-2b31457f0301060431c6c8ccb8240000-2b31457f03010604-01
+via: n157-089-160.njmpcu.Creative
+x-request-ip: 153.3.60.85
+x-dsa-trace-id: 16843518283484a01e636c0ed53f66409683ca6f5e
+X-Dsa-Origin-Status: 200
+

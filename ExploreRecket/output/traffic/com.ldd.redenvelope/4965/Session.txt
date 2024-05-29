@@ -1,0 +1,22 @@
+GET https://qzs.gdtimg.com/union/res/union_cdn/page/ams_icon/ams_logo_dark.png HTTP/1.1
+User-Agent: GDTMobSDK4.492.1362-[Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)]
+Host: qzs.gdtimg.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Last-Modified: Sat, 06 May 2023 09:13:44 GMT
+Etag: "a41f2cd1c7fa96f9eaa1764c4194ef3f"
+Content-Type: image/png
+Date: Sun, 14 May 2023 17:13:19 GMT
+Server: tencent-cos
+x-cos-hash-crc64ecma: 14178276105010816982
+x-cos-request-id: NjQ2MTE2YWZfNTA2ZWVjMDlfNjZkY18yZTA0OWZh
+x-cos-version-id: MTg0NDUwNjA3MDkyODUyMjUyMDY
+Content-Length: 4172
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 2199659966369566792
+Connection: keep-alive
+X-Cache-Lookup: Cache Hit
+

@@ -1,0 +1,32 @@
+GET https://activity.doumobthree.top/static2/7uFiFO/v2/vendors~components.bundle.js HTTP/1.1
+Host: activity.doumobthree.top
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: */*
+Referer: https://activity.doumobthree.top/static2/7uFiFO/v2/laoyu2/index.html?processId=3802600124d4ddff9c0c57bd2637ce3a&hdgghtmlid=705&appkey=4a65d20f10cceadacf0573779d7cb02c&adSpaceKey=49c0614a1ae0ff3baaebfefd6893852a&from=H5&1=1&t=1684352229857&interactionType=html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: Hm_lvt_e4048e141266fa1176bc9dd61946328d=1684352231; Hm_lpvt_e4048e141266fa1176bc9dd61946328d=1684352231; Hm_lvt_30664cf450dbb4c875787214ae29c091=1684352231; Hm_lpvt_30664cf450dbb4c875787214ae29c091=1684352231; Hm_lvt_768a2ddee6519a43aec583b603606818=1684352231; Hm_lpvt_768a2ddee6519a43aec583b603606818=1684352231; Hm_lvt_39625844f7eb6e9c0abdc1e66cdfd49e=1684352231; Hm_lpvt_39625844f7eb6e9c0abdc1e66cdfd49e=1684352231; Hm_lvt_40d6ef683b0e65afd43abe9ed2600ae0=1684352231; Hm_lpvt_40d6ef683b0e65afd43abe9ed2600ae0=1684352231; Hm_lvt_e6be7bb07f1615c19e644fb078d68db2=1684352231; Hm_lpvt_e6be7bb07f1615c19e644fb078d68db2=1684352231
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/x-javascript
+Content-Length: 123908
+Connection: keep-alive
+Date: Wed, 17 May 2023 19:37:11 GMT
+Last-Modified: Wed, 21 Dec 2022 10:12:56 GMT
+ETag: "63a2dc28-1e404"
+Vary: Accept-Encoding
+Ali-Swift-Global-Savetime: 1684352231
+Via: cache7.l2cn3037[25,42,200-0,H], cache67.l2cn3037[43,0], ens-vcache18.cn5274[0,0,200-0,H], ens-vcache14.cn5274[1,0]
+Age: 1
+X-Cache: HIT TCP_MEM_HIT dirn:12:196697179
+X-Swift-SaveTime: Wed, 17 May 2023 19:37:11 GMT
+X-Swift-CacheTime: 600
+Timing-Allow-Origin: *
+EagleId: deba11a116843522323764127e
+

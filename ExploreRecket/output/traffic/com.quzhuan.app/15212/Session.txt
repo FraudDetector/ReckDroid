@@ -1,0 +1,18 @@
+POST https://ap.cpatrk.net/u/a/v1/d62ee565 HTTP/1.1
+Host: ap.cpatrk.net
+decrypt-version: v1.0.0
+Content-Type: 
+Content-Length: 2099
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 19:31:01 GMT
+Content-Type: application/octet-stream
+Connection: keep-alive
+Set-Cookie: jcloud_alb_route=f5a7f77c4dc941e5d68c73bf74676c97; Expires=Wed, 17-May-2023 19:36:01 GMT; Path=/
+Server: nginx
+Content-Length: 3
+

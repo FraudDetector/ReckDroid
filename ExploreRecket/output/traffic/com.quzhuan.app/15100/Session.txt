@@ -1,0 +1,27 @@
+POST https://api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk/get_ads/ HTTP/1.1
+Host: api-access.pangolin-sdk-toutiao.com
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36 okhttp/3.9.1
+ss-sign: 007037be86016e36ef3eef5d4ffd95e0e9b746da1c1c5878fe132ed47402efa1f615ac670b97d147b85a9966b8df8143127315546b15d7faaaf3f4fa19e3cc5b63f55ea6bd3e2c03d5b597ea3e765461ef1b041f5ef8869e0d6f196b851d6fb8803f1b009db5e8dc9eef09e9050e7122df39312dbf628a452c795f9d1117ab
+Content-Type: application/json; charset=utf-8
+Content-Length: 2334
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json; charset=utf-8
+Content-Length: 679
+Connection: keep-alive
+Date: Wed, 17 May 2023 19:28:21 GMT
+Vary: Accept-Encoding
+X-Tt-Logid: 202305180328206E3E41B3BD2A06B51A78
+server-timing: inner; dur=70
+x-tt-trace-host: 01afe37bc103f83a414c8e04a34c4075af55307556b64bcd56b261dd3feaba1e7e69c10e5f9774ef760b48393f911a5e3485c863435d1d1868ce112b144fc29f8c4a0f97d40c6cbaf3d9346c61e3e428ed4b09dd311346b244e2ee3013f547f68f
+x-tt-trace-tag: id=03;cdn-cache=miss;type=dyn
+Via: cache4.l2cm12-9[76,0], cache5.cn1105[81,0]
+server-timing: cdn-cache;desc=MISS,edge;dur=5,origin;dur=76
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Timing-Allow-Origin: *
+EagleId: 79c20a4916843517009363935e
+

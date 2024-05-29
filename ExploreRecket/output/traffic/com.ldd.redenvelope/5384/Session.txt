@@ -1,0 +1,31 @@
+GET http://publish-pic-cpu.baidu.com/006f5946-f5a5-4090-bbb3-51531eb257f1.jpeg@w_1920,h_1080 HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: publish-pic-cpu.baidu.com
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: JSP3/2.0.14
+Date: Wed, 17 May 2023 05:11:21 GMT
+Content-Type: image/jpeg
+Content-Length: 290966
+Connection: keep-alive
+Expires: Sat, 06 May 2023 19:10:19 GMT
+Last-Modified: Wed, 03 May 2023 19:08:48 GMT
+Age: 1159196
+Accept-Ranges: bytes
+Content-MD5: VpZluxH4FZj2RVTyZduLwQ==
+x-bce-debug-id: hgqFrrifZtUZyLrsHU9jVGyrCnjJ59/NqirqZ0L57wCkTRxpG/ba2WrONgWGRV33IDzQoj3waY0TvqSrO0+qrA==
+x-bce-image-info: width=1920;height=1080
+x-bce-request-id: 268a5480-0174-42e4-bc0a-55a483147bca
+x-bce-storage-class: STANDARD
+Timing-Allow-Origin: *
+Ohc-Global-Saved-Time: Wed, 03 May 2023 19:10:19 GMT
+Ohc-Cache-HIT: fz5cm61 [2], czix179 [2]
+Ohc-File-Size: 290966
+X-Cache-Status: HIT
+Access-Control-Allow-Origin: *
+

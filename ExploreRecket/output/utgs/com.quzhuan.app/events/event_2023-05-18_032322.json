@@ -1,0 +1,11 @@
+{
+  "tag": "2023-05-18_032322",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.quzhuan.app/com.lezou.app.view.activity.SplashActivity"
+  },
+  "start_state": "900ec9e0e9269bf6d901e5834abf45f0",
+  "stop_state": "318ec510e99c964a480464f93e01abbf",
+  "event_str": "IntentEvent(intent='am start com.quzhuan.app/com.lezou.app.view.activity.SplashActivity')"
+}

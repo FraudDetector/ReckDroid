@@ -1,0 +1,11 @@
+{
+  "tag": "2023-05-18_032414",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am force-stop com.quzhuan.app"
+  },
+  "start_state": "3ba2d86e05ee4c3be59be963ddcf2d39",
+  "stop_state": "820060eaaf8919423d24b9c38ff569df",
+  "event_str": "IntentEvent(intent='am force-stop com.quzhuan.app')"
+}

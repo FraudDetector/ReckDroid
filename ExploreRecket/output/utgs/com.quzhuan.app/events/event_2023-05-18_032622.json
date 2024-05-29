@@ -1,0 +1,53 @@
+{
+  "tag": "2023-05-18_032622",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        69,
+        70,
+        71
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          554,
+          1832
+        ],
+        [
+          1013,
+          1889
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 63,
+      "temp_id": 68,
+      "size": "459*57",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None",
+      "view_str": "a9fa864a02d659f83f49e90eaa6627f3"
+    }
+  },
+  "start_state": "96d99041e8e2333cc75cdb849ad07525",
+  "stop_state": "96d99041e8e2333cc75cdb849ad07525",
+  "event_str": "TouchEvent(state=96d99041e8e2333cc75cdb849ad07525, view=a9fa864a02d659f83f49e90eaa6627f3)"
+}

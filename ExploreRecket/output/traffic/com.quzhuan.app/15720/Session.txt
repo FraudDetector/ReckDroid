@@ -1,0 +1,39 @@
+GET https://sf3-fe-tos.pglstatp-toutiao.com/obj/ad-pattern/renderer/package.json HTTP/1.1
+Host: sf3-fe-tos.pglstatp-toutiao.com
+User-Agent: VADNetAgent/0 okhttp/3.9.1
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json
+Content-Length: 790
+Connection: keep-alive
+Date: Tue, 16 May 2023 09:52:31 GMT
+Vary: Accept-Encoding
+Cache-Control: max-age=604800
+Content-Md5: ryuBFLVUg2T36QSRPpoGMA==
+Etag: W/"af2b8114b5548364f7e904913e9a0630"
+Last-Modified: Tue, 16 May 2023 09:51:18 GMT
+X-Bdcdn-Cache-Status: TCP_HIT
+X-Tos-Request-Id: 1fdd5a63525d54fa6463525d-a811660-a87d432
+X-Tos-Response-Time: Tue, 16 May 2023 09:52:29 GMT
+X-Tos-Storage-Class: STANDARD
+via: n133-099-144, cache63.l2cn1827[0,0,200-0,H], cache65.l2cn1827[0,0], cache65.l2cn1827[2,0], cache6.cn3715[0,0,200-0,H], cache5.cn3715[0,0]
+x-request-ip: fdbd:dc03:15:304::207
+x-tt-trace-tag: id=03;cdn-cache=hit;type=static
+x-response-cinfo: fdbd:dc03:15:304::207
+x-response-cache: edge_hit
+server-timing: cdn-cache;desc=HIT,edge;dur=0
+x-tt-trace-host: 01b72b65c0f9c08e344d0262c4d1fa436f767ca99267d297cc5a288acbc8d5869d6f61ec02f21b6256e62ef977eabb6876451bbfdb62353c1b05ea454fbd73fedec35073b30cc009d1630c5827dfcfa5603450d505d2d68545a0dd139c08f83b9f
+X-TT-LOGID: 20230516175231B9219CDD17D1987CD1FF
+Ali-Swift-Global-Savetime: 1684230751
+Age: 121517
+X-Cache: HIT TCP_MEM_HIT dirn:12:118168115
+X-Swift-SaveTime: Tue, 16 May 2023 09:52:33 GMT
+X-Swift-CacheTime: 604798
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: 7ae4c39916843522686821055e
+

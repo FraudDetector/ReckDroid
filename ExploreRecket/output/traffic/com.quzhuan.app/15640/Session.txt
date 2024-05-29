@@ -1,0 +1,39 @@
+GET https://cdn.vedioads.cn/hdggstatic/hdgg_close.png HTTP/1.1
+Host: cdn.vedioads.cn
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://activity.doumobthree.top/static2/7uFiFO/v2/0.hdgg.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/octet-stream
+Content-Length: 1604
+Connection: keep-alive
+Date: Tue, 16 May 2023 21:30:27 GMT
+x-oss-request-id: 6463F5F301662037378E5E40
+x-oss-cdn-auth: success
+Accept-Ranges: bytes
+ETag: "11F0F9194B77BA508422D8F17FE741BC"
+Last-Modified: Fri, 12 Jan 2018 03:52:18 GMT
+x-oss-object-type: Normal
+x-oss-storage-class: Standard
+Content-MD5: EfD5GUt3ulCEItjxf+dBvA==
+x-oss-server-time: 110
+Ali-Swift-Global-Savetime: 1684272627
+Via: cache76.l2cn2647[0,0,304-0,H], cache62.l2cn2647[1,0], vcache22.cn4732[0,0,200-0,H], vcache7.cn4732[1,0]
+x-oss-hash-crc64ecma: 13003327677621696853
+Age: 79606
+X-Cache: HIT TCP_MEM_HIT dirn:8:273191163
+X-Swift-SaveTime: Wed, 17 May 2023 01:24:14 GMT
+X-Swift-CacheTime: 72373
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: b465c61b16843522330186418e
+

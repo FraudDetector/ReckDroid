@@ -1,0 +1,11 @@
+CONNECT 1dc3718f9bcafcf9.jomoxc.com:9187 HTTP/1.1
+Host: 1dc3718f9bcafcf9.jomoxc.com:9187
+Connection: Keep-Alive
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+
+
+HTTP/1.1 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 13:10:51.177
+Connection: close
+

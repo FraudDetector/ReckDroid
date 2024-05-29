@@ -1,0 +1,12 @@
+POST http://pingma.qq.com:80/mstat/report/?index=1684351440 HTTP/1.1
+Accept-Encoding: gzip
+Connection: Keep-Alive
+Content-Length: 238
+Host: pingma.qq.com:80
+Content-Encoding: rc4
+
+
+HTTP/1.0 404 Not Found
+Connection: Keep-Alive
+Content-Length: 34
+

@@ -1,0 +1,1 @@
+{"server_time":1684300043,"magic_tag":"ss_app_log","config":{"bav_log_collect":false,"bav_ab_config":false,"bav_monitor_rate":0,"batch_event_interval":60,"http_monitor_port":1024,"real_time_events":["realtime_click","realtime_report"],"send_launch_timely":1,"session_interval":30}}

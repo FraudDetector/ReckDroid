@@ -1,0 +1,39 @@
+GET https://cdn.vedioads.cn/hdggstatic/yaoshaizi7/jiang.png HTTP/1.1
+Host: cdn.vedioads.cn
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://activity.doumobthree.top/static2/7uFiFO/v2/0.hdgg.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/png
+Content-Length: 3896
+Connection: keep-alive
+Date: Wed, 17 May 2023 11:11:08 GMT
+x-oss-request-id: 6464B64C445333303632D3B9
+x-oss-cdn-auth: success
+Accept-Ranges: bytes
+ETag: "8D5B8FDACE6B737FEBD4FEB082E03D63"
+Last-Modified: Mon, 08 Oct 2018 08:48:44 GMT
+x-oss-object-type: Normal
+x-oss-storage-class: Standard
+Content-MD5: jVuP2s5rc3/r1P6wguA9Yw==
+x-oss-server-time: 81
+Ali-Swift-Global-Savetime: 1684321868
+Via: cache4.l2cn2647[0,0,304-0,H], cache60.l2cn2647[1,0], vcache8.cn4732[0,0,200-0,H], vcache10.cn4732[3,0]
+x-oss-hash-crc64ecma: 4093320375870165990
+Age: 30364
+X-Cache: HIT TCP_MEM_HIT dirn:9:404473860
+X-Swift-SaveTime: Wed, 17 May 2023 11:30:33 GMT
+X-Swift-CacheTime: 85235
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: b465c61e16843522326106436e
+

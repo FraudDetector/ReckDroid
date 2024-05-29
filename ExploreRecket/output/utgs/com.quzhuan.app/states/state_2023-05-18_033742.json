@@ -1,0 +1,2268 @@
+{
+  "tag": "2023-05-18_033742",
+  "state_str": "0408f3ff7ff23c39036878d9eb8ce7ad",
+  "state_str_content_free": "008fd27b4149ba2e4c323f94150fb35d",
+  "foreground_activity": "com.quzhuan.app/com.admvvm.frame.base.webkit.BaseWebActivity",
+  "activity_stack": [
+    "com.quzhuan.app/com.admvvm.frame.base.webkit.BaseWebActivity",
+    "com.quzhuan.app/com.lezou.app.view.activity.MainActivity"
+  ],
+  "background_services": [
+    "com.miui.player/com.xiaomi.mipush.sdk.PushMessageHandler",
+    "com.android.calendar/com.xiaomi.mipush.sdk.PushMessageHandler",
+    "org.codeaurora.ims/.ImsService",
+    "com.tencent.mm/.plugin.webview.stub.WebViewStubService",
+    "com.xiaomi.mi_connect_service/.MiConnectService",
+    "com.qualcomm.qti.uceShimService/.RCSService",
+    "android.ext.services/.notification.Assistant",
+    "com.qualcomm.location/.LocationService",
+    "com.miui.powerkeeper/.feedbackcontrol.FeedbackControlService",
+    "com.quzhuan.app/org.chromium.content.app.SandboxedProcessService0",
+    "com.miui.analytics/.AppenderService",
+    "com.tencent.mm/.ipcinvoker.wx_extension.service.MainProcessIPCService",
+    "com.miui.analytics/.onetrack.OneTrackService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.qualcomm.location/.izat.IzatService",
+    "com.qualcomm.qti.smcinvokepkgmgr/.SmcInvokeService",
+    "com.miui.notification/miui.notification.service.NotificationListener",
+    "com.android.systemui/.ImageWallpaper",
+    "com.miui.securitycenter/com.miui.antivirus.service.GuardService",
+    "com.quzhuan.app/com.qq.e.comm.DownloadService",
+    "com.miui.powerkeeper/.powerchecker.PowerCheckerService",
+    "com.miui.securitycenter/com.miui.gamebooster.service.NotificationListener",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.xiaomi.metoknlp/com.xiaomi.location.metoknlp.MetokGeocodeService",
+    "com.miui.systemAdSolution/.splashscreen.SplashScreenService",
+    "com.android.camera/.EmptyService",
+    "com.longcheer.autoregistration/.RegistrationService",
+    "com.miui.securitycenter/com.miui.networkassistant.vpn.miui.MiuiVpnManageService",
+    "com.miui.analytics/.AnalyticsService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.android.bluetooth/.pbap.BluetoothPbapService",
+    "com.xiaomi.misettings/.usagestats.UsageCacheService",
+    "com.tencent.mm/.booter.CoreService",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "com.android.systemui/.fsgesture.FsGestureService",
+    "com.qualcomm.qcrilmsgtunnel/.QcrilMsgTunnelService",
+    "com.miui.securitycenter/com.miui.powercenter.provider.PowerSaveService",
+    "com.xiaomi.xmsf/.push.service.HttpService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.android.systemui/.SystemUIService",
+    "com.xiaomi.xmsf/com.xiaomi.push.service.XMPushService",
+    "com.tencent.mm/.service.ProcessService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.sohu.inputmethod.sogou.xiaomi/com.sohu.inputmethod.settings.status.SogouStatusService",
+    "com.miui.guardprovider/.manager.SecurityService",
+    "com.miui.hybrid/org.hapjs.card.support.service.PlatformInstallService",
+    "com.qualcomm.location/.LBSSystemMonitorService",
+    "com.xiaomi.powerchecker/.PowerCheckerService",
+    "com.android.mms/.transaction.NotificationAssistService",
+    "com.android.server.telecom/.components.BluetoothPhoneService",
+    "com.miui.daemon/.performance.SysoptService",
+    "com.xiaomi.xmsf/.push.service.notificationcollection.NotificationListener",
+    "com.xiaomi.joyose/.stepsprovider.StepsService",
+    "com.qti.dpmserviceapp/.DpmServiceApp",
+    "com.android.stk/.StkAppService",
+    "com.miui.analytics/.internal.WakeupService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.miui.powerkeeper/.WakelockManagerService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.miui.hybrid/.statistics.StatsService",
+    "com.qti.qualcomm.datastatusnotification/.DataStatusNotificationService",
+    "com.miui.powerkeeper/.PowerKeeperBackgroundService",
+    "com.xiaomi.joyose/.sysbase.MetokClService",
+    "com.tencent.mm/com.tencent.matrix.lifecycle.supervisor.SupervisorService",
+    "com.android.smspush/.WapPushManager",
+    "com.miui.securitycenter/.service.RemoteService",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "com.android.browser/com.xiaomi.mipush.sdk.MessageHandleService",
+    "com.miui.wmsvc/.WMService",
+    "android/com.android.server.content.SyncJobService",
+    "com.miui.systemAdSolution/.changeSkin.ChangeSkinService",
+    "com.tencent.mm/.ipcinvoker.wx_extension.service.PushProcessIPCService",
+    "com.xiaomi.joyose/.smartop.SmartOpService",
+    "com.miui.powerkeeper/.statemachine.PowerStateMachineService",
+    "com.xiaomi.metoknlp/com.xiaomi.location.metoknlp.MetokLocationService",
+    "com.miui.securitycenter/com.miui.networkassistant.service.FirewallService",
+    "com.miui.daemon/.performance.MiuiPerfService",
+    "com.android.browser/com.xiaomi.mipush.sdk.PushMessageHandler",
+    "com.miui.securitycenter/com.miui.networkassistant.service.tm.TrafficManageService",
+    "com.qualcomm.qti.telephonyservice/.QtiTelephonyService",
+    "com.xiaomi.location.fused/.FusedLocationService",
+    "com.miui.powerkeeper/.NotificationListener",
+    "com.android.bluetooth/.map.BluetoothMapService",
+    "com.android.mms.service/.MmsService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.android.bluetooth/.hid.HidHostService",
+    "se.dirac.acs/.AudioControlService",
+    "com.miui.analytics/.internal.collection.MusicStateListener",
+    "com.miui.player/com.xiaomi.mipush.sdk.MessageHandleService",
+    "com.quzhuan.app/com.ss.android.socialbase.downloader.notification.DownloadNotificationService",
+    "com.lbe.security.miui/com.lbe.security.service.SecurityService",
+    "com.android.bluetooth/.pan.PanService",
+    "com.android.systemui/com.android.keyguard.wallpaper.service.MiuiKeyguardPictorialWallpaper",
+    "com.tencent.soter.soterserver/.SoterService",
+    "com.android.calendar/com.xiaomi.mipush.sdk.MessageHandleService"
+  ],
+  "width": 1080,
+  "height": 2160,
+  "views": [
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1,
+        54,
+        55
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2160
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1080*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "3584c2f416ab59e3769327420638032a"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1080*2030",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None",
+      "view_str": "0672006a9546ec61dd115ed28bfaa6ae"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          66
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1080*1964",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "430fe6bd549fa38cb4c9952f94ffa978"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          66
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/action_bar_root",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1080*1964",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.quzhuan.app:id/action_bar_root[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.quzhuan.app:id/action_bar_root",
+      "view_str": "cd9bce539ed08cc9ba65653c6ef058cb"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          66
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1080*1964",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content",
+      "view_str": "6976f4d35f9bbeb7b0e6ed2340ddbdef"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6,
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          66
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1080*1964",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None",
+      "view_str": "ac4f533d00ccd5e1f31c2345e8ff472e"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        7,
+        8,
+        9
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          66
+        ],
+        [
+          1080,
+          187
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/base_webkit_toolbar",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "1080*121",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.quzhuan.app:id/base_webkit_toolbar[text]None[enabled,,]",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.quzhuan.app:id/base_webkit_toolbar",
+      "view_str": "9625f84eb107f0f307b33e94ac86cc7c"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u8f6c\u5230\u4e0a\u4e00\u5c42\u7ea7",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          66
+        ],
+        [
+          154,
+          187
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 7,
+      "size": "154*121",
+      "signature": "[class]android.widget.ImageButton[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]None",
+      "view_str": "2ff1e6732f475bc66785839256561767"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          440,
+          93
+        ],
+        [
+          640,
+          160
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u9650\u65f6\u798f\u5229",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 8,
+      "size": "200*67",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u9650\u65f6\u798f\u5229[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+      "view_str": "1244f67a5b1399ed6200a505e8240d37"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        10
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          948,
+          66
+        ],
+        [
+          1080,
+          187
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "androidx.appcompat.widget.LinearLayoutCompat",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 9,
+      "size": "132*121",
+      "signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None",
+      "view_str": "4aa12a5fb5f08c152f560bfd7ce2b56b"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u5173\u95ed",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          948,
+          66
+        ],
+        [
+          1080,
+          187
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/base_web_close",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "132*121",
+      "signature": "[class]android.widget.TextView[resource_id]com.quzhuan.app:id/base_web_close[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.quzhuan.app:id/base_web_close",
+      "view_str": "f830ed5208909845a1ce623eef299a29"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          187
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/base_webkit_content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 11,
+      "size": "1080*1843",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.quzhuan.app:id/base_webkit_content[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.quzhuan.app:id/base_webkit_content",
+      "view_str": "f456cedd40dc2db11252fa118e22bf15"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        13
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          187
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": "com.quzhuan.app:id/base_webkit_webview",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "1080*1843",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.quzhuan.app:id/base_webkit_webview[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.quzhuan.app:id/base_webkit_webview",
+      "view_str": "bef210634b88e0affed1d01da79c648d"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        14
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          187
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.webkit.WebView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "1080*1843",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None",
+      "view_str": "0c55b5392cc029e38163cc025472f6ec"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        15
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          187
+        ],
+        [
+          1083,
+          2030
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u73b0\u91d1\u7ea2\u5305\u9001\u7ed9\u4f60",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 14,
+      "size": "1083*1843",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]\u73b0\u91d1\u7ea2\u5305\u9001\u7ed9\u4f60[enabled,,]",
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None",
+      "view_str": "7d20f571decd532e3c721e4d71a4125b"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        16,
+        43,
+        45,
+        46
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          187
+        ],
+        [
+          1083,
+          2030
+        ]
+      ],
+      "resource_id": "db-content",
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "1083*1843",
+      "signature": "[class]android.view.View[resource_id]db-content[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]db-content",
+      "view_str": "de61870cd01108edd0e847d474b946f3"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        17,
+        18,
+        19,
+        23
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          187
+        ],
+        [
+          1083,
+          2030
+        ]
+      ],
+      "resource_id": "contant",
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 16,
+      "size": "1083*1843",
+      "signature": "[class]android.view.View[resource_id]contant[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]contant",
+      "view_str": "99c71a5f10221931dd5013067bada05d"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          27,
+          214
+        ],
+        [
+          203,
+          280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 17,
+      "size": "176*66",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "03fcec1fd75f1cf14dfee049c3285540"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          891,
+          214
+        ],
+        [
+          1045,
+          404
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 18,
+      "size": "154*190",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "03fcec1fd75f1cf14dfee049c3285540"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        20,
+        21,
+        22
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          588,
+          522
+        ],
+        [
+          827,
+          569
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 19,
+      "size": "239*47",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "45ee74c24ba72223ea43e1d3a97e82a7"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          588,
+          522
+        ],
+        [
+          770,
+          569
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u4eca\u65e5\u5269\u4f59\uff1a",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 20,
+      "size": "182*47",
+      "signature": "[class]android.view.View[resource_id]None[text]\u4eca\u65e5\u5269\u4f59\uff1a[enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "814959b7ad1caef3fb35dc4406c7e263"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          764,
+          522
+        ],
+        [
+          789,
+          569
+        ]
+      ],
+      "resource_id": "countZa",
+      "checked": false,
+      "text": "8",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 21,
+      "size": "25*47",
+      "signature": "[class]android.view.View[resource_id]countZa[text]8[enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]countZa",
+      "view_str": "2b9e878f3f377b7b2ce4e0ac69770124"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          786,
+          522
+        ],
+        [
+          827,
+          569
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u6b21",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 22,
+      "size": "41*47",
+      "signature": "[class]android.view.View[resource_id]None[text]\u6b21[enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "5cb848387203e9fc07f0ad14b55f29fc"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        24,
+        30,
+        41,
+        42
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          530
+        ],
+        [
+          1083,
+          1771
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 23,
+      "size": "1083*1241",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "616d25d380ed3e736ba254395b504545"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        25,
+        28,
+        29
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          530
+        ],
+        [
+          1083,
+          1111
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 24,
+      "size": "1083*581",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "d63b1b9692db3326c1b3bc8a1522748f"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        26,
+        27
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          99,
+          456
+        ],
+        [
+          904,
+          899
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 25,
+      "size": "805*443",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "fdd0a908a21b697078fb426dba238b53"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          99,
+          456
+        ],
+        [
+          750,
+          874
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 26,
+      "size": "651*418",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "919d38d0d6d143d36596caa00c2f6c76"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          728,
+          704
+        ],
+        [
+          904,
+          899
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 27,
+      "size": "176*195",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "919d38d0d6d143d36596caa00c2f6c76"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          46,
+          346
+        ],
+        [
+          385,
+          657
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 28,
+      "size": "339*311",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "ae683fe79808cc7d12a4314242f60814"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          530
+        ],
+        [
+          1083,
+          530
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 29,
+      "size": "1083*0",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "ae683fe79808cc7d12a4314242f60814"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        31
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          761
+        ],
+        [
+          1083,
+          1457
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 30,
+      "size": "1083*696",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "e59e344ecdde16597676e8f9f24d95a4"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        32
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          761
+        ],
+        [
+          1083,
+          1457
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 30,
+      "temp_id": 31,
+      "size": "1083*696",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "a084a6977bce1a4d9927d6a087d7bdf7"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        33,
+        35,
+        37,
+        39
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          761
+        ],
+        [
+          1083,
+          1457
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 32,
+      "size": "1083*696",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "91729c55540539dd236e9f4a8e2358f6"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        34
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          888,
+          1025
+        ],
+        [
+          1078,
+          1218
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 33,
+      "size": "190*193",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "8baa793faf936048652a22c5a6127ecc"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          888,
+          1028
+        ],
+        [
+          1078,
+          1218
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "bao",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 34,
+      "size": "190*190",
+      "signature": "[class]android.widget.Image[resource_id]None[text]bao[enabled,,]",
+      "content_free_signature": "[class]android.widget.Image[resource_id]None",
+      "view_str": "fd7977733eb5f363f3e41c030b5b7a79"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        36
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          610,
+          1025
+        ],
+        [
+          803,
+          1218
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 35,
+      "size": "193*193",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "235ddebf212ffb244ddb889af78e7142"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          610,
+          1023
+        ],
+        [
+          803,
+          1212
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "bao",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 35,
+      "temp_id": 36,
+      "size": "193*189",
+      "signature": "[class]android.widget.Image[resource_id]None[text]bao[enabled,,]",
+      "content_free_signature": "[class]android.widget.Image[resource_id]None",
+      "view_str": "60b6155ee77790c0e891f67c1d0c2f4a"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        38
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          335,
+          1025
+        ],
+        [
+          528,
+          1218
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 37,
+      "size": "193*193",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "efeccfc63378bc3d4746a8fe9c6125bc"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          335,
+          1028
+        ],
+        [
+          528,
+          1221
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "bao",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 38,
+      "size": "193*193",
+      "signature": "[class]android.widget.Image[resource_id]None[text]bao[enabled,,]",
+      "content_free_signature": "[class]android.widget.Image[resource_id]None",
+      "view_str": "024bd85187e632dfb87521c5a3423a7d"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        40
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          60,
+          951
+        ],
+        [
+          253,
+          1141
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 39,
+      "size": "193*190",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "9120031206699e3c267e864d078a3d6d"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          60,
+          951
+        ],
+        [
+          253,
+          1141
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "bi",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 39,
+      "temp_id": 40,
+      "size": "193*190",
+      "signature": "[class]android.widget.Image[resource_id]None[text]bi[enabled,,]",
+      "content_free_signature": "[class]android.widget.Image[resource_id]None",
+      "view_str": "67a8bb05b2b3517c7aaa31129d7643de"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          225,
+          1369
+        ],
+        [
+          855,
+          1771
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 41,
+      "size": "630*402",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "68bc9e676ffc5b10a85106c160d31ed6"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          624,
+          1606
+        ],
+        [
+          1083,
+          2030
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 42,
+      "size": "459*424",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "68bc9e676ffc5b10a85106c160d31ed6"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        44
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1003,
+          1985
+        ],
+        [
+          1083,
+          2026
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 43,
+      "size": "80*41",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "81bf94488a746cc3a00328468ecc6703"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1017,
+          1991
+        ],
+        [
+          1067,
+          2021
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u5e7f\u544a",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 44,
+      "size": "50*30",
+      "signature": "[class]android.view.View[resource_id]None[text]\u5e7f\u544a[enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "96593edb40fc7d675e48b6c4f5f5de60"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          451
+        ],
+        [
+          291,
+          742
+        ]
+      ],
+      "resource_id": "hdgg-left-float-image",
+      "checked": false,
+      "text": "",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 45,
+      "size": "291*291",
+      "signature": "[class]android.widget.Image[resource_id]hdgg-left-float-image[text][enabled,,]",
+      "content_free_signature": "[class]android.widget.Image[resource_id]hdgg-left-float-image",
+      "view_str": "4dcfe2a62d3a4af521518b46b583bedf"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        47,
+        48
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          187
+        ],
+        [
+          1083,
+          2030
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 46,
+      "size": "1083*1843",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "eb68908106be640b537ff6bad81939fc"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          187
+        ],
+        [
+          1083,
+          1551
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 46,
+      "temp_id": 47,
+      "size": "1083*1364",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "4ea1769a8e7ea43c617c5c0cc308701c"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        49
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          321,
+          805
+        ],
+        [
+          759,
+          1413
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 46,
+      "temp_id": 48,
+      "size": "438*608",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "1a465a2025586069c109dfc906980ef6"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        50,
+        51,
+        52,
+        53
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          52,
+          1138
+        ],
+        [
+          1028,
+          1201
+        ]
+      ],
+      "resource_id": "materialBox2",
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 48,
+      "temp_id": 49,
+      "size": "976*63",
+      "signature": "[class]android.view.View[resource_id]materialBox2[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]materialBox2",
+      "view_str": "9ee3c71dcbeb3240162661df9e47e727"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          321,
+          1135
+        ],
+        [
+          462,
+          1317
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 49,
+      "temp_id": 50,
+      "size": "141*182",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "256befb64c0621ab5f0f11aff6ab7d78"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          467,
+          1135
+        ],
+        [
+          610,
+          1317
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 49,
+      "temp_id": 51,
+      "size": "143*182",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "256befb64c0621ab5f0f11aff6ab7d78"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          616,
+          1135
+        ],
+        [
+          756,
+          1317
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 49,
+      "temp_id": 52,
+      "size": "140*182",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "256befb64c0621ab5f0f11aff6ab7d78"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          495,
+          1658
+        ],
+        [
+          585,
+          1749
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 49,
+      "temp_id": 53,
+      "size": "90*91",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "view_str": "256befb64c0621ab5f0f11aff6ab7d78"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          66
+        ]
+      ],
+      "resource_id": "android:id/statusBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 54,
+      "size": "1080*66",
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground",
+      "view_str": "f68b09c44d176fee36ef9dd2f3c32a4b"
+    },
+    {
+      "package": "com.quzhuan.app",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2030
+        ],
+        [
+          1080,
+          2160
+        ]
+      ],
+      "resource_id": "android:id/navigationBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 55,
+      "size": "1080*130",
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground",
+      "view_str": "4fc24e70b61c412da983b4c8441882f7"
+    }
+  ]
+}

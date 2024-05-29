@@ -1,0 +1,43 @@
+GET https://sf3-fe-tos.pglstatp-toutiao.com/obj/ad-pattern/renderer/abb474/index.html HTTP/1.1
+Host: sf3-fe-tos.pglstatp-toutiao.com
+User-Agent: VADNetAgent/0 okhttp/3.9.1
+Accept-Encoding: identity
+Range: bytes=0-
+Connection: Keep-Alive
+
+
+HTTP/1.1 206 Partial Content
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+Content-Length: 146386
+Connection: keep-alive
+Date: Tue, 16 May 2023 02:33:51 GMT
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Cache-Control: max-age=604800
+Content-Md5: 2WT6CiLe0dhbRIHHjBHquQ==
+Etag: "d964fa0a22ded1d85b4481c78c11eab9"
+Last-Modified: Tue, 16 May 2023 02:32:45 GMT
+X-Bdcdn-Cache-Status: TCP_HIT
+X-Kfc-Cachekey: http://pinner-imgserver.byted.org/ad-pattern/renderer/abb474/index.html
+X-Tos-Request-Id: 500a0a62eb4e0ef46462eb4e-a95790e-a181895
+X-Tos-Response-Time: Tue, 16 May 2023 02:32:46 GMT
+X-Tos-Storage-Class: STANDARD
+via: n159-176-031, cache30.l2cn3069[0,0,200-0,H], cache68.l2cn3069[0,0], cache68.l2cn3069[2,0], ens-vcache15.cn5283[0,0,206-0,H], ens-vcache22.cn5283[1,0]
+x-request-ip: fdbd:dc02:19:228::206
+x-tt-trace-tag: id=03;cdn-cache=hit;type=static
+x-response-cinfo: fdbd:dc02:19:228::206
+x-response-cache: edge_hit
+server-timing: cdn-cache;desc=HIT,edge;dur=1
+x-tt-trace-host: 015f78c14b50e2fea7bc2d0ef9123b4b7f773c0dcc991e4e261b4385c4e901406d16b39ef9d6b683a40093b557024f2fcfc528579b30ad5b8953f4b7e0bc0528dbdfcc49d91207820668cf0d48221a808c6ce87ef44950e093ab421e309e1c8f99
+X-TT-LOGID: 202305161033516D33478782F2795C576F
+Ali-Swift-Global-Savetime: 1684204431
+Age: 146995
+X-Cache: HIT TCP_MEM_HIT dirn:9:284080144
+X-Swift-SaveTime: Tue, 16 May 2023 02:36:04 GMT
+X-Swift-CacheTime: 604667
+Content-Range: bytes 0-146385/146386
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: 968bf32a16843514262924107e
+

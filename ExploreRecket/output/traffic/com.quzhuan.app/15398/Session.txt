@@ -1,0 +1,50 @@
+GET https://activity.tuifish.com/activity/index?id=34739&slotId=309386&login=normal&appKey=Gm4nRKHbkyQr5iLyWYbgHM1tkCb&deviceId=766ecaf5-ad17-4ed6-b054-6ded6c4c1b7f&dsm=1.309386.0.0&dsm2=1.309386.2.34739&tenter=SOW&subActivityWay=48&tck_rid_6c8=0a379fc1lhr53324-1008189&tck_loc_c5d=tactivity-34739&dcm=401.309386.0.0&netType=2&tenter=SOW&visType=0&specialType=0&sourcePage=34739&deviceIdType=2&formUserId=null&isTestActivityType=0&algoType=42&userType=1&ep=KLAVobjCxF_pjCpasaq57iehY4L5PdrDxs3-HWzrEXoTUj3sQrkGFt-DDuOpAu1BKsoEu0PfxBx_1-tC6Kovaw==&iframe=1&openStyleType=2136&sign=5D09155564BDE90333F0D93DD4499405 HTTP/1.1
+Host: activity.tuifish.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+Set-Cookie: _coll_rid=0a379fc1lhr53324-1008189; Path=/
+Set-Cookie: _coll_loc=tactivity-34739; Path=/
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Set-Cookie: _sourceId=; Max-Age=86400; Expires=Thu, 18-May-2023 19:36:09 GMT; Path=/
+Set-Cookie: _sourceType=; Max-Age=86400; Expires=Thu, 18-May-2023 19:36:09 GMT; Path=/
+Set-Cookie: _act_dm=QGxot8xTz44q4Zo8mivx69TzpTizCp9iY6kEK2RayWrijp5888GD5wYDKuyyfdgjNdS; Max-Age=86400; Expires=Thu, 18-May-2023 19:36:09 GMT; Path=/
+Set-Cookie: _act_dm=QGxot8xTz44q4Zo8mivx69TzpTizCp9iY6kEK2RayWrijp5888GD5wYDKuyyfdgjNdS; Max-Age=86400; Expires=Thu, 18-May-2023 19:36:09 GMT; Domain=tuifish.com; Path=/
+Set-Cookie: appKey=Gm4nRKHbkyQr5iLyWYbgHM1tkCb; Max-Age=86400; Expires=Thu, 18-May-2023 19:36:09 GMT; Path=/
+Set-Cookie: tuiawdata3=BDijhz7sDStPAyxopbv6tkp7iBYcTrghU7GA6x4akDcx5XWoUarVqXdDDecHEfs7ks4EqE3CEMYvuMddMdva3Q6hwB6D1SFV1SNS6sWuP77sKPZkiTMPuFKQynfXBm2RxWrfWVjScjMLT8TzfopTtMUnp9d3szyqjPPmEhtNBukG7ji5Jiy72bX8fvc7v2dzGJrxCgRSuGoPFqf742htBXHVjRyy2cSZLNxBAThsSCDVQy; Max-Age=315360000; Expires=Sat, 14-May-2033 19:36:09 GMT; Path=/
+Set-Cookie: _ac=eyJhaWQiOjYxODk0LCJjaWQiOjM2Mzk2MDcwNzM0fQ==; Max-Age=315360000; Expires=Sat, 14-May-2033 19:36:09 GMT; Path=/
+Set-Cookie: tokenId=307df515379e7c5711f8e8a2bf6207d6; Max-Age=315360000; Expires=Sat, 14-May-2033 19:36:09 GMT; Path=/
+Set-Cookie: _coll_61894_slot=309386; Max-Age=86400; Expires=Thu, 18-May-2023 19:36:09 GMT; Path=/
+Set-Cookie: _coll_slot=309386; Max-Age=86400; Expires=Thu, 18-May-2023 19:36:09 GMT; Path=/
+Set-Cookie: _coll_device=766ecaf5-ad17-4ed6-b054-6ded6c4c1b7f; Max-Age=86400; Expires=Thu, 18-May-2023 19:36:09 GMT; Path=/
+Set-Cookie: deviceIdType=2; Max-Age=86400; Expires=Thu, 18-May-2023 19:36:09 GMT; Path=/
+Set-Cookie: Ret=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: Location=1.34739; Max-Age=86400; Expires=Thu, 18-May-2023 19:36:09 GMT; Path=/
+Content-Security-Policy: connect-src *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST,GET
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Origin,x-requested-with,Content-Type,Accept,Authorization
+Access-Control-Allow-Credentials: true
+Set-Cookie: _random_str766ecaf5-ad17-4ed6-b054-6ded6c4c1b7f=01e5a30dde9bd643e763431f9b0fbeb0; Max-Age=315360000; Expires=Sat, 14-May-2033 19:36:09 GMT; Path=/
+Set-Cookie: _random_str766ecaf5-ad17-4ed6-b054-6ded6c4c1b7f=01e5a30dde9bd643e763431f9b0fbeb0; Max-Age=315360000; Expires=Sat, 14-May-2033 19:36:09 GMT; Domain=tuifish.com; Path=/
+Content-Language: zh-CN
+Date: Wed, 17 May 2023 19:36:09 GMT
+Server: Archer
+x-service-id: TUIA-ACTIVITY-WEB
+x-profile: prodvpc
+Content-Length: 26990
+

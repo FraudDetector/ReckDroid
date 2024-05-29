@@ -1,0 +1,16 @@
+POST http://sdk.e.qq.com/activate HTTP/1.1
+User-Agent: GDTADNetClient-[Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)]
+Content-Type: application/x-www-form-urlencoded
+Host: sdk.e.qq.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Content-Length: 324
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 19:28:21 GMT
+Content-Type: application/json; charset=utf-8
+Connection: keep-alive
+X-Trace-Id: c18546a2-617f-445d-9adc-fecd2db6062c
+Content-Length: 3732
+

@@ -1,0 +1,37 @@
+GET https://api.clotfun.online/tiger/getDeviceId HTTP/1.1
+Host: api.clotfun.online
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: application/json, text/plain, */*
+Origin: https://activity.doumobthree.top
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Referer: https://activity.doumobthree.top/static2/7uFiFO/v2/laoyu2/index.html?processId=3802600124d4ddff9c0c57bd2637ce3a&hdgghtmlid=705&appkey=4a65d20f10cceadacf0573779d7cb02c&adSpaceKey=49c0614a1ae0ff3baaebfefd6893852a&from=H5&1=1&t=1684352229857&interactionType=html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json;charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Date: Wed, 17 May 2023 19:37:10 GMT
+Cache-Control: private
+Expires: Thu, 01 Jan 1970 08:00:00 GMT+08:00
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, If-Modified-Since
+Access-Control-Allow-Credentials: true
+X-Application-Context: hdgg:k8sprd:10443
+X-Kong-Upstream-Latency: 13
+X-Kong-Proxy-Latency: 0
+Via: kong/1.0.2, cache42.l2nu20-1[130,130,200-0,M], cache24.l2nu20-1[132,0], cache10.cn1105[250,250,200-0,M], cache1.cn1105[253,0]
+Ali-Swift-Global-Savetime: 1684352230
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Wed, 17 May 2023 19:37:10 GMT
+X-Swift-CacheTime: 0
+Timing-Allow-Origin: *
+EagleId: 79c20a4516843522306141220e
+Content-Length: 65
+

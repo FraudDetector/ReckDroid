@@ -1,0 +1,24 @@
+POST https://qzs.gdtimg.com/union/res/union_cdn/page/temp_v2/tempMob.package.json HTTP/1.1
+User-Agent: GDTMobSDK4.251.1121-[Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)]
+Content-Type: application/x-www-form-urlencoded
+Host: qzs.gdtimg.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Content-Length: 0
+
+
+HTTP/1.1 200 OK
+Last-Modified: Sat, 06 May 2023 09:13:51 GMT
+Etag: "99914b932bd37a50b983c5e7c90ae93b"
+Content-Type: application/json
+Date: Tue, 16 May 2023 03:27:36 GMT
+Server: tencent-cos
+x-cos-hash-crc64ecma: 10633378508977395037
+x-cos-request-id: NjQ2MmY4MjhfZmQzNDJjMGJfZjBlXzEyNGVkZTMy
+x-cos-version-id: MTg0NDUwNjA3MDkyNzc5NzU0NDY
+Content-Length: 2
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 1209505742296673485
+Connection: keep-alive
+X-Cache-Lookup: Cache Hit
+

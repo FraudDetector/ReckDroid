@@ -1,0 +1,5 @@
+/*!
+ * @bundleinfo-linyifan
+ * -linyifan@tuia.cn
+ * -2020/9/29
+ */.text-overflow{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.incentive-animate{position:fixed;top:0;left:0;z-index:220;display:none;width:100%;overflow:hidden;pointer-events:none;background-repeat:no-repeat;background-size:100%}

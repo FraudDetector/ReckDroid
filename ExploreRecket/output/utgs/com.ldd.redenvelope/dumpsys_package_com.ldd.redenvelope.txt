@@ -1,0 +1,506 @@
+Activity Resolver Table:
+  Schemes:
+      um.6007f8d7f1eb4f3f9b691eb3:
+        2387087 com.ldd.redenvelope/com.ldd.purecalendar.activity.EntryActivity filter ea966fa
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "um.6007f8d7f1eb4f3f9b691eb3"
+
+  Non-Data Actions:
+      com.umeng.message.action.notify:
+        3bb3bb4 com.ldd.redenvelope/com.umeng.message.UMessageNotifyActivity filter f96f8c6
+          Action: "com.umeng.message.action.notify"
+      com.ldd.redenvelope.lock.screen_rl:
+        42173dd com.ldd.redenvelope/com.common.lock.ui.LockScreenActivity filter add34ab
+          Action: "com.ldd.redenvelope.lock.screen_rl"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.MAIN:
+        2387087 com.ldd.redenvelope/com.ldd.purecalendar.activity.EntryActivity filter d7ec525
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      com.ldd.redenvelope.out.self_star_red:
+        d79db52 com.ldd.redenvelope/com.ldd.purecalendar.activity.RedPermissionActivity filter 47b8ea1
+          Action: "com.ldd.redenvelope.out.self_star_red"
+          Category: "android.intent.category.DEFAULT"
+      com.ldd.redenvelope.out.out_reward_red:
+        1218e23 com.ldd.redenvelope/com.ldd.purecalendar.activity.RedPackageActivity filter d7db708
+          Action: "com.ldd.redenvelope.out.out_reward_red"
+          Category: "android.intent.category.DEFAULT"
+
+Receiver Resolver Table:
+  Schemes:
+      package:
+        6aa5f20 com.ldd.redenvelope/com.taobao.accs.EventReceiver filter c14974a
+          Action: "android.intent.action.PACKAGE_REMOVED"
+          Scheme: "package"
+
+  Non-Data Actions:
+      com.xiaomi.mipush.MESSAGE_ARRIVED:
+        24670d9 com.ldd.redenvelope/org.android.agoo.xiaomi.MiPushBroadcastReceiver filter 3fcdb69
+          Action: "com.xiaomi.mipush.MESSAGE_ARRIVED"
+      com.xiaomi.mipush.ERROR:
+        24670d9 com.ldd.redenvelope/org.android.agoo.xiaomi.MiPushBroadcastReceiver filter 9b999ee
+          Action: "com.xiaomi.mipush.ERROR"
+      com.huawei.android.push.intent.REGISTRATION:
+        f365a9e com.ldd.redenvelope/com.huawei.hms.support.api.push.PushReceiver filter ca97397
+          Action: "com.huawei.android.push.intent.REGISTRATION"
+          Action: "com.huawei.android.push.intent.RECEIVE"
+      com.kuaishou.action.WEAPON.VIEW:
+        df4e97f com.ldd.redenvelope/com.kuaishou.weapon.p0.receiver.WeaponRECE filter c31651c
+          Action: "com.kuaishou.action.WEAPON.VIEW"
+          Category: "com.kuaishou.category.WEAPON"
+          Category: "android.intent.category.DEFAULT"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        6aa5f20 com.ldd.redenvelope/com.taobao.accs.EventReceiver filter 7f244b5
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+        7a64d4c com.ldd.redenvelope/com.xiaomi.push.service.receivers.NetworkStatusReceiver filter c70c5a2
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+          Category: "android.intent.category.DEFAULT"
+      com.huawei.intent.action.PUSH_DELAY_NOTIFY:
+        2244195 com.ldd.redenvelope/com.huawei.hms.support.api.push.PushMsgReceiver filter 28cde16
+          Action: "com.huawei.intent.action.PUSH_DELAY_NOTIFY"
+          Action: "com.huawei.intent.action.PUSH"
+      com.meizu.flyme.push.intent.PUSH_SYSTEM:
+        3a982aa com.ldd.redenvelope/com.meizu.cloud.pushsdk.MzPushSystemReceiver filter 3286984
+          Action: "com.meizu.flyme.push.intent.PUSH_SYSTEM"
+      com.ldd.redenvelope.intent.action.COMMAND:
+        e789e9b com.ldd.redenvelope/com.taobao.agoo.AgooCommondReceiver filter d013e8f
+          Action: "com.ldd.redenvelope.intent.action.COMMAND"
+      com.huawei.android.push.intent.RECEIVE:
+        f365a9e com.ldd.redenvelope/com.huawei.hms.support.api.push.PushReceiver filter ca97397
+          Action: "com.huawei.android.push.intent.REGISTRATION"
+          Action: "com.huawei.android.push.intent.RECEIVE"
+      com.vivo.pushclient.action.RECEIVE:
+        90f238 com.ldd.redenvelope/org.android.agoo.vivo.PushMessageReceiverImpl filter 873556d
+          Action: "com.vivo.pushclient.action.RECEIVE"
+      android.intent.action.BOOT_COMPLETED:
+        6aa5f20 com.ldd.redenvelope/com.taobao.accs.EventReceiver filter ebe8ec
+          Action: "android.intent.action.BOOT_COMPLETED"
+      android.intent.action.USER_PRESENT:
+        6aa5f20 com.ldd.redenvelope/com.taobao.accs.EventReceiver filter 81926bb
+          Action: "android.intent.action.USER_PRESENT"
+      com.taobao.accs.intent.action.START_FROM_AGOO:
+        6d46211 com.ldd.redenvelope/com.taobao.accs.ServiceReceiver filter fcf7731
+          Action: "com.taobao.accs.intent.action.START_FROM_AGOO"
+      com.xiaomi.push.PING_TIMER:
+        8751f76 com.ldd.redenvelope/com.xiaomi.push.service.receivers.PingReceiver filter 587b233
+          Action: "com.xiaomi.push.PING_TIMER"
+      com.xiaomi.mipush.RECEIVE_MESSAGE:
+        24670d9 com.ldd.redenvelope/org.android.agoo.xiaomi.MiPushBroadcastReceiver filter 98499f0
+          Action: "com.xiaomi.mipush.RECEIVE_MESSAGE"
+      android.appwidget.action.APPWIDGET_UPDATE:
+        4b88977 com.ldd.redenvelope/com.common.keepalive.WeatherProvider filter 64b653e
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        57ef9e4 com.ldd.redenvelope/com.common.keepalive.HomeNewsProvider filter 2e72f9f
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+      com.taobao.accs.intent.action.COMMAND:
+        6d46211 com.ldd.redenvelope/com.taobao.accs.ServiceReceiver filter c24a7d8
+          Action: "com.taobao.accs.intent.action.COMMAND"
+      com.huawei.intent.action.PUSH:
+        2244195 com.ldd.redenvelope/com.huawei.hms.support.api.push.PushMsgReceiver filter 28cde16
+          Action: "com.huawei.intent.action.PUSH_DELAY_NOTIFY"
+          Action: "com.huawei.intent.action.PUSH"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.taobao.accs.intent.action.SERVICE:
+        18c0e4d com.ldd.redenvelope/com.taobao.accs.ChannelService filter afbcf66
+          Action: "com.taobao.accs.intent.action.SERVICE"
+      com.umeng.message.action:
+        18bbd02 com.ldd.redenvelope/com.umeng.message.component.UmengMessageHandlerService filter de91bc1 permission android.permission.BIND_JOB_SERVICE
+          Action: "com.umeng.message.action"
+      com.ldd.redenvelope.messenger:
+        da24613 com.ldd.redenvelope/com.blankj.utilcode.util.MessengerUtils$ServerService filter 22f80c0
+          Action: "com.ldd.redenvelope.messenger"
+      com.huawei.push.msg.NOTIFY_MSG:
+        523d050 com.ldd.redenvelope/com.huawei.hms.support.api.push.service.HmsMsgService filter dc7bcaf
+          Action: "com.huawei.push.msg.NOTIFY_MSG"
+          Action: "com.huawei.push.msg.PASSBY_MSG"
+      com.ss.android.socialbase.downloader.remote:
+        7984249 com.ldd.redenvelope/com.ss.android.socialbase.downloader.downloader.IndependentProcessDownloadService filter d657bf2
+          Action: "com.ss.android.socialbase.downloader.remote"
+      org.agoo.android.intent.action.RECEIVE:
+        d7ca74e com.ldd.redenvelope/com.umeng.message.component.UmengIntentService filter 55d74cb
+          Action: "org.agoo.android.intent.action.RECEIVE"
+      com.heytap.mcs.action.RECEIVE_MCS_MESSAGE:
+        d61306f com.ldd.redenvelope/com.heytap.msp.push.service.DataMessageCallbackService filter 540139a permission com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+          Action: "com.heytap.mcs.action.RECEIVE_MCS_MESSAGE"
+          Action: "com.heytap.msp.push.RECEIVE_MCS_MESSAGE"
+      org.android.agoo.client.MessageReceiverService:
+        3fda17c com.ldd.redenvelope/com.umeng.message.component.UmengMessageReceiverService filter 262c4a8
+          Action: "org.android.agoo.client.MessageReceiverService"
+      android.service.notification.NotificationListenerService:
+        c19ba05 com.ldd.redenvelope/com.ldd.purecalendar.utils.NotificationMonitor filter 9266489 permission android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
+          Action: "android.service.notification.NotificationListenerService"
+      com.heytap.msp.push.RECEIVE_MCS_MESSAGE:
+        d61306f com.ldd.redenvelope/com.heytap.msp.push.service.DataMessageCallbackService filter 540139a permission com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+          Action: "com.heytap.mcs.action.RECEIVE_MCS_MESSAGE"
+          Action: "com.heytap.msp.push.RECEIVE_MCS_MESSAGE"
+      com.coloros.mcs.action.RECEIVE_MCS_MESSAGE:
+        27fea5a com.ldd.redenvelope/com.heytap.msp.push.service.CompatibleDataMessageCallbackService filter 707c045 permission com.coloros.mcs.permission.SEND_MCS_MESSAGE
+          Action: "com.coloros.mcs.action.RECEIVE_MCS_MESSAGE"
+      com.huawei.push.msg.PASSBY_MSG:
+        523d050 com.ldd.redenvelope/com.huawei.hms.support.api.push.service.HmsMsgService filter dc7bcaf
+          Action: "com.huawei.push.msg.NOTIFY_MSG"
+          Action: "com.huawei.push.msg.PASSBY_MSG"
+      com.ldd.redenvelope.andpermission.bridge:
+        57a648b com.ldd.redenvelope/com.yanzhenjie.permission.bridge.BridgeService filter bf481f9 permission com.ldd.redenvelope.andpermission.bridge
+          Action: "com.ldd.redenvelope.andpermission.bridge"
+      com.taobao.accs.intent.action.ELECTION:
+        18c0e4d com.ldd.redenvelope/com.taobao.accs.ChannelService filter 54c92a7
+          Action: "com.taobao.accs.intent.action.ELECTION"
+      com.huawei.push.action.MESSAGING_EVENT:
+        e415968 com.ldd.redenvelope/org.android.agoo.huawei.HuaweiRcvService filter 7e2d8bc
+          Action: "com.huawei.push.action.MESSAGING_EVENT"
+      com.taobao.accs.intent.action.RECEIVE:
+        980f181 com.ldd.redenvelope/com.taobao.accs.data.MsgDistributeService filter a738354
+          Action: "com.taobao.accs.intent.action.RECEIVE"
+        425226 com.ldd.redenvelope/org.android.agoo.accs.AgooService filter c2ab2fd
+          Action: "com.taobao.accs.intent.action.RECEIVE"
+      android.service.wallpaper.WallpaperService:
+        a8be67 com.ldd.redenvelope/com.common.keepalive.MyWallpaperService filter 2f0bc8e permission android.permission.BIND_WALLPAPER
+          Action: "android.service.wallpaper.WallpaperService"
+        c86a414 com.ldd.redenvelope/com.kwad.sdk.api.proxy.VideoWallpaperService filter f25b243 permission android.permission.BIND_WALLPAPER
+          Action: "android.service.wallpaper.WallpaperService"
+          mPriority=1000, mOrder=0, mHasPartialTypes=false
+
+Permissions:
+  Permission [com.ldd.redenvelope.permission.MIPUSH_RECEIVE] (6ca24bd):
+    sourcePackage=com.ldd.redenvelope
+    uid=10180 gids=null type=0 prot=signature|privileged
+    perm=Permission{2716ab2 com.ldd.redenvelope.permission.MIPUSH_RECEIVE}
+    packageSetting=PackageSetting{78da03 com.ldd.redenvelope/10180}
+
+Permissions:
+  Permission [com.ldd.redenvelope.openadsdk.permission.TT_PANGOLIN] (733ed80):
+    sourcePackage=com.ldd.redenvelope
+    uid=10180 gids=null type=0 prot=signature
+    perm=Permission{4794fb9 com.ldd.redenvelope.openadsdk.permission.TT_PANGOLIN}
+    packageSetting=PackageSetting{78da03 com.ldd.redenvelope/10180}
+
+Permissions:
+  Permission [com.ldd.redenvelope.permission.PROCESS_PUSH_MSG] (77ffe):
+    sourcePackage=com.ldd.redenvelope
+    uid=10180 gids=null type=0 prot=signature
+    perm=Permission{8a5135f com.ldd.redenvelope.permission.PROCESS_PUSH_MSG}
+    packageSetting=PackageSetting{78da03 com.ldd.redenvelope/10180}
+
+Permissions:
+  Permission [com.ldd.redenvelope.push.permission.MESSAGE] (4aa61ac):
+    sourcePackage=com.ldd.redenvelope
+    uid=10180 gids=null type=0 prot=signature
+    perm=Permission{d562e75 com.ldd.redenvelope.push.permission.MESSAGE}
+    packageSetting=PackageSetting{78da03 com.ldd.redenvelope/10180}
+
+Permissions:
+  Permission [com.ldd.redenvelope.permission.PUSH_WRITE_PROVIDER] (3579e0a):
+    sourcePackage=com.ldd.redenvelope
+    uid=10180 gids=null type=0 prot=signature
+    perm=Permission{431867b com.ldd.redenvelope.permission.PUSH_WRITE_PROVIDER}
+    packageSetting=PackageSetting{78da03 com.ldd.redenvelope/10180}
+
+Permissions:
+  Permission [com.ldd.redenvelope.permission.C2D_MESSAGE] (e31ec98):
+    sourcePackage=com.ldd.redenvelope
+    uid=10180 gids=null type=0 prot=signature
+    perm=Permission{6e83cf1 com.ldd.redenvelope.permission.C2D_MESSAGE}
+    packageSetting=PackageSetting{78da03 com.ldd.redenvelope/10180}
+
+Permissions:
+  Permission [com.ldd.redenvelope.andpermission.bridge] (6d990d6):
+    sourcePackage=com.ldd.redenvelope
+    uid=10180 gids=null type=0 prot=signature
+    perm=Permission{480f57 com.ldd.redenvelope.andpermission.bridge}
+    packageSetting=PackageSetting{78da03 com.ldd.redenvelope/10180}
+
+Permissions:
+  Permission [com.ldd.redenvelope.permission.PUSH_PROVIDER] (7a53a44):
+    sourcePackage=com.ldd.redenvelope
+    uid=10180 gids=null type=0 prot=signature
+    perm=Permission{db2b72d com.ldd.redenvelope.permission.PUSH_PROVIDER}
+    packageSetting=PackageSetting{78da03 com.ldd.redenvelope/10180}
+
+Registered ContentProviders:
+  com.ldd.redenvelope/com.umeng.union.component.UMUnionProvider:
+    Provider{2b5e462 com.ldd.redenvelope/com.umeng.union.component.UMUnionProvider}
+  com.ldd.redenvelope/com.umeng.union.component.UMUnionFileProvider:
+    Provider{8d449f3 com.ldd.redenvelope/com.umeng.union.component.UMUnionFileProvider}
+  com.ldd.redenvelope/androidx.core.content.FileProvider:
+    Provider{5ddb6b0 com.ldd.redenvelope/androidx.core.content.FileProvider}
+  com.ldd.redenvelope/com.just.agentweb.AgentWebFileProvider:
+    Provider{9309929 com.ldd.redenvelope/com.just.agentweb.AgentWebFileProvider}
+  com.ldd.redenvelope/com.bytedance.pangle.provider.MainProcessProviderProxy:
+    Provider{711e4ae com.ldd.redenvelope/com.bytedance.pangle.provider.MainProcessProviderProxy}
+  com.ldd.redenvelope/com.bytedance.sdk.openadsdk.stub.server.MainServerManager:
+    Provider{2df924f com.ldd.redenvelope/com.bytedance.sdk.openadsdk.stub.server.MainServerManager}
+  com.ldd.redenvelope/com.umeng.message.component.UmengMessageProvider:
+    Provider{fdf8ddc com.ldd.redenvelope/com.umeng.message.component.UmengMessageProvider}
+  com.ldd.redenvelope/com.kwad.sdk.api.proxy.app.AdSdkFileProvider:
+    Provider{3909ee5 com.ldd.redenvelope/com.kwad.sdk.api.proxy.app.AdSdkFileProvider}
+  com.ldd.redenvelope/com.bytedance.sdk.openadsdk.TTFileProvider:
+    Provider{f1b9dba com.ldd.redenvelope/com.bytedance.sdk.openadsdk.TTFileProvider}
+  com.ldd.redenvelope/com.download.library.DownloadFileProvider:
+    Provider{ad046b com.ldd.redenvelope/com.download.library.DownloadFileProvider}
+  com.ldd.redenvelope/com.huawei.hms.support.api.push.PushProvider:
+    Provider{6c5abc8 com.ldd.redenvelope/com.huawei.hms.support.api.push.PushProvider}
+  com.ldd.redenvelope/com.qq.e.comm.GDTFileProvider:
+    Provider{1314461 com.ldd.redenvelope/com.qq.e.comm.GDTFileProvider}
+  com.ldd.redenvelope/com.huawei.hms.aaid.InitProvider:
+    Provider{8d5db86 com.ldd.redenvelope/com.huawei.hms.aaid.InitProvider}
+  com.ldd.redenvelope/com.bytedance.sdk.openadsdk.multipro.TTMultiProvider:
+    Provider{b957c47 com.ldd.redenvelope/com.bytedance.sdk.openadsdk.multipro.TTMultiProvider}
+  com.ldd.redenvelope/com.baidu.mobads.sdk.api.BdFileProvider:
+    Provider{6dbc74 com.ldd.redenvelope/com.baidu.mobads.sdk.api.BdFileProvider}
+  com.ldd.redenvelope/com.bytedance.sdk.openadsdk.stub.server.DownloaderServerManager:
+    Provider{3dcc59d com.ldd.redenvelope/com.bytedance.sdk.openadsdk.stub.server.DownloaderServerManager}
+  com.ldd.redenvelope/com.volcengine.onekit.OneKitInitProvider:
+    Provider{da42a12 com.ldd.redenvelope/com.volcengine.onekit.OneKitInitProvider}
+  com.ldd.redenvelope/com.yanzhenjie.permission.FileProvider:
+    Provider{fa395e3 com.ldd.redenvelope/com.yanzhenjie.permission.FileProvider}
+  com.ldd.redenvelope/com.blankj.utilcode.util.UtilsFileProvider:
+    Provider{e42be0 com.ldd.redenvelope/com.blankj.utilcode.util.UtilsFileProvider}
+  com.ldd.redenvelope/com.huawei.agconnect.core.provider.AGConnectInitializeProvider:
+    Provider{5c51e99 com.ldd.redenvelope/com.huawei.agconnect.core.provider.AGConnectInitializeProvider}
+  com.ldd.redenvelope/com.bytedance.pangle.FileProvider:
+    Provider{796d55e com.ldd.redenvelope/com.bytedance.pangle.FileProvider}
+  com.ldd.redenvelope/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{4efad3f com.ldd.redenvelope/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+
+ContentProvider Authorities:
+  [com.ldd.redenvelope.umeng.union]:
+    Provider{2b5e462 com.ldd.redenvelope/com.umeng.union.component.UMUnionProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.bd.provider]:
+    Provider{6dbc74 com.ldd.redenvelope/com.baidu.mobads.sdk.api.BdFileProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.DownloadFileProvider]:
+    Provider{ad046b com.ldd.redenvelope/com.download.library.DownloadFileProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.pangle.fileprovider]:
+    Provider{796d55e com.ldd.redenvelope/com.bytedance.pangle.FileProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.AGCInitializeProvider]:
+    Provider{5c51e99 com.ldd.redenvelope/com.huawei.agconnect.core.provider.AGConnectInitializeProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.pangle.servermanager.main]:
+    Provider{2df924f com.ldd.redenvelope/com.bytedance.sdk.openadsdk.stub.server.MainServerManager}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.TTFileProvider]:
+    Provider{f1b9dba com.ldd.redenvelope/com.bytedance.sdk.openadsdk.TTFileProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.lifecycle-process]:
+    Provider{4efad3f com.ldd.redenvelope/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.umeng.message]:
+    Provider{fdf8ddc com.ldd.redenvelope/com.umeng.message.component.UmengMessageProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.utilcode.provider]:
+    Provider{e42be0 com.ldd.redenvelope/com.blankj.utilcode.util.UtilsFileProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.AgentWebFileProvider]:
+    Provider{9309929 com.ldd.redenvelope/com.just.agentweb.AgentWebFileProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.um_file_provider]:
+    Provider{8d449f3 com.ldd.redenvelope/com.umeng.union.component.UMUnionFileProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.com.volcengine.onekit.OneKitInitProvider]:
+    Provider{da42a12 com.ldd.redenvelope/com.volcengine.onekit.OneKitInitProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.pangle.servermanager.downloader.com.bytedance.sdk.openadsdk.adhost]:
+    Provider{3dcc59d com.ldd.redenvelope/com.bytedance.sdk.openadsdk.stub.server.DownloaderServerManager}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.file.path.share]:
+    Provider{fa395e3 com.ldd.redenvelope/com.yanzhenjie.permission.FileProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.gdt.fileprovider]:
+    Provider{1314461 com.ldd.redenvelope/com.qq.e.comm.GDTFileProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.adFileProvider]:
+    Provider{3909ee5 com.ldd.redenvelope/com.kwad.sdk.api.proxy.app.AdSdkFileProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.aaidinitprovider]:
+    Provider{8d5db86 com.ldd.redenvelope/com.huawei.hms.aaid.InitProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.TTMultiProvider]:
+    Provider{b957c47 com.ldd.redenvelope/com.bytedance.sdk.openadsdk.multipro.TTMultiProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.huawei.push.provider]:
+    Provider{6c5abc8 com.ldd.redenvelope/com.huawei.hms.support.api.push.PushProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.fileprovider]:
+    Provider{5ddb6b0 com.ldd.redenvelope/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+  [com.ldd.redenvelope.pangle.provider.proxy.main]:
+    Provider{711e4ae com.ldd.redenvelope/com.bytedance.pangle.provider.MainProcessProviderProxy}
+      applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+
+Key Set Manager:
+  [com.ldd.redenvelope]
+      Signing KeySets: 95
+
+Packages:
+  Package [com.ldd.redenvelope] (78da03):
+    userId=10180
+    pkg=Package{8400b55 com.ldd.redenvelope}
+    codePath=/data/app/com.ldd.redenvelope-_56-87eDMd7siyu_p0hQQw==
+    resourcePath=/data/app/com.ldd.redenvelope-_56-87eDMd7siyu_p0hQQw==
+    legacyNativeLibraryDir=/data/app/com.ldd.redenvelope-_56-87eDMd7siyu_p0hQQw==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=7 minSdk=21 targetSdk=28
+    versionName=1.0.007
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{e90260c com.ldd.redenvelope}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE PARTIALLY_DIRECT_BOOT_AWARE ]
+    dataDir=/data/user/0/com.ldd.redenvelope
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2023-05-17 13:05:02
+    firstInstallTime=2023-05-17 13:05:03
+    lastUpdateTime=2023-05-17 13:05:03
+    signatures=PackageSignatures{f76e96a version:2, signatures:[e5f36afe], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    declared permissions:
+      com.ldd.redenvelope.permission.PROCESS_PUSH_MSG: prot=signature, INSTALLED
+      com.ldd.redenvelope.permission.PUSH_PROVIDER: prot=signature, INSTALLED
+      com.ldd.redenvelope.permission.PUSH_WRITE_PROVIDER: prot=signature, INSTALLED
+      com.ldd.redenvelope.push.permission.MESSAGE: prot=signature, INSTALLED
+      com.ldd.redenvelope.permission.C2D_MESSAGE: prot=signature, INSTALLED
+      com.ldd.redenvelope.permission.MIPUSH_RECEIVE: prot=signature|privileged, INSTALLED
+      com.ldd.redenvelope.openadsdk.permission.TT_PANGOLIN: prot=signature, INSTALLED
+      com.ldd.redenvelope.andpermission.bridge: prot=signature, INSTALLED
+    requested permissions:
+      android.permission.WAKE_LOCK
+      android.permission.DISABLE_KEYGUARD
+      android.permission.CHANGE_WIFI_STATE
+      android.permission.FOREGROUND_SERVICE
+      android.permission.SET_WALLPAPER
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.BROADCAST_PACKAGE_ADDED
+      android.permission.BROADCAST_PACKAGE_INSTALL
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.REQUEST_INSTALL_PACKAGES
+      android.permission.GET_TASKS
+      android.permission.QUERY_ALL_PACKAGES
+      android.permission.READ_PHONE_STATE
+      android.permission.BROADCAST_PACKAGE_CHANGED
+      android.permission.BROADCAST_PACKAGE_REPLACED
+      com.android.alarm.permission.SET_ALARM
+      com.huawei.android.launcher.permission.CHANGE_BADGE
+      com.sec.android.provider.badge.permission.READ
+      com.sec.android.provider.badge.permission.WRITE
+      com.htc.launcher.permission.READ_SETTINGS
+      com.htc.launcher.permission.UPDATE_SHORTCUT
+      com.sonyericsson.home.permission.BROADCAST_BADGE
+      com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+      com.anddoes.launcher.permission.UPDATE_COUNT
+      com.vivo.notification.permission.BADGE_ICON
+      com.majeur.launcher.permission.UPDATE_BADGE
+      com.huawei.android.launcher.permission.READ_SETTINGS
+      com.huawei.android.launcher.permission.WRITE_SETTINGS
+      android.permission.READ_APP_BADGE
+      com.oppo.launcher.permission.READ_SETTINGS
+      com.oppo.launcher.permission.WRITE_SETTINGS
+      me.everything.badger.permission.BADGE_COUNT_READ
+      me.everything.badger.permission.BADGE_COUNT_WRITE
+      com.android.permission.system_manager_noclear
+      android.permission.VIBRATE
+      com.android.launcher.permission.WRITE_SETTINGS
+      com.android.launcher.permission.INSTALL_SHORTCUT
+      com.android.launcher.permission.UNINSTALL_SHORTCUT
+      com.android.launcher.permission.READ_SETTINGS
+      com.bbk.launcher2.permission.READ_SETTINGS
+      com.bbk.launcher2.permission.WRITE_SETTINGS
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.CAMERA
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.SYSTEM_OVERLAY_WINDOW
+      com.ldd.redenvelope.permission.PROCESS_PUSH_MSG
+      com.ldd.redenvelope.permission.PUSH_PROVIDER
+      com.meizu.flyme.push.permission.RECEIVE
+      com.ldd.redenvelope.push.permission.MESSAGE
+      com.meizu.c2dm.permission.RECEIVE
+      com.ldd.redenvelope.permission.C2D_MESSAGE
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.WRITE_EXTERNAL_STORAGE
+      com.meizu.flyme.permission.PUSH
+      com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE
+      com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE
+      com.ldd.redenvelope.permission.MIPUSH_RECEIVE
+      android.permission.CHANGE_NETWORK_STATE
+      android.permission.REORDER_TASKS
+      com.ldd.redenvelope.openadsdk.permission.TT_PANGOLIN
+      com.asus.msa.SupplementaryDID.ACCESS
+      android.permission.BLUETOOTH
+      android.permission.ACTIVITY_RECOGNITION
+      com.ldd.redenvelope.andpermission.bridge
+    install permissions:
+      com.ldd.redenvelope.permission.MIPUSH_RECEIVE: granted=true
+      com.ldd.redenvelope.openadsdk.permission.TT_PANGOLIN: granted=true
+      android.permission.CHANGE_NETWORK_STATE: granted=true
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      com.android.launcher.permission.UNINSTALL_SHORTCUT: granted=true
+      android.permission.BLUETOOTH: granted=true
+      com.android.alarm.permission.SET_ALARM: granted=true
+      android.permission.GET_TASKS: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.REORDER_TASKS: granted=true
+      com.ldd.redenvelope.permission.PROCESS_PUSH_MSG: granted=true
+      com.android.launcher.permission.READ_SETTINGS: granted=true
+      com.ldd.redenvelope.push.permission.MESSAGE: granted=true
+      android.permission.CHANGE_WIFI_STATE: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.DISABLE_KEYGUARD: granted=true
+      android.permission.SET_WALLPAPER: granted=true
+      com.ldd.redenvelope.permission.C2D_MESSAGE: granted=true
+      com.ldd.redenvelope.andpermission.bridge: granted=true
+      android.permission.VIBRATE: granted=true
+      com.ldd.redenvelope.permission.PUSH_PROVIDER: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      com.android.launcher.permission.INSTALL_SHORTCUT: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=1311758 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3002, 3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=64
+  User 0:
+    seq=1, package=com.cashtoutiao
+    seq=6, package=cn.fangchan.fanzan
+    seq=8, package=com.bx.hbll
+    seq=12, package=com.cashwalk
+    seq=17, package=com.chenglie.qhbvideo
+    seq=24, package=com.chilliv.shortvideo
+    seq=29, package=com.fanlitejiaban
+    seq=34, package=com.fanqian.android
+    seq=42, package=com.fqapps.fdsh
+    seq=47, package=com.haoquanbushou
+    seq=49, package=com.hdx.dzzq
+    seq=52, package=com.jd.jdlite
+    seq=55, package=com.jd.pingou
+    seq=57, package=com.jielong.idiomwords
+    seq=61, package=com.jingdong.app.mall
+    seq=63, package=com.kling.hbao
+
+
+Dexopt state:
+  [com.ldd.redenvelope]
+    path: /data/app/com.ldd.redenvelope-_56-87eDMd7siyu_p0hQQw==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [com.ldd.redenvelope]
+    (No recorded stats)

@@ -1,0 +1,16 @@
+POST https://sdk.e.qq.com/msg HTTP/1.1
+User-Agent: GDTMobSDK4.492.1362-[Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)]
+Content-Type: application/x-www-form-urlencoded
+Host: sdk.e.qq.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Content-Length: 1540
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 05:08:22 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 5
+Connection: keep-alive
+X-Trace-Id: 7808385a-ed57-4793-9f68-7d2221e9af73
+

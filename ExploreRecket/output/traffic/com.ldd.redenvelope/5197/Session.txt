@@ -1,0 +1,33 @@
+GET https://1dc3718f9bcafcf9.jomoxc.com:9187/fsfcfe5dc5.a.bdydns.com/1635286343/981ad7e23daef65096510c9ad8ba1d7f_1920_1080_caev3new.mp4?r=GwBCOwBQSxcpBwAGECs1WkFaVCoaDhEWJAkJX0B3YVQXQ1N5QA4FXSFQUUBAeWUEQxcPKhdSBll2AlMWJn5pB0MrB3tLWjtbJgMSQxcqJxseBAJ0Aw5ZCXdWQgANcmATHQALe1UJCQV%2BUVdWGC0kUAAAC3pDWlQeNAIPLwEsNFtORRwEUyUQDgoJKBYBHhorPgQ%3D&pd=100&pt=0&xcid=307f1a30ae3544f098db872c63b0aa5e&sdk_xcdn=1&xcsched=3942747254&xclogid=9622386074735474690&xauzkey=mngx_56b58989d66c3057c8311a78bf34e172_1684473051&nt=0&f_ver=v1&abtest=1000&cm=973&bcecdn_trace_info=CFZcIx1IXhopBFwTDXphF19WRmlJSBxbIwhGDRwEUyUQDgoJKBYBHhorPgQ%3D&limit_rate=3670016&sent_http_server=nginx HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: 1dc3718f9bcafcf9.jomoxc.com:9187
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 05:10:51 GMT
+Content-Type: video/mp4
+Content-Length: 1087164
+Connection: keep-alive
+Expires: Thu, 18 May 2023 04:56:47 GMT
+Last-Modified: Wed, 26 Apr 2023 23:57:17 GMT
+ETag: "b39e25754fbc65cfee6593543b1bba45"
+Accept-Ranges: bytes
+Content-MD5: s54ldU+8Zc/uZZNUOxu6RQ==
+x-bce-content-crc32: 3736824168
+x-bce-debug-id: c0WfEPrTdnt8O4GF6hA3Gehh6w/jT5uEldxN4hZurLnCj0g3Pmj7YC2bugiws1AaAfZPyS0A5w+xDSunbm6+yQ==
+x-bce-meta-vod_meta: { "durationInSeconds": 31, "bitRateInBps": 280558, "frameRate": 25, "gopAlign": false, "widthInPixel": 640, "heightInPixel": 360, "mp4MoovSize": 16062, "sizeInBytes": 1087164 }
+x-bce-request-id: 7bac65b2-62c2-4d9b-bb8b-90b287086571
+x-bce-storage-class: STANDARD
+Timing-Allow-Origin: *
+Ohc-Expires: Thu, 18 May 2023 04:56:47 GMT
+Ohc-Global-Saved-Time: Mon, 15 May 2023 04:56:47 GMT
+Ohc-Cache-HIT: wz2ct50 [2], qdix50 [2]
+Ohc-File-Size: 1087164
+Xc-CRC32: 3736824168
+Xc-Expires: Thu, 18 May 2023 04:56:47 GMT
+server: nginx
+

@@ -1,0 +1,19 @@
+GET https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=fWtPN8fPxZDb3d8lZKG6B0tI&client_secret=551Mz9KLdEfxS9VNmgeyqHs2jOIcrv32 HTTP/1.1
+Host: aip.baidubce.com
+User-Agent: python-requests/2.24.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+Cache-Control: no-store
+Connection: keep-alive
+Content-Type: application/json
+Date: Wed, 17 May 2023 19:29:05 GMT
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: BAIDUID=866B77F2432F558D6A95C87CBFB8141B:FG=1; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2145916555; path=/; domain=.baidu.com; version=1
+Vary: Accept-Encoding
+Content-Length: 2589
+

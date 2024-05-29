@@ -1,0 +1,21 @@
+GET https://mobads-logs.baidu.com/dz.zb?type=835&p_ver=9.241&cuid=&os=android&a_ver=adserv_0&romn=&pack=com.ldd.redenvelope&bdr=28&osv=9&romv=&v=android_9.241&model=MI+6X&sn=&brand=xiaomi&msg=mi-start&ncuid=&appsid=ecd59139&zd=&net=100&ts=1684300050107 HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads-logs.baidu.com
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Connection: keep-alive
+Content-Length: 44
+Content-Type: application/json
+Date: Wed, 17 May 2023 05:07:31 GMT
+Etag: "6445e3dd-2c"
+Last-Modified: Mon, 24 Apr 2023 02:05:17 GMT
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: nginx/1.4.5
+Set-Cookie: BAIDUID=05DD5FE0E5A0E2B6E014B961B420BAF6:FG=1; expires=Thu, 16-May-24 05:07:31 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+

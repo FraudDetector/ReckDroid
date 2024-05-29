@@ -1,0 +1,17 @@
+POST https://me.cpatrk.net/11a4c62f HTTP/1.1
+Host: me.cpatrk.net
+decrypt-version: v1.0.0
+Content-Type: 
+Content-Length: 2675
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 19:29:26 GMT
+Content-Type: application/octet-stream
+Connection: keep-alive
+Server: nginx
+Content-Length: 3
+

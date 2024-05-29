@@ -1,0 +1,1 @@
+{"message":"success","data":{"is_activated":1}}

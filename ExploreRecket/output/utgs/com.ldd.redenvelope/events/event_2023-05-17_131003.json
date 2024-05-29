@@ -1,0 +1,49 @@
+{
+  "tag": "2023-05-17_131003",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ldd.redenvelope",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          66
+        ],
+        [
+          136,
+          198
+        ]
+      ],
+      "resource_id": "com.ldd.redenvelope:id/iv_back",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "136*132",
+      "signature": "[class]android.widget.ImageView[resource_id]com.ldd.redenvelope:id/iv_back[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.ldd.redenvelope:id/iv_back",
+      "view_str": "ee8abf570c621655a3a0f93bdd379bf4"
+    }
+  },
+  "start_state": "1293b048c860ec9eaf35fb43d815248e",
+  "stop_state": "73b090c918e928ff42b5d5e0aed39c93",
+  "event_str": "TouchEvent(state=1293b048c860ec9eaf35fb43d815248e, view=ee8abf570c621655a3a0f93bdd379bf4)"
+}

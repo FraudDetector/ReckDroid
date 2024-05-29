@@ -1,0 +1,52 @@
+{
+  "tag": "2023-05-17_130806",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ldd.redenvelope",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6,
+        7
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          66
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1080*1964",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None",
+      "view_str": "533f18426b068912f866e8ba6fcd96bc"
+    }
+  },
+  "start_state": "4c08ee981b64c778fca7827418b1a417",
+  "stop_state": "22dc88f953d9a22713f404d09a8e6762",
+  "event_str": "TouchEvent(state=4c08ee981b64c778fca7827418b1a417, view=533f18426b068912f866e8ba6fcd96bc)"
+}

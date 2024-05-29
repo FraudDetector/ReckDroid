@@ -1,0 +1,21 @@
+GET https://klink.volceapplog.com/service/2/app_alert_check/?_rticket=1684300273576&manifest_version_code=7&iid=3292377074898845&channel=yingyongbao&build_serial=3eda46&device_type=MI%206X&language=zh&resolution=1080*2030&uuid=869068036657416&openudid=d5d93fef954ca19a&update_version_code=7&cdid=5bcd1baf-9fa8-4d5e-86ad-d7dfe2b5a969&os_api=28&mac_address=94%3A87%3AE0%3A49%3A36%3A8F&dpi=440&ac=wifi&mcc_mnc=46000&os_version=9&version_code=7&bd_did=B2DJQJODII52BRYIFXCV6SKJMXCBZOY3K4HANQJ7ZW673ADTM3MQ01&clientudid=9a2fdfb0-d25a-4945-a272-4b297c2d32be&carrier=%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8&sdk_version_code=16090289&version_name=1.0.007&device_brand=xiaomi&ssmix=a&device_platform=android&sim_region=cn&aid=316229&timezone=8.0&carrier=%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8&mcc_mnc=46000&sim_region=cn&build_serial=3eda46&sim_serial_number=898600C2022258731733&oaid=fb69d06aecb693f3&req_id=2bc9be2b-3964-47e6-b9f5-3a8e375d2fcb HTTP/1.1
+Accept-Encoding: gzip
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: klink.volceapplog.com
+Connection: Keep-Alive
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json
+Content-Length: 47
+Connection: keep-alive
+Date: Wed, 17 May 2023 05:11:14 GMT
+X-Tt-Logid: 2023051713111426B747D89E222C76BA6E
+server-timing: inner; dur=11
+x-tt-trace-host: 015f98ff4677eb9eafa664b409f5d29a0db40dfe036733594dcf2ef1cc9cb021f67514dfe3980a5565c75dafebd080ad39e6ccef718fc277cd2df7a665a4d679cab16dbb6654f2ec9d0ea5b1eccb6e0ecf7fe18c6b2010ef6e4f25c55edd2b39c7
+x-tt-trace-tag: id=3;cdn-cache=miss
+Via: cache33.l2cm9-6[26,0], cache9.cn2821[48,0]
+Timing-Allow-Origin: *
+EagleId: 7055fb8d16843002745621211e
+

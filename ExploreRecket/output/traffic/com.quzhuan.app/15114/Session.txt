@@ -1,0 +1,23 @@
+GET http://imgcache.qq.com/qzone/biz/gdt/dev/sdk/cdn/resources/common/SdkRewardBrowseAdLogo.png HTTP/1.1
+User-Agent: GDTMobSDK4.251.1121-[Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)]
+Host: imgcache.qq.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Last-Modified: Wed, 06 May 2020 14:39:24 GMT
+Content-Type: image/png
+X-DataSrc: 2
+X-ReqGue: 0
+Cache-Control: max-age=259200
+Age: 187454
+Content-Length: 1226
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 31732356985532367
+Connection: keep-alive
+Server: Lego Server
+Date: Wed, 17 May 2023 19:28:21 GMT
+X-Cache-Lookup: Cache Hit
+Vary: Accept
+

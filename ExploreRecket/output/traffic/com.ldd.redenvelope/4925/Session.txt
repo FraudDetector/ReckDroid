@@ -1,0 +1,27 @@
+POST https://toblog.ctobsnssdk.com/service/2/device_register_only/?aid=164362&tt_info=dGMDBAABPI7VaqDL0DIXA9LSm8inxzYdWBEyieZlf5WY_vIPo9ML8VnSOAicxsZchsDaHhLsZzIv%0AoGTXUqlusE491GarEZR2qyG5UHJvj5njLXrDBp2AmDykev2Z7ekeWPbkC_-KkHaR59HovI0NiDfd%0ARz6lr2nMAPmw7tYXExONuK8VYjpbOjzp18DFevj0UCjrVhdOcrD6-WFNGxB7Wo4VgyzGvR_NNLPY%0AAOnyQ3xvQw8SAWPM_jwZrOmuEAsWNVSwNRbdDnVi8NXNAcXuLuTFUwON4DTVDRNGgFnx5TS19MKC%0A3wVKzF4DsEkKQ5d8u2SYukbESr_57SacBIbumjSsrgDgBMlnuJzMTnO2IiX8cpqd_VeallEj4c3G%0AiIQpTfPOMf0iWfP42-Ye8fEE_bEMfikzkfNXHKLz4VQPi25upsIRWo22DpZwsd1AnkTppyhN_lQF%0Al2jFYB33HmpRobrOHqLrEIh6CrB_awzB_RLVJMi8xCUqa9snM5EqFqJz8cLXaU48mzntai5XEAo5%0AM5fG_Iwg7A%3D%3D%0A HTTP/1.1
+Content-Type: application/octet-stream;tt-data=a
+Accept-Encoding: gzip
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: toblog.ctobsnssdk.com
+Connection: Keep-Alive
+Content-Length: 790
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json
+Content-Length: 90
+Connection: keep-alive
+Date: Wed, 17 May 2023 05:07:22 GMT
+Set-Cookie: store-region=cn-js; Path=/; Domain=ctobsnssdk.com; Max-Age=31536000; HttpOnly
+Set-Cookie: store-region-src=did; Path=/; Domain=ctobsnssdk.com; Max-Age=31536000; HttpOnly
+Set-Cookie: ttreq_tob=1$c0b9ad9805c74a18ae378c0469387e5341196335; Path=/; Domain=ctobsnssdk.com; Max-Age=63071999
+X-Tt-Logid: 20230517130722BBA44C205E4306F73141
+server-timing: inner; dur=23
+x-tt-trace-host: 0187ed443a8f367dd48104f99448599d966a644308af127eaf312c6763a9cc2d1a3a68860bb2b9631a5a83bd0daca06b21e9f54aa8124f777ff077bbac07b30e56bf7ee8a740558a4828ead71124bbfb8a85a15e7d0c2ac8079877e65626a80e4b
+x-tt-trace-tag: id=3;cdn-cache=miss
+server-timing: cdn-cache;desc=MISS,edge;dur=0,origin;dur=63
+Via: dynamic4.cn2580[63,0]
+Timing-Allow-Origin: *
+EagleId: dde5ca3216843000429091961e
+

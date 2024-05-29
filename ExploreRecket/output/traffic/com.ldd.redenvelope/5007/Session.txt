@@ -1,0 +1,25 @@
+GET http://cdn.haokan88.cn/img/thirdLink/416787510975401984.png HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: cdn.haokan88.cn
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/png
+Content-Length: 37920
+Connection: keep-alive
+Date: Wed, 17 May 2023 05:07:30 GMT
+Last-Modified: Thu, 07 Jul 2022 12:05:38 GMT
+ETag: "62c6cc12-9420"
+Accept-Ranges: bytes
+Ali-Swift-Global-Savetime: 1684300050
+Via: cache57.l2cn3036[85,85,200-0,H], cache53.l2cn3036[86,0], kunlun7.cn2334[98,98,200-0,M], kunlun4.cn2334[101,0]
+Age: 0
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Wed, 17 May 2023 05:07:30 GMT
+X-Swift-CacheTime: 3600
+Timing-Allow-Origin: *
+EagleId: 7ac1821816843000503168844e
+

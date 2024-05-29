@@ -1,0 +1,23 @@
+GET https://qzs.gdtimg.com/union/res/union_cdn/page/android/quickjs/libquickjs_b4dcb011a890172524fe93d930e8670c.zip HTTP/1.1
+User-Agent: GDTMobSDK4.492.1362-[Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)]
+Range: bytes=0-
+Host: qzs.gdtimg.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 206 Partial Content
+Last-Modified: Sat, 06 May 2023 09:13:45 GMT
+Etag: "25b4e36a54a502c26b0ecdd506cf0e6c"
+Content-Type: application/zip
+Date: Sun, 14 May 2023 05:59:10 GMT
+Server: tencent-cos
+x-cos-hash-crc64ecma: 1560599689342965811
+x-cos-request-id: NjQ2MDc4YWVfMzYyZTJjMGJfMTYwYTVfMTIyNDBkNWE=
+x-cos-version-id: MTg0NDUwNjA3MDkyODQ1MjM1NzY
+Content-Range: bytes 0-362745/362746
+Content-Length: 362746
+X-NWS-LOG-UUID: 8713679034451543340
+Connection: keep-alive
+X-Cache-Lookup: Cache Hit
+

@@ -1,0 +1,32 @@
+GET https://feed-image.baidu.com/0/pic/-447509633_-856020268_1129546775.png HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: feed-image.baidu.com
+Accept-Encoding: gzip
+Cookie: BAIDUID=6092254C310D16436C3745C16D5CEB90:FG=1
+
+
+HTTP/1.1 200 OK
+Server: JSP3/2.0.14
+Date: Wed, 17 May 2023 05:10:51 GMT
+Content-Type: image/png
+Content-Length: 9290
+Connection: keep-alive
+Expires: Thu, 18 May 2023 07:39:12 GMT
+Last-Modified: Thu, 10 Feb 2022 08:00:03 GMT
+ETag: "1cb84471a4b32fce6359850039f70ff0"
+Age: 163496
+Accept-Ranges: bytes
+Content-MD5: HLhEcaSzL85jWYUAOfcP8A==
+x-bce-content-crc32: 2292255649
+x-bce-debug-id: 0oHn468qkcCid/miUUSFtCGqdpP3Yb73rlEoXosf3ZdpXAjmCNsLYntsGlU563X2l1OwAUsAIRnLBlcF52xbhA==
+x-bce-request-id: 48df2db1-0120-4a44-a7a1-7469fba1f36e
+x-bce-storage-class: STANDARD
+Timing-Allow-Origin: *
+Ohc-Global-Saved-Time: Mon, 15 May 2023 07:39:12 GMT
+Ohc-Cache-HIT: shce52 [2], bdbgpcache147 [2], wzix117 [2]
+Ohc-File-Size: 9290
+X-Cache-Status: HIT
+

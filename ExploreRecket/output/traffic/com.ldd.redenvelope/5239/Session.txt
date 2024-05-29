@@ -1,0 +1,32 @@
+GET https://mobads-pre-config.cdn.bcebos.com/sdk/reward/img_0_finger.png HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads-pre-config.cdn.bcebos.com
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: JSP3/2.0.14
+Date: Wed, 17 May 2023 05:10:52 GMT
+Content-Type: image/png
+Content-Length: 27246
+Connection: keep-alive
+Expires: Sat, 20 May 2023 05:10:17 GMT
+Last-Modified: Mon, 23 May 2022 03:04:27 GMT
+ETag: "29720383910c4820061ac262cddb0f57"
+Age: 34
+Accept-Ranges: bytes
+Content-MD5: KXIDg5EMSCAGGsJizdsPVw==
+x-bce-content-crc32: 3864947760
+x-bce-debug-id: iikBajU2mlmbxvFmPwv+xdY4IeOCI36AT8csaUxzXZ9yYxxbReS9ABeNuGrn0mpYDwVsDnf2DIDSwAub3QDyPg==
+x-bce-request-id: 9af2d805-9fc6-4aae-ac17-c413f406c47f
+x-bce-storage-class: STANDARD
+Ohc-Global-Saved-Time: Wed, 17 May 2023 05:10:17 GMT
+Ohc-Upstream-Trace: 183.136.195.56
+Ohc-Cache-HIT: nb8ct56 [2], czix206 [2]
+Ohc-Response-Time: 1 0 0 0 0 0
+Ohc-File-Size: 27246
+X-Cache-Status: HIT
+

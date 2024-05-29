@@ -1,0 +1,25 @@
+POST https://toblog.ctobsnssdk.com/service/2/log_settings/?device_platform=android HTTP/1.1
+Accept-Encoding: gzip
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: toblog.ctobsnssdk.com
+Connection: Keep-Alive
+Content-Length: 806
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json
+Connection: keep-alive
+Date: Wed, 17 May 2023 05:07:23 GMT
+Vary: Accept-Encoding
+X-Tt-Logid: 2023051713072339A54113443356958830
+Server-Timing: inner; dur=4, tt_agw; dur=1
+x-tt-trace-host: 0187ed443a8f367dd48104f99448599d966a644308af127eaf312c6763a9cc2d1acf6c985b63b55a4c1893404afe5a6d941cad3b332bb411d257c58ccbf8d740e02aa572bd6be4e449265266fea76ed9c0254460f01d95db41ce46189c6c4d6199
+x-tt-trace-tag: id=3;cdn-cache=miss
+server-timing: cdn-cache;desc=MISS,edge;dur=0,origin;dur=38
+Via: dynamic4.cn2580[38,0]
+Timing-Allow-Origin: *
+EagleId: dde5ca3216843000430132538e
+Content-Length: 281
+

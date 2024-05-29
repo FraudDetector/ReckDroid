@@ -1,0 +1,22 @@
+GET https://dm.pstatp.com/get_domains/v4/?abi=arm64-v8a&aid=1371&device_platform=android&channel=openadsdk&version_code=3251&device_id=null HTTP/1.1
+Host: dm.pstatp.com
+User-Agent: VADNetAgent/0
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 400 Bad Request
+Server: Tengine
+Content-Length: 0
+Connection: keep-alive
+Date: Wed, 17 May 2023 19:27:17 GMT
+Upstream-Caught: 1684351637559215
+X-Tt-Logid: 20230518032717F73805AFDFBBB49FD9A7
+server-timing: inner; dur=0
+x-alicdn-da-ups-status: endOs,0,400
+Via: cache38.l2ea120-6[50,0], cache6.cn5059[60,0]
+x-tt-trace-tag: id=03;cdn-cache=miss;type=dyn
+server-timing: cdn-cache;desc=MISS,edge;dur=10,origin;dur=50
+Timing-Allow-Origin: *
+EagleId: deba951a16843516375157139e
+

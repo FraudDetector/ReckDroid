@@ -1,0 +1,25 @@
+POST https://pangolin.snssdk.com/api/ad/union/sdk/stats/batch/ HTTP/1.1
+Host: pangolin.snssdk.com
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36 okhttp/3.9.1
+Content-Type: application/json; charset=utf-8
+Content-Length: 624
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json; charset=utf-8
+Content-Length: 26
+Connection: keep-alive
+Date: Wed, 17 May 2023 19:23:45 GMT
+Vary: Accept-Encoding
+X-Tt-Logid: 20230518032345FA9EAF24669AAD302CE1
+server-timing: inner; dur=15
+x-tt-trace-host: 01efc85515249ae74190ffc15f22c7213213735cc30368d7af82a61747d445fa787578257edd6c3f03e5f53a4ada6bfbafdb9731e386d826275270430a5748ea6438d0c55baf28d7233df89c367c1217495f04f5905e4b91282d64e8e4d04e0509
+x-tt-trace-tag: id=03;cdn-cache=miss;type=dyn
+Via: cache53.l2nm125-4[39,0], cache1.cn1105[43,0]
+server-timing: cdn-cache;desc=MISS,edge;dur=4,origin;dur=39
+Timing-Allow-Origin: *
+EagleId: 79c20a4516843514252514107e
+

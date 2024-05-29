@@ -1,0 +1,1 @@
+{"content":{"bldg":"","floor":"","indoor":"1","loctp":"wf","navi":",,,","net_loc_save":1,"point":{"x":"118.813438","y":"31.885889"},"radius":"40.000000"},"result":{"error":"161","time":"2023-05-17 13:07:26"}}

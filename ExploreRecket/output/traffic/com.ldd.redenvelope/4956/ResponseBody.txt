@@ -1,0 +1,1 @@
+{"config":{"real_time_events":["realtime_click","realtime_report"],"batch_event_interval":60,"session_interval":30,"fingerprint_codes":[1,2,3,4,5,6],"bav_log_collect":true,"bav_ab_config":true,"bav_monitor_rate":0,"http_monitor_port":1024,"send_launch_timely":1,"use_old_encrypt":1,"use_new_encrypt":0,"fetch_interval":21600},"magic_tag":"ss_app_log","server_time":1684300043}

@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="dns-prefetch" href="//yun.tuifish.com">
+  <link rel="dns-prefetch" href="//yun.tuisnake.com">
+  <link rel="shortcut icon" type="image/x-icon" href="//yun.tuifish.com/favicon.ico">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="format-detection" content="telephone=no"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no"> 
+  <title>领取奖励红包</title>
+
+  <script type="text/javascript">
+    (function(e){e._error_storage_=[];e.ERROR_CONFIG={client:"tuia",pageId:"ops_redPacket_v1_vm",imgUrl:"//retcode.tuipink.com/report?"};function r(){e._error_storage_&&e._error_storage_.push([].slice.call(arguments))}e.addEventListener&&e.addEventListener("error",r,true);var t=3,n=function e(){var r=document.createElement("script");r.async=!0,r.src="//yun.tuisnake.com/h5-mami/activity/sdk/skyeye.js";if(window.location.protocol==="https:"){r.crossOrigin="anonymous"};r.onerror=function(){t--,t>0&&setTimeout(e,1500)},document.head&&document.head.appendChild(r)};e.addEventListener("load",n)})(window);    window.mengmaClose = true;
+var CFG = {
+  host: '//yun.tuifish.com',
+  recordNumber:'浙ICP备17042064号',
+  activityId: '34739',
+  activityType: '28',
+  slotId: '309386',
+  preview: false,
+  isShowBuoy: false,
+  isShowRecommend: true,
+  isShowNew: false,
+  tick: '',
+  consumerId: '36396070734',
+  appId:'61894',
+  couponSkinId: '1',
+  skinName: 'ops_redPacket_v1_vm',
+  isShowTiming: false,
+  isShowRsp: false,
+  isPriority: false,
+  kefuType: true,
+  isServicePhone: false,
+  servicePhone: '1',
+  isShowAd: false,
+  trackReport: {},
+  undertakeStateSwitch: false,
+  undertakeStateContext: '',
+  isLayerCloseIntercept: 1,
+  unicomWinBillPoint: 0,
+  unicomConsumeonce: 0,
+  notDoublingOptionId: 0,
+  chinaMobileJumpUrl: 'https://m.jf.10086.cn/topics/goodThings_h5/?contentId=2000000000001899',
+  needFingerprint: false,
+  slotActivityShut: '0',
+  deeplinkAbVersion: '',
+  deeplinkType: 0,
+  deeplinkLayer: 1,
+  styleConfig:{"skinConfig":[{"title":"元素区域","name":"elements","childrens":[{"title":"背景图","name":"bg","type":"image","size":{"width":750,"height":1606},"value":"//yun.tuisnake.com/mami-media/img/799688c6-w6jj7fukda.gif","psd":"//yun.tuisnake.com/h5-mami/dist/bg.6fe27c3f0bcd02fb2ec192e76da642d1.jpg"},{"title":"标语","name":"slogan","type":"image","size":{"width":600,"height":250},"value":"//yun.tuisnake.com/mami-media/img/30cd25c8-1s2yvot3st.png","psd":"//yun.tuisnake.com/h5-mami/dist/slogan.f01cd9c2f5e257f71a0bac1d2a95b27b.png"},{"title":"我的奖品图标","name":"record","type":"image","size":{"width":133,"height":137},"value":"//yun.tuisnake.com/h5-mami/dist/record.16373df9aa3894e15396821b425f706f.png","psd":"//yun.tuisnake.com/h5-mami/dist/record.16373df9aa3894e15396821b425f706f.png"},{"title":"规则图标","name":"rule","type":"image","size":{"width":98,"height":37},"value":"//yun.tuisnake.com/h5-mami/dist/rule.90621469300c4b1b02ad7336c6d5f663.png","psd":"//yun.tuisnake.com/h5-mami/dist/rule.90621469300c4b1b02ad7336c6d5f663.png"},{"title":"红包-完整","name":"redPacketFull","type":"image","size":{"width":750,"height":750},"value":null,"psd":"//yun.tuisnake.com/h5-mami/dist/redPacketFull.8f5e6b6e392eea658938572cce2087cb.png"},{"title":"红包-拉扯-精灵图","name":"redPacketPullSprites","type":"image","size":{"width":1500,"height":375},"value":null,"psd":"//yun.tuisnake.com/h5-mami/dist/redPacketPullSprites.c98474da7d1a1cc00c314a2a646a3219.png"},{"title":"红包-扯碎-精灵图","name":"redPacketBrokenSprites","type":"image","size":{"width":1500,"height":803},"value":null,"psd":"//yun.tuisnake.com/h5-mami/dist/redPacketBrokenSprites.f56d3477d84d3aa3d21bbf6249b976a8.png"},{"title":"红包-阴影","name":"redPacketShadow","type":"image","size":{"width":521,"height":131},"value":null,"psd":"//yun.tuisnake.com/h5-mami/dist/redPacketShadow.89c0240b7297ff9658055f6d8c6a5d39.png"},{"title":"火花-精灵图","name":"sparkSprites","type":"image","size":{"width":1500,"height":250},"value":"//yun.tuisnake.com/h5-mami/dist/sparkSprites.8be7957b43285830d57da7b447b5914c.png","psd":"//yun.tuisnake.com/h5-mami/dist/sparkSprites.8be7957b43285830d57da7b447b5914c.png"},{"title":"奖品框","name":"prizeFrame","type":"image","size":{"width":120,"height":128},"value":null,"psd":"//yun.tuisnake.com/h5-mami/dist/prizeFrame.c67aa9c7cd7d5d793336fae27e4bb061.png"},{"title":"奖品底座","name":"prizeBase","type":"image","size":{"width":750,"height":304},"value":null,"psd":"//yun.tuisnake.com/h5-mami/dist/prizeBase.be278d2003aa90a8358a9a2a5fb92739.png"},{"title":"参与按钮-精灵图","name":"btnSprites","type":"image","size":{"width":510,"height":271},"value":"//yun.tuisnake.com/mami-media/img/84b429e7-6ml336458v.gif","psd":"//yun.tuisnake.com/h5-mami/dist/btnSprites.8b542f86f57bb7ef646abd8535a0357b.png"},{"title":"引导-手势","name":"hand","type":"image","size":{"width":140,"height":150},"value":"//yun.tuisnake.com/mami-media/img/d87dc0f6-bcxo4vpl1q.png","psd":"//yun.tuisnake.com/h5-mami/dist/hand.07cb33e51951996aa6c240d1a3837b87.png"},{"title":"引导-光效","name":"guideLightSprites","type":"image","size":{"width":2250,"height":250},"value":"//yun.tuisnake.com/h5-mami/dist/guideLightSprites.8b76a8e806a47e460f98c9662e9d901f.png","psd":"//yun.tuisnake.com/h5-mami/dist/guideLightSprites.8b76a8e806a47e460f98c9662e9d901f.png"}]},{"title":"文字区域","name":"textInfo","childrens":[{"title":"活动规则","name":"ruleText","type":"text","require":true,"value":"<p>【参与方式】<br></p><p>天降红包限时抢</p><p>【活动规则】</p><p>每用户24小时内最多点击8次，累计进度及卡片次日0点清空</p><p>【活动奖品】</p><p>惊喜一：5000元iPhone购机金</p><p>惊喜二：300元红包</p><p>惊喜三：100元红包</p><p>惊喜四：50元红包</p><p>惊喜五：幸运福袋</p><p>【特殊说明】</p><p>在活动中获得道具、奖品后，如退出活动，可能导致道具或奖品丢失，请在获得道具、奖品后及时兑换或领取，避免损失。</p>"},{"title":"更多概率说明","name":"probabilityText","type":"text","require":true,"value":"<p>惊喜一：5000元iPhone购机金共10份，中奖概率为0.01%；<br></p><p>惊喜二：300元红包共20份，中奖概率为0.02%；</p><p>惊喜三：100元红包共30份，中奖概率为0.03%；</p><p>惊喜四：50元红包共120份，中奖概率为0.12%； &nbsp;</p><p>以上奖品，每人每天限领取1次。</p>"}]},{"title":"配色区域","name":"style","childrens":[{"title":"背景色","name":"bgColor","type":"color","value":"#fdb947"},{"title":"免责申明背景颜色","name":"appleBgColor","type":"color","value":"transparent"},{"title":"免责申明文字颜色","name":"appleTextColor","type":"color","value":"#fff"},{"title":"剩余次数颜色","name":"timesColor","type":"color","value":"#0a5cce"},{"title":"剩余次数背景颜色","name":"timesBgColor","type":"color","value":"rgba(255,255,255,0)"}]}]},
+  encourageLayer:[],
+  options:[{"activityId":34739,"activityType":28,"clickLog":"{\"dpm\":\"61894.132.34739.1\",\"consumer_id\":36396070734,\"domain4Web\":\"//activity.tuifish.com\",\"app_id\":61894,\"url\":\"/statistics/click\",\"dcm\":\"114.202103.3.34739\"}","couponPrice":0,"dayLimitNum":0,"detailDesc":"<p>【商品详情】<br></p><p>商品名称：iPhone XS 5000元购机红包</p><p>&nbsp;</p><p>【领取说明】</p><p>获奖后，请详细填写个人手机号（将作为支付宝充值号码）、姓名（核对用户），我们会在5-10个工作日内为您充值，若因个人原因导致号码错误、误充错充，不会进行补充，敬请谅解</p><p>&nbsp;</p><p>【特别说明】</p><p>请仔细阅读领奖流程，若有疑问，可直接联系客服专线：0571-22930370或客服QQ：4000806659（工作日9:00至18:00）</p>","detailImg":"//yun.tuitiger.com/mami-media/img/ete922qjtt.png","empty":false,"guaranteedNum":0,"hidden":0,"id":202103,"image":"//yun.tuisnake.com/mami-media/img/824849f3-adhqu9m3o2.png","isDeleted":false,"isHighAwardRate":0,"payload":0,"prizeId":3499,"prizeType":"physical","rate":"0.0000013","stockId":2314395278898520001,"title":"1","userType":0},{"activityId":34739,"activityType":28,"clickLog":"{\"dpm\":\"61894.132.34739.2\",\"consumer_id\":36396070734,\"domain4Web\":\"//activity.tuifish.com\",\"app_id\":61894,\"url\":\"/statistics/click\",\"dcm\":\"114.202104.3.34739\"}","couponPrice":0,"dayLimitNum":0,"detailDesc":"<p>【商品详情】<br></p><p>商品名称：300元红包</p><p>&nbsp;</p><p>【领取说明】</p><p>获奖后，请详细填写个人手机号（将作为支付宝充值号码）、姓名（核对用户），我们会在5-10个工作日内为您充值，若因个人原因导致号码错误、误充错充，不会进行补充，敬请谅解</p><p>&nbsp;</p><p>【推啊客服信息】</p><p>官方客服电话:4000341168（057122930370外呼）</p><p>非官方电话：18605101732</p>","detailImg":"//yun.tuitiger.com/mami-media/img/fx5chak2yv.png","empty":false,"guaranteedNum":0,"hidden":0,"id":202104,"image":"//yun.tuisnake.com/mami-media/img/7e2f90a7-iktl32jwcf.png","isDeleted":false,"isHighAwardRate":0,"payload":1,"prizeId":3629,"prizeType":"physical","rate":"0.000018","stockId":2314395278980420001,"title":"1","userType":0},{"activityId":34739,"activityType":28,"clickLog":"{\"dpm\":\"61894.132.34739.3\",\"consumer_id\":36396070734,\"domain4Web\":\"//activity.tuifish.com\",\"app_id\":61894,\"url\":\"/statistics/click\",\"dcm\":\"114.202105.3.34739\"}","couponPrice":0,"dayLimitNum":0,"detailDesc":"<p>【商品详情】<br></p><p>商品名称：100元红包</p><p>&nbsp;</p><p>【领取说明】</p><p>获奖后，请详细填写个人手机号（将作为支付宝充值号码）、姓名（核对用户），我们会在5-10个工作日内为您充值，若因个人原因导致号码错误、误充错充，不会进行补充，敬请谅解</p><p>&nbsp;</p><p>【推啊客服信息】</p><p>官方客服电话:4000341168（057122930370外呼）</p><p>非官方电话：18605101732</p>","detailImg":"//yun.tuitiger.com/mami-media/img/o2rki89g8w.png","empty":false,"guaranteedNum":0,"hidden":0,"id":202105,"image":"//yun.tuisnake.com/mami-media/img/09a52ec0-ageoev7sw1.png","isDeleted":false,"isHighAwardRate":0,"payload":2,"prizeId":3630,"prizeType":"physical","rate":"0.00003","stockId":2314395278980430001,"title":"1","userType":0},{"activityId":34739,"activityType":28,"clickLog":"{\"dpm\":\"61894.132.34739.4\",\"consumer_id\":36396070734,\"domain4Web\":\"//activity.tuifish.com\",\"app_id\":61894,\"url\":\"/statistics/click\",\"dcm\":\"114.202106.3.34739\"}","couponPrice":0,"dayLimitNum":0,"detailDesc":"<p>【商品详情】<br></p><p>商品名称：50元红包</p><p>&nbsp;</p><p>【领取说明】</p><p>获奖后，请详细填写个人手机号（将作为支付宝充值号码）、姓名（核对用户），我们会在5-10个工作日内为您充值，若因个人原因导致号码错误、误充错充，不会进行补充，敬请谅解</p><p>&nbsp;</p><p>【推啊客服信息】</p><p>官方客服电话:4000341168（057122930370外呼）</p><p>非官方电话：18605101732</p>","detailImg":"//yun.tuitiger.com/mami-media/img/86a89vr489.png","empty":false,"guaranteedNum":0,"hidden":0,"id":202106,"image":"//yun.tuisnake.com/mami-media/img/378800ba-7js24hx16s.png","isDeleted":false,"isHighAwardRate":0,"payload":3,"prizeId":3631,"prizeType":"physical","rate":"0.000056","stockId":2314395278898530001,"title":"1","userType":0},{"activityId":34739,"activityType":28,"clickLog":"{\"dpm\":\"61894.132.34739.5\",\"consumer_id\":36396070734,\"domain4Web\":\"//activity.tuifish.com\",\"app_id\":61894,\"url\":\"/statistics/click\",\"dcm\":\"114.202107.3.34739\"}","couponPrice":0,"empty":false,"hidden":0,"id":202107,"image":"//yun.tuisnake.com/mami-media/img/9a873f0a-lm7f8f665p.png","isDeleted":false,"isHighAwardRate":0,"payload":4,"prizeType":"thanks","title":"1","userType":0},{"activityId":34739,"activityType":28,"clickLog":"{\"dpm\":\"61894.132.34739.6\",\"consumer_id\":36396070734,\"domain4Web\":\"//activity.tuifish.com\",\"app_id\":61894,\"url\":\"/statistics/click\",\"dcm\":\"114.202108.3.34739\"}","couponPrice":0,"empty":false,"hidden":0,"id":202108,"image":"//yun.tuisnake.com/mami-media/img/6eb83f4f-tu0stza56x.png","isDeleted":false,"isHighAwardRate":0,"payload":5,"prizeType":"lucky","title":"福袋","userType":0}],
+  limitType:1,
+  limitTimes:5,
+  optionUpKey:0,
+  embedData:'{"st_info_rule_click":{"dpm":"61894.3.7.0","consumer_id":36396070734,"domain4Web":"//activity.tuifish.com","app_id":61894,"url":"/statistics/click","dcm":"1014.0.28.34739"},"st_info_rule_less_click":{"dpm":"61894.56.1.3","consumer_id":36396070734,"domain4Web":"//activity.tuifish.com","app_id":61894,"url":"/statistics/click","dcm":"1014.0.28.34739"},"st_info_rule_more_click":{"dpm":"61894.56.1.2","consumer_id":36396070734,"domain4Web":"//activity.tuifish.com","app_id":61894,"url":"/statistics/click","dcm":"1014.0.28.34739"},"st_info_rule_close_click":{"dpm":"61894.56.1.1","consumer_id":36396070734,"domain4Web":"//activity.tuifish.com","app_id":61894,"url":"/statistics/click","dcm":"1014.0.28.34739"},"st_info_options_click":{"dpm":"61894.3.2.0","consumer_id":36396070734,"domain4Web":"//activity.tuifish.com","app_id":61894,"url":"/statistics/click","dcm":"1010.0.0.0"},"st_info_rule_exposure":{"dpm":"61894.56.1.0","consumer_id":36396070734,"domainWeb":"//activity.tuifish.com","domain":"//openlog.tuia.cn","app_id":61894,"dcm":"1014.0.28.34739"}}',
+  contaction:'<p>兑奖方式及使用说明</p><p>1.参与活动后，中奖的用户应在活动页面、奖品详情页面所提示的时间内领奖，逾期未领，即视为放弃。</p><p>2.领奖后，用户可以通过点击“我的奖品”或相似字样、图标，查看已领取的奖品及使用规则。</p><p>3.请认真阅读优惠券、兑换券的使用规则，并按照优惠券、兑换券详情页面的提示操作。</p><p>4.实物类奖品将在中奖后的30个工作日内发货，请注意查收；话费、红包等虚拟奖品将在中奖后的72小时内充值进用户填写的账号。敬请认真、准确填写领取账号，因个人原因填写错误，导致充值失败的，将不给予补发。</p><p>5.参与活动过程中，可能获得虚拟道具若干，如“金币”、“宝箱”、“彩球”、“扭蛋”、“钥匙”等。虚拟道具的有效期为领取日的24:00，逾期清零作废。本活动页面中的虚拟道具仅限于本活动兑换、使用，不能与展示本活动的app、小程序等载体中的虚拟道具互相兑换或在前述载体中使用。因活动定期更新，虚拟道具的名称、获得数量、可兑换权益以活动页面实时展示为准。</p><p>6.因不可抗力、技术故障等原因，我们有权相应调整或终止活动，而无需向用户进行赔偿或补偿。</p><p>7.活动期间内，用户存在作弊等违法违规行为的，将被撤销抽奖资格、奖品使用资格，收回已获得的权益。</p><p>8.对活动规则、奖品使用规则、奖品领取等有疑问的，请在工作日9:00-18:00，按照如下方式联系客服：</p><p>（1）客服电话：<span style="color: rgb(51, 51, 51); font-size: 14px;">4001029288</span></p>',
+  isOpenPrizeInfo:true,
+  overseas: '0',
+  isPrizeRecommend: true,
+  isPublicNotice: false,
+  isPullDown: 0,
+  thankLayerType: 3,
+  styleType:999,
+  testGroup:true,
+  isDynamicEffectDisplay:1,
+  isCatchSpeed:'true',
+  testType:'0',
+  isAdvertLayer:true,
+  isLayerAdTextVisible:false,
+  isGlobalToken:false,
+  globalToken:'',
+  hasDiamonds:'0',
+  titleSecondName:'',
+  orderIconType:1,
+  isOneClickLogin:false,
+  isFlowType:false,
+  needLogin:false,
+  needChinaMobileReq:false,
+  needLinkedMeReq:false,
+  auto_pk_type:'',
+  algoTitle: {
+    titleActualPutType:'',
+    titleFirstName:'天降百万福利',
+    titleFirstCdnUrl:'',
+    titleSecondNameList:'null',
+    titleFirstNameList:'null',
+    titleSecondName:'',
+    subTitlePrizeId:'',
+    subTitlePrizeDesc:'',
+    actPrizeActualPutType:''
+  },
+  encourage: {
+    encourageStatus:0,
+    encourageMoney:0,
+    encourageMoneyAll:0,
+    url:'',
+    cashAfterDeliveryUrl:'',
+    enable:0,
+    withdrawalAmount:0,
+    encourageEmbedData:'{}',
+    type:1,
+    fragmentsGet:0,
+    lastFlowType:-1,
+    cashAfterDeliveryUrl1:'',
+    showType:'0',
+    advertId:'',
+    encourageIntercept:0
+  },
+  secondEncourage: {
+    secondEncourageLayer:{},
+    secondEnable:0,
+    secondEncourageType:0,
+    secondEncourageNum:0,
+    secondEncourageAllNum:0,
+    secondEncourageAll:'',
+    secondEncourageUrl:'',
+    secondEncourageEmbedData:{},
+    secondAdvertId:0,
+    secondStatus:'',
+    incentveIsFull:0,
+    secondIncentveIsFull:false
+  },
+  commerce: {
+    cash:0,
+    expireTime:0,
+    periodLotteryFlag:false
+  },
+  isPCAccessKeyValid:false,
+  isOnline:true,
+  interceptType:2,
+  isIntercept:true,
+  interceptTestResult:0,
+  isNewIntercept:true,
+  timesIntercept:1,
+  domainWhitelist:[],
+  ip:'218.2.107.253',
+  areaCode:'3201',
+  beginTime:'1684352169822',
+  advertNewVal:'8cd66751dfa20db0',
+  advertMdVal:'f80951eb3a6467cf89ab655bc095e89f',
+  encourageVideoAdvertIds:[],
+  canShowBuoyEncourage:2,
+  srpVideoEnable: false,
+  isAdvertLayerNew:true,
+  pgExtCustomCfg:{"isLoading":"1","isTitle":"1","checkQuickAppRuntimeEnv":"1","pkg":"{\"tea\":\"com.tuiatea.activity\",\"aoao\":\"com.aoao.activity\",\"turncircle\":\"com.tuia.turncircle\",\"mai\":\"com.tuiamai.activity\",\"tuitui\":\"com.tuitui.activity\",\"jsb\":\"com.tuiquick.activity\",\"guaka\":\"com.tuia.guaka\"}"},
+  brandName:'Xiaomi',
+  recordListUrl:'//activity.tuifish.com/activity/indexRecord?vmName=list',
+  activityShortLink:'',
+  ruleBackground:'//yun.tuisnake.com/yrzhao/ruleModal/rule-bg2.png',
+
+    quickapp:{"launch":"0"},
+    isQueryMediaApi:0
+    ,coverFlag:0
+      };
+var AliMM = {
+  aliMmUrl: ''
+};
+
+!function(){"use strict";function n(t,e,i){this.msg=t,this.time=e||1200,this.callback=i,this.init()}!function(t,e){void 0===e&&(e={});var i=e.insertAt;if(t&&"undefined"!=typeof document){var n=document.head||document.getElementsByTagName("head")[0],s=document.createElement("style");s.type="text/css","top"===i&&n.firstChild?n.insertBefore(s,n.firstChild):n.appendChild(s),s.styleSheet?s.styleSheet.cssText=t:s.appendChild(document.createTextNode(t))}}(".toast-msg {\n  opacity: 0;\n  visibility: hidden;\n  display: inline-block;\n  padding: 0.128rem 0.14506667rem;\n  color: #fff;\n  font-size: 0.11946667rem;\n  border-radius: 0.06826667rem;\n  background-color: rgba(0, 0, 0, 0.75);\n  position: fixed;\n  top: 50%;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  z-index: 9999;\n  -webkit-transition: opacity 200ms ease, visibility 200ms ease;\n  transition: opacity 200ms ease, visibility 200ms ease;\n  text-align: center;\n}\n.toast-msg-show {\n  opacity: 1;\n  visibility: visible;\n}\n.toast-msg-hide {\n  opacity: 0;\n  visibility: hidden;\n  display: none;\n}\n"),n.prototype={init:function(){var t=document.createElement("div");t.innerHTML=this.msg,t.className="toast-msg";var e=document.querySelector(".toast-msg");e&&e.parentNode&&e.parentNode.removeChild(e),document.body.appendChild(t),this.el=t,this.show()},show:function(){var t=this,e=this.el;e.classList.add("toast-msg-show"),e.addEventListener("click",function(){t.hide()}),setTimeout(function(){t.hide()},this.time)},hide:function(){function t(){e.classList.add("toast-msg-hide")}var e=this.el,i=this.callback;"function"==typeof i&&i.call(this,e),t(),e.addEventListener("transitionend",t),e.addEventListener("webkitTransitionEnd",t)}};var t,e={t1:5e3,t2:7e3,isOpen:!0};-1!==location.href.indexOf("test=true")&&(e.t1=500,e.t2=700,e.isOpen=!0),e.isOpen&&(t=!1,window.addEventListener("load",function(){t=!0}),setTimeout(function(){t||function(t,e,i){this instanceof n||new n(t,e,i)}("您的网络不太好，请耐心等待……")},e.t1))}();    !(function(){var host='//hunter-report.dui88.com';var group=1;var type=9;function getQueryVariable(variable){var query=window.location.search.substring(1);var vars=query.split("&");for(var i=0;i<vars.length;i++){var pair=vars[i].split("=");if(pair[0]==variable){return pair[1];}}return(false);}function send(){var json=JSON.stringify({subtype:'head',tck_rid_6c8:getQueryVariable('tck_rid_6c8'),slotId:window.CFG.slotId,activityId:window.CFG.activityId,consumerId:window.CFG.consumerId,timestamp:new Date().getTime()});new Image().src=''.concat(host,'/tuiaExtLog?group=').concat(group,'&type=').concat(type,'&json=').concat(encodeURIComponent(json));}try{send();}catch(e){}var openLogBaseUrl='';if(location&&/tuiatest\.cn$/.test(location.host)){openLogBaseUrl='https://openlog.tuiatest.cn/openlog/collect';}else{openLogBaseUrl='https://openlog.tuia.cn/openlog/collect';}function openLogHeartbeat(){return;var type=198;var json=JSON.stringify({rid:getQueryVariable('tck_rid_6c8'),slotId:window.CFG.slotId,activityId:window.CFG.activityId,deviceId:getQueryVariable('deviceId'),appId:window.CFG.appId,consumerId:window.CFG.consumerId,timestamp:new Date().getTime(),ua:navigator.userAgent});new Image().src=''.concat(openLogBaseUrl,'?type=').concat(type,'&logName=innerExt02&json=').concat(encodeURIComponent(json));}var count=0;openLogHeartbeat();var timer=setInterval(()=>{openLogHeartbeat();count++;if(count>=9){clearInterval(timer);}},1000);}());  </script>
+  <script type="text/javascript">
+window.TA = window.TA || {};
+window.TA.isSupportWebp = true;
+</script>  <!-- new inline -->
+  <script type="text/javascript">
+    !function(){"use strict";var o,t,f;function i(){if(void 0!==t)return t;if(window.TA&&void 0!==window.TA.isSupportWebp){if(t=window.TA.isSupportWebp,window.localStorage)try{window.localStorage.setItem("iswebp",t)}catch(e){}return t}if(window.localStorage){var e=window.localStorage.getItem("ta_webp");if(null!=e)return t="true"===e}try{t=!![].map&&0===document.createElement("canvas").toDataURL("image/webp").indexOf("data:image/webp")}catch(e){t=!1}if(window.localStorage)try{window.localStorage.setItem("ta_webp",t)}catch(e){}return t}function p(e){return e&&"[object String]"===Object.prototype.toString.call(e)?-1!==e.indexOf("data:image")?e:-1!==e.indexOf("?x-oss-process")?e:i()?e+"?x-oss-process=image/format,webp":e:e}function w(e){var t=window.CFG||{};return e?t[e]:t}!function(){var i=document.documentElement;if(!i.getAttribute["data-dpr"]){var e=navigator.userAgent.match(/iPhone|iPad|iPod/i)?Math.min(window.devicePixelRatio||1,3):1;i.setAttribute("data-dpr",e),t(function(e){document.body.style.margin="0 auto",document.body.style.maxWidth="".concat(e,"px")}),window.addEventListener("pageshow",t,!1),window.addEventListener("orientationchange"in window?"orientationchange":"resize",t,!1)}function t(e){var t=i.clientWidth;!navigator.userAgent.match(/Android|iPhone|iPad|iPod/i)&&1024<t&&(t=640,"function"==typeof e&&setTimeout(function(){e(t)},0)),window.remScale=t/640;var n=t/640*2*100;n!==o&&(o=n,i.style.fontSize="".concat(o,"px"))}}(),function(e){var t=0<arguments.length&&void 0!==e?e:"ta-webp";if(i()){var n=document.documentElement;-1===(n.className||"").indexOf(t)&&n.classList.add(t)}}(),function(e){var t=0<arguments.length&&void 0!==e?e:"ta-hairlines",n=document.documentElement;if(2<=(window.devicePixelRatio||1)&&-1===n.className.indexOf(t)){var i=document.createElement("div"),o=document.createElement("body");i.style.border=".5px solid transparent",o.appendChild(i),n.insertBefore(o,n.firstElementChild||n.firstChild),1===i.offsetHeight&&n.classList.add(t),n.removeChild(o)}}();var e=window.TA=window.TA||{};e.px2rem=function(e){return parseFloat(e)/234.375},e.rem2px=function(e){return parseFloat(e)*o*2},e.getWebpUrl=p,e.getConfig=w,e.getSkinConfig=function(e){if(f)return e?f[e]?f[e]:{}:f;f={};for(var t=w("styleConfig"),n=t?t.skinConfig:[],i=0;i<n.length;i++){var o=n[i].childrens;if(o)for(var a=0;a<o.length;a++){var r=o[a],d=r.type,c=r.name,l=r.title,s=r.webp,u=o[a].value,m=u;switch(d){case"image":u=!1===s?u:p(u);break;case"position":case"bottom":u=parseFloat(u.toString().replace(/<[^>]*>/g,""))}f[c]={value:u,oldValue:m,type:d,title:l}}}return e?f[e]:f},e.addPreloadStyle=function(e){var t=document.createElement("style");t.type="text/css",t.styleSheet?t.styleSheet.cssText=e:t.appendChild(document.createTextNode(e)),document.getElementsByTagName("head")[0].appendChild(t)},e.preloadImage=function(e){for(var t=0;t<e.length;t++){var n=[];n[t]=new Image,n[t].src=e[t]}},Object.defineProperty(e,"isSupportWebp",{get:function(){return i()}})}();
+  </script>
+      <script type="text/javascript" src="https://yun.tuisnake.com/jimu-sdk/jimu-sdk-640.js" defer></script>
+  
+  <script>
+  (function(n){n.HUNTER_CONFIG={client:"tuia"};var e=3;var t=function n(){var t=document.createElement("script");t.src="//yun.tuisnake.com/tuia/hunter/2.6.1/hunter.js";if(window.location.protocol==="https:"){t.crossOrigin="anonymous"}t.onerror=function(){e--;e>0&&setTimeout(n,2e3)};document.head&&document.head.appendChild(t)};n.addEventListener("load",t)})(window);
+</script><!-- 开始 -->
+  <script type="text/javascript">!function(e){var g=[e.TA.getSkinConfig("bg").value,e.TA.getSkinConfig("slogan").value,e.TA.getSkinConfig("redPacketFull").value,e.TA.getSkinConfig("btnSprites").value];e.TA.preloadImage(g);g='.tac-app {  background-image: url("'+e.TA.getSkinConfig("bg").value+'");  background-color: '+e.TA.getSkinConfig("bgColor").value+'}.prp .slogan{  background-image: url("'+e.TA.getSkinConfig("slogan").value+'");}.prp .prp-packet-full{  background-image: url("'+e.TA.getSkinConfig("redPacketFull").value+'");}.prp .prp-packet-btn{  background-image: url("'+e.TA.getSkinConfig("btnSprites").value+'");}';e.TA.addPreloadStyle(g)}(window);</script><link rel="stylesheet"href="//yun.tuisnake.com/tact/core/core.f8070368.css"><script src="//statres.quickapp.cn/quickapp/js/routerinline.min.js"></script><link href="//yun.tuisnake.com/tact/redpacket/css/redpacket.5bcb2c5c.css"rel="stylesheet"></head><body><script src="//yun.tuisnake.com/tact/quickapp/qka_wake.2a5a2f77.js"crossorigin></script><!--hunter markup--><div id="vm-preload"style="display: none;"></div><!--tact vue framework--><div id="app"></div><div class="modal-group"style="display: none;"></div><!--<script type="text/javascript"src="//g.alicdn.com/AWSC/AWSC/awsc.js"></script>--><script src="//yun.tuisnake.com/tact/vendor/vendor.6c6e6c1d.js"crossorigin></script><script src="//yun.tuisnake.com/tact/core/core.umd.min.48ba07ba.js"crossorigin></script><script src="//yun.tuisnake.com/tact/redpacket/js/redpacket.412deb17.js"crossorigin></script></body>
+<!-- 结束 -->

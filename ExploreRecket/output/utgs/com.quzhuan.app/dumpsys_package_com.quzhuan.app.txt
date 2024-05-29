@@ -1,0 +1,275 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        473c597 com.quzhuan.app/com.lezou.app.view.activity.SplashActivity filter a53816
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BOOT_COMPLETED:
+        5495384 com.quzhuan.app/lib.TodayStepBootCompleteReceiver filter 32af1d8
+          Action: "android.intent.action.BOOT_COMPLETED"
+      android.intent.action.ACTION_SHUTDOWN:
+        3c2f76d com.quzhuan.app/lib.TodayStepShutdownReceiver filter 408f931
+          Action: "android.intent.action.ACTION_SHUTDOWN"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        cb4bfa2 com.quzhuan.app/lib.TodayStepService filter 17b514a
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.DATE_CHANGED"
+          Action: "android.intent.action.MEDIA_MOUNTED"
+          Action: "android.intent.action.USER_PRESENT"
+          Action: "android.intent.action.ACTION_TIME_TICK"
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.MEDIA_MOUNTED:
+        cb4bfa2 com.quzhuan.app/lib.TodayStepService filter 17b514a
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.DATE_CHANGED"
+          Action: "android.intent.action.MEDIA_MOUNTED"
+          Action: "android.intent.action.USER_PRESENT"
+          Action: "android.intent.action.ACTION_TIME_TICK"
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      com.ss.android.socialbase.downloader.remote:
+        4a52433 com.quzhuan.app/com.ss.android.socialbase.downloader.downloader.IndependentProcessDownloadService filter d8258bb
+          Action: "com.ss.android.socialbase.downloader.remote"
+      android.intent.action.BOOT_COMPLETED:
+        cb4bfa2 com.quzhuan.app/lib.TodayStepService filter 17b514a
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.DATE_CHANGED"
+          Action: "android.intent.action.MEDIA_MOUNTED"
+          Action: "android.intent.action.USER_PRESENT"
+          Action: "android.intent.action.ACTION_TIME_TICK"
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.USER_PRESENT:
+        cb4bfa2 com.quzhuan.app/lib.TodayStepService filter 17b514a
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.DATE_CHANGED"
+          Action: "android.intent.action.MEDIA_MOUNTED"
+          Action: "android.intent.action.USER_PRESENT"
+          Action: "android.intent.action.ACTION_TIME_TICK"
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        cb4bfa2 com.quzhuan.app/lib.TodayStepService filter 17b514a
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.DATE_CHANGED"
+          Action: "android.intent.action.MEDIA_MOUNTED"
+          Action: "android.intent.action.USER_PRESENT"
+          Action: "android.intent.action.ACTION_TIME_TICK"
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.DATE_CHANGED:
+        cb4bfa2 com.quzhuan.app/lib.TodayStepService filter 17b514a
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.DATE_CHANGED"
+          Action: "android.intent.action.MEDIA_MOUNTED"
+          Action: "android.intent.action.USER_PRESENT"
+          Action: "android.intent.action.ACTION_TIME_TICK"
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.ACTION_TIME_TICK:
+        cb4bfa2 com.quzhuan.app/lib.TodayStepService filter 17b514a
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.DATE_CHANGED"
+          Action: "android.intent.action.MEDIA_MOUNTED"
+          Action: "android.intent.action.USER_PRESENT"
+          Action: "android.intent.action.ACTION_TIME_TICK"
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+
+Registered ContentProviders:
+  com.quzhuan.app/com.lexing.module.utils.LXGdtProvider:
+    Provider{dca23f0 com.quzhuan.app/com.lexing.module.utils.LXGdtProvider}
+  com.quzhuan.app/com.admvvm.frame.utils.BaseFileProvider:
+    Provider{1a49d69 com.quzhuan.app/com.admvvm.frame.utils.BaseFileProvider}
+  com.quzhuan.app/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{34333ee com.quzhuan.app/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+  com.quzhuan.app/androidx.core.content.FileProvider:
+    Provider{583d08f com.quzhuan.app/androidx.core.content.FileProvider}
+  com.quzhuan.app/com.bytedance.sdk.openadsdk.TTFileProvider:
+    Provider{458f1c com.quzhuan.app/com.bytedance.sdk.openadsdk.TTFileProvider}
+  com.quzhuan.app/com.bytedance.sdk.openadsdk.multipro.TTMultiProvider:
+    Provider{ae0a725 com.quzhuan.app/com.bytedance.sdk.openadsdk.multipro.TTMultiProvider}
+  com.quzhuan.app/com.admvvm.frame.crash.CaocInitProvider:
+    Provider{32a0fa com.quzhuan.app/com.admvvm.frame.crash.CaocInitProvider}
+
+ContentProvider Authorities:
+  [com.quzhuan.app.customactivityoncrashinitprovider]:
+    Provider{32a0fa com.quzhuan.app/com.admvvm.frame.crash.CaocInitProvider}
+      applicationInfo=ApplicationInfo{df6e6ab com.quzhuan.app}
+  [com.quzhuan.app.basefileprovider]:
+    Provider{1a49d69 com.quzhuan.app/com.admvvm.frame.utils.BaseFileProvider}
+      applicationInfo=ApplicationInfo{df6e6ab com.quzhuan.app}
+  [com.quzhuan.app.fileprovider]:
+    Provider{dca23f0 com.quzhuan.app/com.lexing.module.utils.LXGdtProvider}
+      applicationInfo=ApplicationInfo{df6e6ab com.quzhuan.app}
+  [com.quzhuan.app.TTFileProvider]:
+    Provider{458f1c com.quzhuan.app/com.bytedance.sdk.openadsdk.TTFileProvider}
+      applicationInfo=ApplicationInfo{df6e6ab com.quzhuan.app}
+  [com.quzhuan.app.lifecycle-process]:
+    Provider{34333ee com.quzhuan.app/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{df6e6ab com.quzhuan.app}
+  [com.quzhuan.app.TTMultiProvider]:
+    Provider{ae0a725 com.quzhuan.app/com.bytedance.sdk.openadsdk.multipro.TTMultiProvider}
+      applicationInfo=ApplicationInfo{df6e6ab com.quzhuan.app}
+
+Key Set Manager:
+  [com.quzhuan.app]
+      Signing KeySets: 152
+
+Packages:
+  Package [com.quzhuan.app] (faa8108):
+    userId=10239
+    pkg=Package{31990a1 com.quzhuan.app}
+    codePath=/data/app/com.quzhuan.app-g2s4XnB65tRAvcyJw3Yduw==
+    resourcePath=/data/app/com.quzhuan.app-g2s4XnB65tRAvcyJw3Yduw==
+    legacyNativeLibraryDir=/data/app/com.quzhuan.app-g2s4XnB65tRAvcyJw3Yduw==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=332 minSdk=21 targetSdk=29
+    versionName=3.3.2
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{df6e6ab com.quzhuan.app}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.quzhuan.app
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      org.apache.http.legacy
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2023-05-18 03:23:06
+    firstInstallTime=2023-05-18 03:23:07
+    lastUpdateTime=2023-05-18 03:23:07
+    signatures=PackageSignatures{979d2c6 version:2, signatures:[4eb07bf0], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.CAMERA
+      android.permission.READ_PHONE_STATE
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.REQUEST_INSTALL_PACKAGES
+      android.permission.GET_TASKS
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.WAKE_LOCK
+      android.permission.CHANGE_WIFI_STATE
+      android.permission.VIBRATE
+      android.permission.FLASHLIGHT
+      android.permission.BLUETOOTH
+      android.permission.CALL_PHONE
+      android.permission.FOREGROUND_SERVICE
+      com.asus.msa.SupplementaryDID.ACCESS
+      freemme.permission.msa
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.BLUETOOTH: granted=true
+      android.permission.GET_TASKS: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.CHANGE_WIFI_STATE: granted=true
+      android.permission.FLASHLIGHT: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=1966566 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3002, 3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=479
+  User 0:
+    seq=6, package=cn.fangchan.fanzan
+    seq=8, package=com.bx.hbll
+    seq=12, package=com.cashwalk
+    seq=17, package=com.chenglie.qhbvideo
+    seq=24, package=com.chilliv.shortvideo
+    seq=34, package=com.fanqian.android
+    seq=42, package=com.fqapps.fdsh
+    seq=47, package=com.haoquanbushou
+    seq=49, package=com.hdx.dzzq
+    seq=57, package=com.jielong.idiomwords
+    seq=61, package=com.jingdong.app.mall
+    seq=63, package=com.kling.hbao
+    seq=70, package=com.ldd.redenvelope
+    seq=74, package=com.lechuan.mdwz
+    seq=78, package=com.meituan.turbo
+    seq=88, package=com.moji.mjweather.light
+    seq=91, package=com.my.haoyangmao
+    seq=94, package=com.my.shengqian
+    seq=96, package=com.phrase.wealth
+    seq=98, package=com.profit.run.much
+    seq=102, package=com.quliang.video
+    seq=104, package=com.qxtx.shengqianhua
+    seq=111, package=com.sankuai.meituan
+    seq=116, package=com.sankuai.meituan.takeoutnew
+    seq=121, package=com.sanmiao.sound
+    seq=127, package=com.shanzhu.shortvideo
+    seq=131, package=com.smile.dayvideo
+    seq=137, package=com.songheng.eastnews
+    seq=142, package=com.sqgj
+    seq=144, package=com.taobamai.zhenyouhui
+    seq=147, package=com.tejia.lijin
+    seq=161, package=com.ucmobile.lite
+    seq=163, package=com.yhfwork.RedEnvelope
+    seq=169, package=com.yuedong.sport
+    seq=327, package=com.baidu.searchbox.mission
+    seq=368, package=com.mw.redpack
+    seq=369, package=cn.kuwo.tingshu.lite
+    seq=370, package=com.baidu.searchbox.lite
+    seq=371, package=com.dragon.read
+    seq=372, package=com.idealread.center
+    seq=373, package=com.jifen.qukan
+    seq=374, package=com.jzyd.coupon
+    seq=375, package=com.kuaishou.nebula
+    seq=376, package=com.ss.android.ugc.aweme.lite
+    seq=387, package=sg.bigo.shrimp
+    seq=393, package=cn.baoxiaosheng.mobile
+    seq=395, package=cn.tech.weili.kankan
+    seq=397, package=cn.weli.story
+    seq=403, package=com.bbcyxh.taluo
+    seq=405, package=com.cashtoutiao
+    seq=408, package=com.comic.isaman
+    seq=410, package=com.huiydzq.app
+    seq=412, package=com.dotbox.bailey
+    seq=418, package=com.dreamtd.redspeed
+    seq=422, package=com.eastmoney.android.tokyo
+    seq=426, package=com.fanliddzs
+    seq=430, package=com.fanlitejiaban
+    seq=433, package=com.jd.jdlite
+    seq=436, package=com.jd.pingou
+    seq=439, package=com.juqitech.niumowang
+    seq=441, package=com.lexingzou.app
+    seq=443, package=com.lezou51.app
+    seq=448, package=com.ludashi.benchmark
+    seq=450, package=com.meiyou.youzijie
+    seq=456, package=com.osq.game.chengyu
+    seq=459, package=com.p405958547.ifw
+    seq=461, package=com.paobuzq.app
+    seq=463, package=com.paomeili.jiumei
+    seq=469, package=com.qa.champion
+    seq=475, package=com.qa.millionnaire
+    seq=478, package=com.qh18.futures
+
+
+Dexopt state:
+  [com.quzhuan.app]
+    path: /data/app/com.quzhuan.app-g2s4XnB65tRAvcyJw3Yduw==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [com.quzhuan.app]
+    (No recorded stats)

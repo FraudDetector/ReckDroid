@@ -1,0 +1,40 @@
+GET https://yun.tuisnake.com/h5-mami/dist/rule.90621469300c4b1b02ad7336c6d5f663.png?x-oss-process=image/format,webp HTTP/1.1
+Host: yun.tuisnake.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://activity.tuifish.com/activity/index?id=34739&slotId=309386&login=normal&appKey=Gm4nRKHbkyQr5iLyWYbgHM1tkCb&deviceId=766ecaf5-ad17-4ed6-b054-6ded6c4c1b7f&dsm=1.309386.0.0&dsm2=1.309386.2.34739&tenter=SOW&subActivityWay=48&tck_rid_6c8=0a379fc1lhr53324-1008189&tck_loc_c5d=tactivity-34739&dcm=401.309386.0.0&netType=2&tenter=SOW&visType=0&specialType=0&sourcePage=34739&deviceIdType=2&formUserId=null&isTestActivityType=0&algoType=42&userType=1&ep=KLAVobjCxF_pjCpasaq57iehY4L5PdrDxs3-HWzrEXoTUj3sQrkGFt-DDuOpAu1BKsoEu0PfxBx_1-tC6Kovaw==&iframe=1&openStyleType=2136&sign=5D09155564BDE90333F0D93DD4499405
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/webp
+Content-Length: 2206
+Connection: keep-alive
+Date: Tue, 18 Apr 2023 10:18:31 GMT
+x-oss-request-id: 643E6E772851783331064512
+x-oss-cdn-auth: success
+ETag: "90621469300C4B1B02AD7336C6D5F663"
+Last-Modified: Fri, 18 Oct 2019 03:31:34 GMT
+x-oss-object-type: Normal
+x-oss-storage-class: Standard
+x-oss-server-time: 48
+x-oss-hash-crc64ecma: 9053206824539433841
+Ali-Swift-Global-Savetime: 1681813111
+Via: cache25.l2cn2602[0,0,200-0,H], cache48.l2cn2602[1,0], vcache22.cn4291[0,0,200-0,H], vcache17.cn4291[1,0]
+Age: 2539059
+X-Cache: HIT TCP_MEM_HIT dirn:10:171351411
+X-Swift-SaveTime: Sat, 06 May 2023 02:04:22 GMT
+X-Swift-CacheTime: 29578449
+Access-Control-Allow-Headers: Content-Length,Range
+Access-Control-Allow-Methods: GET,HEAD,OPTIONS
+Access-Control-Expose-Headers: Content-Length,Range
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: 7c4882a516843521708111100e
+

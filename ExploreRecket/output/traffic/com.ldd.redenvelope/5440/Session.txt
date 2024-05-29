@@ -1,0 +1,17 @@
+GET http://mobads.baidu.com/ads/pa/8/gray/__pasys_remote_banner.php?code2=T7qvugcqri3zPjDhmLNGujYkwRnYwWNjwWujwH6LfHnYfWPAwHTdrD7APRc4nH9aPgkyndKaRDNpwjchULnqmy4bThqGuaubuguGmvNxpyfquhcvryfsPh7-mvcvrHPhnzu9TZK1pyfquyPbPHbkn1bhmhwz5Hc3Fhq1IWY4FMmqri3zPjDhmvkEIywxIhNzTv-EUWYkQW0hUyqbuysqHRb6P-6hTA_qmvqVQhkbua4zuyw-UMu-UAqsuiu1UWYhmMF9UhfqXA-9UvdG HTTP/1.1
+accept: */*
+connection: Keep-Alive
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads.baidu.com
+Accept-Encoding: gzip
+Cookie: BAIDUID=625C87188642DA0F71FBC31850CA24DF:FG=1; BCLID=7375635080588433441; BDSFRCVID=YWLOJeCinRGkiE3fjM4KUJaOkn_rK57TH6WKnBWQvrBi14EIFNwSEG0Ppf8g0KFM9j96ogKKL2OTHm_F_2uxOjjg8UtVJeC6EG0Ptf8g0f5; H_BDCLCKID_SF=JnkJ_CIXfCP3Hn7CbJK_-4_tbh_X5-RLfa5U2p7F5lOEDxojMPrpDPKqXHOiLxTKBK3XM-ocJC3xOKQ5yPTI3p_BK450J634WmcwLMON3KJmqbL9bT3vQxr-MGuq2-biW2tH2Mbdax7P_IoG2Mn8M4bb3qOpBtQmJeTxoUJ25DnJhbLGe4bK-Tr0DH-8tUK
+
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 6
+Content-Type: text/plain;charset=UTF-8
+Date: Wed, 17 May 2023 05:11:35 GMT
+X-B3-Spanid: d315bb92791cc800
+X-B3-Traceid: 4ba6fd59f47111edbaa13130befb7e7c
+

@@ -1,0 +1,16 @@
+POST https://sdk.e.qq.com/mediation?version=1 HTTP/1.1
+User-Agent: GDTMobSDK4.492.1362-[Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)]
+Content-Type: application/x-www-form-urlencoded
+Host: sdk.e.qq.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Content-Length: 308
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 05:11:33 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 132
+Connection: keep-alive
+X-Trace-Id: 1244d8df-05d3-49aa-a409-7a83dbbd0881
+

@@ -1,0 +1,25 @@
+POST https://toblog.ctobsnssdk.com/service/2/app_log/?version_code=332&device_platform=android&aid=164362 HTTP/1.1
+Content-Type: application/octet-stream;tt-data=a
+Accept-Encoding: gzip
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: toblog.ctobsnssdk.com
+Connection: Keep-Alive
+Content-Length: 758
+
+
+HTTP/1.1 200 OK
+Server: dsa-nginx
+Content-Type: application/json; charset=utf-8
+Content-Length: 71
+Connection: keep-alive
+Date: Wed, 17 May 2023 19:23:45 GMT
+X-Tt-Logid: 20230518032345E1A99E69434D2D8AFD7E
+server-timing: inner; dur=2, cdn-cache;desc=MISS, origin;dur=24, edge;dur=0
+x-tt-trace-host: 016196cb5983309e99a6f7defd4b31472f3661e201d37283cf2bd024312deedd6cc4582942442d7dd0fbb1554b60695815264b96988c6fd61cac46abee3038464c184a70e6406383b8e0f83e4f6477b888
+x-tt-trace-tag: id=5
+x-tt-trace-id: 00-2b2b1f4003010b628524dc36d6ad0000-2b2b1f4003010b62-01
+via: n157-089-165.njmpcu.Creative
+x-request-ip: 153.3.60.85
+x-dsa-trace-id: 168435142505df3fda2d17a65eba6384530a892def
+X-Dsa-Origin-Status: 200
+

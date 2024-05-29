@@ -1,0 +1,3995 @@
+{
+  "tag": "2023-05-18_032321",
+  "state_str": "4289bfe3e5070b17e05aca369d603fe8",
+  "state_str_content_free": "900ec9e0e9269bf6d901e5834abf45f0",
+  "foreground_activity": "com.miui.home/.launcher.Launcher",
+  "activity_stack": [
+    "com.miui.home/.launcher.Launcher"
+  ],
+  "background_services": [
+    "com.miui.player/com.xiaomi.mipush.sdk.PushMessageHandler",
+    "com.android.calendar/com.xiaomi.mipush.sdk.PushMessageHandler",
+    "org.codeaurora.ims/.ImsService",
+    "com.tencent.mm/.plugin.webview.stub.WebViewStubService",
+    "com.xiaomi.mi_connect_service/.MiConnectService",
+    "com.qualcomm.qti.uceShimService/.RCSService",
+    "android.ext.services/.notification.Assistant",
+    "com.qualcomm.location/.LocationService",
+    "com.miui.powerkeeper/.feedbackcontrol.FeedbackControlService",
+    "com.miui.analytics/.AppenderService",
+    "com.tencent.mm/.ipcinvoker.wx_extension.service.MainProcessIPCService",
+    "com.miui.analytics/.onetrack.OneTrackService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.qualcomm.location/.izat.IzatService",
+    "com.qualcomm.qti.smcinvokepkgmgr/.SmcInvokeService",
+    "com.miui.notification/miui.notification.service.NotificationListener",
+    "com.android.systemui/.ImageWallpaper",
+    "com.miui.securitycenter/com.miui.antivirus.service.GuardService",
+    "com.miui.powerkeeper/.powerchecker.PowerCheckerService",
+    "com.miui.securitycenter/com.miui.gamebooster.service.NotificationListener",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.xiaomi.metoknlp/com.xiaomi.location.metoknlp.MetokGeocodeService",
+    "com.miui.systemAdSolution/.splashscreen.SplashScreenService",
+    "com.android.camera/.EmptyService",
+    "com.longcheer.autoregistration/.RegistrationService",
+    "com.miui.securitycenter/com.miui.networkassistant.vpn.miui.MiuiVpnManageService",
+    "com.miui.analytics/.AnalyticsService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.android.bluetooth/.pbap.BluetoothPbapService",
+    "com.xiaomi.misettings/.usagestats.UsageCacheService",
+    "com.tencent.mm/.booter.CoreService",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "com.android.systemui/.fsgesture.FsGestureService",
+    "com.qualcomm.qcrilmsgtunnel/.QcrilMsgTunnelService",
+    "com.miui.securitycenter/com.miui.powercenter.provider.PowerSaveService",
+    "com.xiaomi.xmsf/.push.service.HttpService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.android.systemui/.SystemUIService",
+    "com.xiaomi.xmsf/com.xiaomi.push.service.XMPushService",
+    "com.tencent.mm/.service.ProcessService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.sohu.inputmethod.sogou.xiaomi/com.sohu.inputmethod.settings.status.SogouStatusService",
+    "com.miui.guardprovider/.manager.SecurityService",
+    "com.miui.hybrid/org.hapjs.card.support.service.PlatformInstallService",
+    "com.qualcomm.location/.LBSSystemMonitorService",
+    "com.xiaomi.powerchecker/.PowerCheckerService",
+    "com.android.mms/.transaction.NotificationAssistService",
+    "com.android.server.telecom/.components.BluetoothPhoneService",
+    "com.miui.daemon/.performance.SysoptService",
+    "com.xiaomi.xmsf/.push.service.notificationcollection.NotificationListener",
+    "com.xiaomi.joyose/.stepsprovider.StepsService",
+    "com.qti.dpmserviceapp/.DpmServiceApp",
+    "com.android.stk/.StkAppService",
+    "com.miui.analytics/.internal.WakeupService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.miui.powerkeeper/.WakelockManagerService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.miui.hybrid/.statistics.StatsService",
+    "com.qti.qualcomm.datastatusnotification/.DataStatusNotificationService",
+    "com.miui.powerkeeper/.PowerKeeperBackgroundService",
+    "com.xiaomi.joyose/.sysbase.MetokClService",
+    "com.tencent.mm/com.tencent.matrix.lifecycle.supervisor.SupervisorService",
+    "com.android.smspush/.WapPushManager",
+    "com.miui.securitycenter/.service.RemoteService",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "com.android.browser/com.xiaomi.mipush.sdk.MessageHandleService",
+    "com.miui.wmsvc/.WMService",
+    "android/com.android.server.content.SyncJobService",
+    "com.miui.systemAdSolution/.changeSkin.ChangeSkinService",
+    "com.tencent.mm/.ipcinvoker.wx_extension.service.PushProcessIPCService",
+    "com.xiaomi.joyose/.smartop.SmartOpService",
+    "com.miui.powerkeeper/.statemachine.PowerStateMachineService",
+    "com.xiaomi.metoknlp/com.xiaomi.location.metoknlp.MetokLocationService",
+    "com.miui.securitycenter/com.miui.networkassistant.service.FirewallService",
+    "com.miui.daemon/.performance.MiuiPerfService",
+    "com.android.browser/com.xiaomi.mipush.sdk.PushMessageHandler",
+    "com.miui.securitycenter/com.miui.networkassistant.service.tm.TrafficManageService",
+    "com.qualcomm.qti.telephonyservice/.QtiTelephonyService",
+    "com.xiaomi.location.fused/.FusedLocationService",
+    "com.miui.powerkeeper/.NotificationListener",
+    "com.android.bluetooth/.map.BluetoothMapService",
+    "com.android.mms.service/.MmsService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.android.bluetooth/.hid.HidHostService",
+    "se.dirac.acs/.AudioControlService",
+    "com.miui.analytics/.internal.collection.MusicStateListener",
+    "com.miui.player/com.xiaomi.mipush.sdk.MessageHandleService",
+    "com.lbe.security.miui/com.lbe.security.service.SecurityService",
+    "com.android.bluetooth/.pan.PanService",
+    "com.android.systemui/com.android.keyguard.wallpaper.service.MiuiKeyguardPictorialWallpaper",
+    "com.tencent.soter.soterserver/.SoterService",
+    "com.android.calendar/com.xiaomi.mipush.sdk.MessageHandleService"
+  ],
+  "width": 1080,
+  "height": 2160,
+  "views": [
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2160
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1080*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "496ea41758502e0e557dee4f1b7c76f3"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2,
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2160
+        ]
+      ],
+      "resource_id": "miui:id/action_bar_overlay_layout",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1080*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]miui:id/action_bar_overlay_layout[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]miui:id/action_bar_overlay_layout",
+      "view_str": "34b46bbf103ba4f450873d38278ea759"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "resource_id": "miui:id/action_bar_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "0*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]miui:id/action_bar_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]miui:id/action_bar_container",
+      "view_str": "f1a27016518a068c77173a8e268d2a48"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          66
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "resource_id": "miui:id/action_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "0*-66",
+      "signature": "[class]android.view.ViewGroup[resource_id]miui:id/action_bar[text]None[enabled,,]",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]miui:id/action_bar",
+      "view_str": "780a487dec996f6236c51ac8c756ee6d"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2160
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 4,
+      "size": "1080*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content",
+      "view_str": "c0726f173c77eed6271af49719a35d15"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6,
+        7
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2160
+        ]
+      ],
+      "resource_id": "com.miui.home:id/shortcut_menu_layer",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1080*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/shortcut_menu_layer[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/shortcut_menu_layer",
+      "view_str": "bc59c0fa0ee56bde28e2daff8c8e816c"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2160
+        ]
+      ],
+      "resource_id": "com.miui.home:id/drag_layer_background",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "1080*2160",
+      "signature": "[class]android.view.View[resource_id]com.miui.home:id/drag_layer_background[text]None[enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]com.miui.home:id/drag_layer_background",
+      "view_str": "392f5c67209e73f785b90dd935fa2df6"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        8,
+        24
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2160
+        ]
+      ],
+      "resource_id": "com.miui.home:id/minus_one_layer",
+      "checked": false,
+      "text": null,
+      "class": "com.miui.home.launcher.ScreenView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 7,
+      "size": "1080*2160",
+      "signature": "[class]com.miui.home.launcher.ScreenView[resource_id]com.miui.home:id/minus_one_layer[text]None[enabled,,]",
+      "content_free_signature": "[class]com.miui.home.launcher.ScreenView[resource_id]com.miui.home:id/minus_one_layer",
+      "view_str": "2e7f4a8ed0da3b6262d0cfa4843fafd1"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        9
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2160
+        ]
+      ],
+      "resource_id": "com.miui.home:id/minus_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "0*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/minus_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/minus_container",
+      "view_str": "95456f0225b8c620702d5b19cb5e3497"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        10
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2160
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "0*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "3e92fa74238c625f386ac769b9cbfaa6"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2160
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "0*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "c32a96ea17f4e7c633a6ba01274e0819"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12,
+        13
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2160
+        ]
+      ],
+      "resource_id": "com.miui.personalassistant:id/assist_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 10,
+      "temp_id": 11,
+      "size": "0*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.personalassistant:id/assist_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.personalassistant:id/assist_container",
+      "view_str": "73cb4698322cac0e516a3e058152eeda"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "\u684c\u9762\u667a\u80fd\u52a9\u7406",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2030
+        ]
+      ],
+      "resource_id": "com.miui.personalassistant:id/assist_list_view",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "0*2030",
+      "signature": "[class]android.widget.ListView[resource_id]com.miui.personalassistant:id/assist_list_view[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ListView[resource_id]com.miui.personalassistant:id/assist_list_view",
+      "view_str": "6f322ddb53097111e1de3f950746ddd3"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        14,
+        21,
+        22,
+        23
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2030
+        ]
+      ],
+      "resource_id": "com.miui.personalassistant:id/rl_new_user",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 13,
+      "size": "0*2030",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.miui.personalassistant:id/rl_new_user[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.miui.personalassistant:id/rl_new_user",
+      "view_str": "4d30cbe0772b424f0ab2a9565022a837"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        15
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          66
+        ],
+        [
+          0,
+          1749
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ScrollView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 14,
+      "size": "0*1683",
+      "signature": "[class]android.widget.ScrollView[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]None",
+      "view_str": "80b898ba4e7fdec969b97579b7e230ef"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 5,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          66
+        ],
+        [
+          0,
+          1749
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "0*1683",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None",
+      "view_str": "79792436bbb3bc2d01d7d0647eff1c4e"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          158
+        ],
+        [
+          -276,
+          246
+        ]
+      ],
+      "resource_id": "com.miui.personalassistant:id/tv_cta_title",
+      "checked": false,
+      "text": "\u6b22\u8fce\u4f7f\u7528\u667a\u80fd\u52a9\u7406",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 16,
+      "size": "-276*88",
+      "signature": "[class]android.widget.TextView[resource_id]com.miui.personalassistant:id/tv_cta_title[text]\u6b22\u8fce\u4f7f\u7528\u667a\u80fd\u52a9\u7406[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.miui.personalassistant:id/tv_cta_title",
+      "view_str": "dadda0c2eb2f04c9f40e36289d3ca035"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          260
+        ],
+        [
+          -379,
+          312
+        ]
+      ],
+      "resource_id": "com.miui.personalassistant:id/tv_cta_sub_title",
+      "checked": false,
+      "text": "\u60f3\u4f60\u6240\u60f3\u00b7\u4e00\u6b65\u76f4\u8fbe",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 17,
+      "size": "-379*52",
+      "signature": "[class]android.widget.TextView[resource_id]com.miui.personalassistant:id/tv_cta_sub_title[text]\u60f3\u4f60\u6240\u60f3\u00b7\u4e00\u6b65\u76f4\u8fbe[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.miui.personalassistant:id/tv_cta_sub_title",
+      "view_str": "f329237b41d6ad878597d042e52feaa7"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          370
+        ],
+        [
+          0,
+          1500
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 18,
+      "size": "0*1130",
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None",
+      "view_str": "9ac366eeee785886612826c7202be682"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1558
+        ],
+        [
+          0,
+          1703
+        ]
+      ],
+      "resource_id": "com.miui.personalassistant:id/tv_cta_content_first",
+      "checked": false,
+      "text": "\u667a\u80fd\u52a9\u7406\u9700\u8981\u60a8\u540c\u610f\u300a\u7528\u6237\u534f\u8bae\u300b\u3001\u300a\u9690\u79c1\u653f\u7b56\u300b\u548c\u300a\u667a\u80fd\u52a9\u7406\u9690\u79c1\u653f\u7b56\u300b\u65b9\u53ef\u4f7f\u7528\u3002\u5728\u4f7f\u7528\u8fc7\u7a0b\u4e2d\u9700\u8981\u4f7f\u7528\u7f51\u7edc\u548c\u5b9a\u4f4d\u4fe1\u606f\uff0c\u70b9\u51fb\u5f00\u59cb\u4f53\u9a8c\u5373\u4ee3\u8868\u60a8\u5df2\u9605\u8bfb\u5e76\u540c\u610f\u3002",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 15,
+      "temp_id": 19,
+      "size": "0*145",
+      "signature": "[class]android.widget.TextView[resource_id]com.miui.personalassistant:id/tv_cta_content_first[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.miui.personalassistant:id/tv_cta_content_first",
+      "view_str": "3b9878888364342c38716208973c4eb8"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1703
+        ],
+        [
+          0,
+          1749
+        ]
+      ],
+      "resource_id": "com.miui.personalassistant:id/tv_cta_content_second",
+      "checked": false,
+      "text": "\u667a\u80fd\u52a9\u7406\u4e3a\u7528\u6237\u63a8\u8350\u573a\u666f\u5316\u7684\u529f\u80fd\uff0c\u4ee5\u4fbf\u7528\u6237\u5feb\u6377\u4f7f\u7528\u3002\u4e3a\u4e86\u5c3d\u53ef\u80fd\u5730\u4e3a\u7528\u6237\u63d0\u4f9b\u4fbf\u5229\uff0c\u5b9e\u73b0\u4e0a\u8ff0\u529f\u80fd\uff0c\u667a\u80fd\u52a9\u7406\u53ef\u80fd\u9700\u8981\u8054\u7f51\u5e76\u8c03\u7528\u60a8\u624b\u673a\u4e0a\u5df2\u6709\u5e94\u7528\u7684\u6743\u9650\u6216\u529f\u80fd\uff0c\u4f8b\u5982\uff0c\u4e3a\u5411\u60a8\u63d0\u4f9b\u9884\u5b9a\u673a\u7968\u3001\u706b\u8f66\u7968\u3001\u9152\u5e97\u7b49\u670d\u52a1\uff0c\u6211\u4eec\u53ef\u80fd\u4f1a\u901a\u8fc7\u8bfb\u53d6\u77ed\u4fe1\u5185\u5bb9\u548c\u65e5\u5386\u6d3b\u52a8\u4fe1\u606f\uff0c\u4ee5\u81ea\u52a8\u8bc6\u522b\u60a8\u6240\u9884\u5b9a\u7684\u4ea4\u901a\u3001\u9152\u5e97\u4fe1\u606f\u4ee5\u53ca\u51fa\u884c\u4fe1\u606f\uff0c\u4f46\u662f\u60a8\u7684\u77ed\u4fe1\u5185\u5bb9\u548c\u65e5\u5386\u6d3b\u52a8\u4fe1\u606f\u4e0d\u4f1a\u88ab\u4e0a\u4f20\u81f3\u6211\u4eec\u7684\u670d\u52a1\u5668\uff0c\u4ec5\u5728\u60a8\u7684\u8bbe\u5907\u4e2d\u5904\u7406\u548c\u5b58\u50a8\u3002\u540c\u65f6\uff0c\u6211\u4eec\u53ef\u80fd\u9700\u8981\u6536\u96c6\u4f7f\u7528\u60a8\u7684\u4ee5\u4e0b\u4fe1\u606f\uff0c\u8bf7\u60a8\u9605\u8bfb\u667a\u80fd\u52a9\u7406\u9690\u79c1\u653f\u7b56\u4ee5\u83b7\u53d6\u66f4\u591a\u8be6\u7ec6\u4fe1\u606f\u3002 \n\n\u8bbe\u5907\u4fe1\u606f\uff1a\u4e0e\u60a8\u7684\u8bbe\u5907\u76f8\u5173\u7684\u4fe1\u606f\u3002\u4f8b\u5982\uff0c\u8bbe\u5907\u6807\u8bc6\u7b26\uff08IMEI\u53f7\u3001MAC\u5730\u5740\u548cAndroid ID\uff09\u3001\u7cfb\u7edf\u7248\u672c\u3001\u5e94\u7528\u5217\u8868\u3001\u5e94\u7528\u4fe1\u606f\u3002 \n\u5e10\u53f7\u4fe1\u606f\uff1a\u5feb\u9012\u7ed1\u5b9a\u7684\u624b\u673a\u53f7\u7801\u3001\u5feb\u9012\u5355\u53f7\u3001\u5e38\u7528\u5730\u5740\u4fe1\u606f\u3001\u8ba2\u9605\u7684\u670d\u52a1\u540d\u79f0\u3001\u7528\u6237\u6388\u6743\u4fe1\u606f\u3001\u51fa\u884c\u4fe1\u606f\uff1b \n\u4f4d\u7f6e\u4fe1\u606f\uff08\u4ec5\u9002\u7528\u4e8e\u7279\u5b9a\u670d\u52a1/\u529f\u80fd\uff09\uff1a\u82e5\u60a8\u4f7f\u7528\u548c\u4f4d\u7f6e\u76f8\u5173\u7684\u670d\u52a1\uff0c\u6211\u4eec\u53ef\u80fd\u4f1a\u6536\u96c6\u4f7f\u7528\u4e0e\u60a8\u7684\u4f4d\u7f6e\u76f8\u5173\u7684\u4fe1\u606f\uff0c\u4f8b\u5982\u7ecf\u7eac\u5ea6\u4fe1\u606f\uff1b \n\u4f7f\u7528\u4fe1\u606f\uff1a\u4e0e\u60a8\u4f7f\u7528\u5e94\u7528\u76f8\u5173\u7684\u4fe1\u606f\u3002\u4f8b\u5982\uff0c\u70b9\u51fb\u884c\u4e3a\u6570\u636e\u3002 \n\n\u5982\u679c\u60a8\u4e0d\u540c\u610f\u6211\u4eec\u8c03\u7528\u60a8\u7684\u76f8\u5173\u6743\u9650\u6216\u6536\u96c6\u7684\u76f8\u5173\u4fe1\u606f\uff0c\u6211\u4eec\u53ef\u80fd\u65e0\u6cd5\u4e3a\u60a8\u63d0\u4f9b\u5b8c\u6574\u7684\u670d\u52a1\u3002\u60a8\u53ef\u8fdb\u5165\u667a\u80fd\u52a9\u7406\u9875\u9762\uff0c\u5212\u81f3\u5e95\u90e8\u70b9\u51fb\u201c\u81ea\u5b9a\u4e49\u201d\u6309\u94ae\uff0c\u5728\u8bbe\u7f6e\u9875\u9762\u5173\u95ed\u5bf9\u5e94\u7684\u670d\u52a1\uff0c\u4ee5\u7ec8\u6b62\u4ee5\u4e0a\u6570\u636e\u6216\u6743\u9650\u7684\u6536\u96c6\u4e0e\u5904\u7406\u3002",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 20,
+      "size": "0*46",
+      "signature": "[class]android.widget.TextView[resource_id]com.miui.personalassistant:id/tv_cta_content_second[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.miui.personalassistant:id/tv_cta_content_second",
+      "view_str": "8d5c3024231154b0f28e023e59ce570c"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1721
+        ],
+        [
+          0,
+          1749
+        ]
+      ],
+      "resource_id": "com.miui.personalassistant:id/v_cta_newuser_bottom_mask",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 21,
+      "size": "0*28",
+      "signature": "[class]android.view.View[resource_id]com.miui.personalassistant:id/v_cta_newuser_bottom_mask[text]None[enabled,,]",
+      "content_free_signature": "[class]android.view.View[resource_id]com.miui.personalassistant:id/v_cta_newuser_bottom_mask",
+      "view_str": "ccae30340f6fb50137ea58b8559f3d1c"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1764
+        ],
+        [
+          -73,
+          1882
+        ]
+      ],
+      "resource_id": "com.miui.personalassistant:id/bt_cta_start",
+      "checked": false,
+      "text": "\u5f00\u59cb\u4f53\u9a8c",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 22,
+      "size": "-73*118",
+      "signature": "[class]android.widget.Button[resource_id]com.miui.personalassistant:id/bt_cta_start[text]\u5f00\u59cb\u4f53\u9a8c[enabled,,]",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.miui.personalassistant:id/bt_cta_start",
+      "view_str": "21c165d9e2f94a81e8b178d38cd103e2"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1923
+        ],
+        [
+          -462,
+          1975
+        ]
+      ],
+      "resource_id": "com.miui.personalassistant:id/bt_cta_cancel",
+      "checked": false,
+      "text": "\u6682\u4e0d\u5f00\u542f",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 23,
+      "size": "-462*52",
+      "signature": "[class]android.widget.TextView[resource_id]com.miui.personalassistant:id/bt_cta_cancel[text]\u6682\u4e0d\u5f00\u542f[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.miui.personalassistant:id/bt_cta_cancel",
+      "view_str": "c439e9ecffca50021b34b6a598a7c50a"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        25,
+        26,
+        87,
+        89
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2160
+        ]
+      ],
+      "resource_id": "com.miui.home:id/drag_layer",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 24,
+      "size": "1080*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/drag_layer[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/drag_layer",
+      "view_str": "47d9cc5a8748fc181d93c141f516616f"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2160
+        ]
+      ],
+      "resource_id": "com.miui.home:id/home_feed_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 25,
+      "size": "1080*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/home_feed_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/home_feed_container",
+      "view_str": "38dda085f064137d558e524eceba5eb2"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        27,
+        86
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2160
+        ]
+      ],
+      "resource_id": "com.miui.home:id/screen",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 26,
+      "size": "1080*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/screen[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/screen",
+      "view_str": "9d6673f774c6212e69b7de0e69c3a11a"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28,
+        85
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2160
+        ]
+      ],
+      "resource_id": "com.miui.home:id/screen_content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1080*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/screen_content[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/screen_content",
+      "view_str": "8ae3ac1b83c21a672aa9c793df0af927"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        29
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": "com.miui.home:id/workspace",
+      "checked": false,
+      "text": null,
+      "class": "com.miui.home.launcher.ScreenView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 28,
+      "size": "1080*2030",
+      "signature": "[class]com.miui.home.launcher.ScreenView[resource_id]com.miui.home:id/workspace[text]None[enabled,,]",
+      "content_free_signature": "[class]com.miui.home.launcher.ScreenView[resource_id]com.miui.home:id/workspace",
+      "view_str": "697b45dc7320f9d85b15117322be6e40"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        30
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          50
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 29,
+      "size": "1080*1980",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "2e86303518540c02a092f53e815524b9"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        31,
+        51,
+        71,
+        78
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          50
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": "com.miui.home:id/cell_layout",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 30,
+      "size": "1080*1980",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.miui.home:id/cell_layout[text]None[enabled,,]",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.miui.home:id/cell_layout",
+      "view_str": "242ea13afbde63b34b4a6db7c17946c6"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u7cfb\u7edf\u5de5\u5177",
+      "children": [
+        32,
+        49
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          33,
+          94
+        ],
+        [
+          287,
+          371
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 30,
+      "temp_id": 31,
+      "size": "254*277",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None",
+      "view_str": "03903bbf134d78d9ba3dbf3b4dac2ebe"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        33
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          65,
+          94
+        ],
+        [
+          255,
+          278
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 32,
+      "size": "190*184",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_container",
+      "view_str": "80e27d8d9bc5eb98dd7e8f984048380f"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        34,
+        35,
+        36
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          65,
+          94
+        ],
+        [
+          255,
+          278
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 33,
+      "size": "190*184",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "cad6b02869858d54376eca4e10564d1d"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          76,
+          110
+        ],
+        [
+          244,
+          278
+        ]
+      ],
+      "resource_id": "com.miui.home:id/cover",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 34,
+      "size": "168*168",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/cover[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/cover",
+      "view_str": "06494d991b89f34964c7ab484c7f14f0"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "\u7cfb\u7edf\u5de5\u5177",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          76,
+          110
+        ],
+        [
+          244,
+          278
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 35,
+      "size": "168*168",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/icon_icon[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/icon_icon",
+      "view_str": "46731b31e7c2acbaf5d1dcca40d28786"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        37,
+        41,
+        45
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          101,
+          135
+        ],
+        [
+          219,
+          253
+        ]
+      ],
+      "resource_id": "com.miui.home:id/preview_icons_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 36,
+      "size": "118*118",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.miui.home:id/preview_icons_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.miui.home:id/preview_icons_container",
+      "view_str": "5295087e5e3e59b6fffbdee46bb6a741"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        38,
+        39,
+        40
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          101,
+          135
+        ],
+        [
+          219,
+          175
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 36,
+      "temp_id": 37,
+      "size": "118*40",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None",
+      "view_str": "c13a4b8d444fb93c70b801d83a3b6de8"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          101,
+          135
+        ],
+        [
+          141,
+          175
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item1",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 38,
+      "size": "40*40",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item1[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item1",
+      "view_str": "8465af12cbaa8cddda5dd0d8583d82ae"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          141,
+          135
+        ],
+        [
+          180,
+          175
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item2",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 39,
+      "size": "39*40",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item2[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item2",
+      "view_str": "8b01cca59f59d0d00f22e18e134c800d"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          180,
+          135
+        ],
+        [
+          219,
+          175
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item3",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 40,
+      "size": "39*40",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item3[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item3",
+      "view_str": "a49a369a4a7e11f514140cf87edf049a"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        42,
+        43,
+        44
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          101,
+          175
+        ],
+        [
+          219,
+          214
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 36,
+      "temp_id": 41,
+      "size": "118*39",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None",
+      "view_str": "36749208391686ac588e098846a169c4"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          101,
+          175
+        ],
+        [
+          141,
+          214
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item4",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 42,
+      "size": "40*39",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item4[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item4",
+      "view_str": "7206e7e817dcc07f598f55f1369c8137"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          141,
+          175
+        ],
+        [
+          180,
+          214
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item5",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 43,
+      "size": "39*39",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item5[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item5",
+      "view_str": "5e305cdc9996402bcd6f5fb914e82e3a"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          180,
+          175
+        ],
+        [
+          219,
+          214
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item6",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 44,
+      "size": "39*39",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item6[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item6",
+      "view_str": "c15321ac9f1976f52782380588e2430d"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        46,
+        47,
+        48
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          101,
+          214
+        ],
+        [
+          219,
+          253
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 36,
+      "temp_id": 45,
+      "size": "118*39",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None",
+      "view_str": "deac1cc7187dc50df0eeb0c1a8ff2c91"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          101,
+          214
+        ],
+        [
+          141,
+          253
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item7",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 45,
+      "temp_id": 46,
+      "size": "40*39",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item7[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item7",
+      "view_str": "89a92a464041a867c590a1060547f72d"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          141,
+          214
+        ],
+        [
+          180,
+          253
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item8",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 45,
+      "temp_id": 47,
+      "size": "39*39",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item8[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item8",
+      "view_str": "d6bc04003bc243eaeedb05d4bf776d13"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          180,
+          214
+        ],
+        [
+          219,
+          253
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item9",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 45,
+      "temp_id": 48,
+      "size": "39*39",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item9[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item9",
+      "view_str": "ade2b645b6cd90478ca2ceef708ab402"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        50
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          33,
+          278
+        ],
+        [
+          287,
+          371
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_title_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 49,
+      "size": "254*93",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_title_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_title_container",
+      "view_str": "a4f8c0e5802b71aff1f0d811f9a3848e"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          33,
+          278
+        ],
+        [
+          287,
+          371
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_title",
+      "checked": false,
+      "text": "\u7cfb\u7edf\u5de5\u5177",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 49,
+      "temp_id": 50,
+      "size": "254*93",
+      "signature": "[class]android.widget.TextView[resource_id]com.miui.home:id/icon_title[text]\u7cfb\u7edf\u5de5\u5177[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.miui.home:id/icon_title",
+      "view_str": "98cd62864037d1d83527454b07df7a49"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u7cfb\u7edf\u8f6f\u4ef6",
+      "children": [
+        52,
+        69
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          287,
+          94
+        ],
+        [
+          541,
+          371
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 30,
+      "temp_id": 51,
+      "size": "254*277",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None",
+      "view_str": "99fa8d2a8d78062fa8e26890e6aeb446"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        53
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          319,
+          94
+        ],
+        [
+          509,
+          278
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 51,
+      "temp_id": 52,
+      "size": "190*184",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_container",
+      "view_str": "566a5255e71bb1f9eb8e0922ff8b91e0"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        54,
+        55,
+        56
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          319,
+          94
+        ],
+        [
+          509,
+          278
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 53,
+      "size": "190*184",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "fc748d7cef87ff2c4bbf07af2c38d5c5"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          330,
+          110
+        ],
+        [
+          498,
+          278
+        ]
+      ],
+      "resource_id": "com.miui.home:id/cover",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 53,
+      "temp_id": 54,
+      "size": "168*168",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/cover[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/cover",
+      "view_str": "fc7ae03844b013952017850c29dee0f6"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "\u7cfb\u7edf\u8f6f\u4ef6",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          330,
+          110
+        ],
+        [
+          498,
+          278
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 53,
+      "temp_id": 55,
+      "size": "168*168",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/icon_icon[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/icon_icon",
+      "view_str": "2c15251f871294002e16cee488e4446c"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        57,
+        61,
+        65
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          355,
+          135
+        ],
+        [
+          473,
+          253
+        ]
+      ],
+      "resource_id": "com.miui.home:id/preview_icons_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 53,
+      "temp_id": 56,
+      "size": "118*118",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.miui.home:id/preview_icons_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.miui.home:id/preview_icons_container",
+      "view_str": "e2426d08bf3563e169907da4132a8e97"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        58,
+        59,
+        60
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          355,
+          135
+        ],
+        [
+          473,
+          175
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 56,
+      "temp_id": 57,
+      "size": "118*40",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None",
+      "view_str": "a1c7409dcac17910a8bbc230456c59da"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          355,
+          135
+        ],
+        [
+          395,
+          175
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item1",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 57,
+      "temp_id": 58,
+      "size": "40*40",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item1[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item1",
+      "view_str": "47c96629887034708d32511591770021"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          395,
+          135
+        ],
+        [
+          434,
+          175
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item2",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 57,
+      "temp_id": 59,
+      "size": "39*40",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item2[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item2",
+      "view_str": "e279b5ca4ed7c00ed957e421cdeab214"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          434,
+          135
+        ],
+        [
+          473,
+          175
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item3",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 57,
+      "temp_id": 60,
+      "size": "39*40",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item3[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item3",
+      "view_str": "8a31480501177d0e15d4cc6af1859d41"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        62,
+        63,
+        64
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          355,
+          175
+        ],
+        [
+          473,
+          214
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 56,
+      "temp_id": 61,
+      "size": "118*39",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None",
+      "view_str": "2d954f032c7a9a7a141cd60c38f8e44e"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          355,
+          175
+        ],
+        [
+          395,
+          214
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item4",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 61,
+      "temp_id": 62,
+      "size": "40*39",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item4[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item4",
+      "view_str": "75e7835f9e622baec4e8a95aca9e78f3"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          395,
+          175
+        ],
+        [
+          434,
+          214
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item5",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 61,
+      "temp_id": 63,
+      "size": "39*39",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item5[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item5",
+      "view_str": "315019f2020fb8c472daee13629aab1d"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          434,
+          175
+        ],
+        [
+          473,
+          214
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item6",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 61,
+      "temp_id": 64,
+      "size": "39*39",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item6[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item6",
+      "view_str": "a75dc1291ad36a263b54b888233aa602"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        66,
+        67,
+        68
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          355,
+          214
+        ],
+        [
+          473,
+          253
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 56,
+      "temp_id": 65,
+      "size": "118*39",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None",
+      "view_str": "39a5e1ad68e168186aa5582544f7a48c"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          355,
+          214
+        ],
+        [
+          395,
+          253
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item7",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 65,
+      "temp_id": 66,
+      "size": "40*39",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item7[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item7",
+      "view_str": "b86c8a2770cde3412e13036cf251b119"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          395,
+          214
+        ],
+        [
+          434,
+          253
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item8",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 65,
+      "temp_id": 67,
+      "size": "39*39",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item8[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item8",
+      "view_str": "b22716f6d542a656e2186aa064531e0a"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          434,
+          214
+        ],
+        [
+          473,
+          253
+        ]
+      ],
+      "resource_id": "com.miui.home:id/item9",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 65,
+      "temp_id": 68,
+      "size": "39*39",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item9[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/item9",
+      "view_str": "52646214aac50ed1536db5a9657dabdc"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        70
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          287,
+          278
+        ],
+        [
+          541,
+          371
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_title_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 51,
+      "temp_id": 69,
+      "size": "254*93",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_title_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_title_container",
+      "view_str": "52d75ea6aff8dfd64d356424328fcf37"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          287,
+          278
+        ],
+        [
+          541,
+          371
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_title",
+      "checked": false,
+      "text": "\u7cfb\u7edf\u8f6f\u4ef6",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 69,
+      "temp_id": 70,
+      "size": "254*93",
+      "signature": "[class]android.widget.TextView[resource_id]com.miui.home:id/icon_title[text]\u7cfb\u7edf\u8f6f\u4ef6[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.miui.home:id/icon_title",
+      "view_str": "d1773df95634b817bc13749dc4bae2b2"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "DroidBot",
+      "children": [
+        72,
+        76
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          541,
+          94
+        ],
+        [
+          795,
+          371
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 30,
+      "temp_id": 71,
+      "size": "254*277",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None",
+      "view_str": "50a888900da04e46353d3cffb9ed1368"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        73
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          573,
+          94
+        ],
+        [
+          763,
+          278
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 71,
+      "temp_id": 72,
+      "size": "190*184",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_container",
+      "view_str": "97684b7c54bbe00325cea866218f06e3"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        74,
+        75
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          573,
+          94
+        ],
+        [
+          763,
+          278
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 72,
+      "temp_id": 73,
+      "size": "190*184",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "7bc66427bddd97bc141ff2f931540ce7"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          584,
+          110
+        ],
+        [
+          752,
+          278
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_folder_creation_bg",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 73,
+      "temp_id": 74,
+      "size": "168*168",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/icon_folder_creation_bg[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/icon_folder_creation_bg",
+      "view_str": "fa16cc31e76d72dc1b46373934d08fbc"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "DroidBot",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          584,
+          110
+        ],
+        [
+          752,
+          278
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 73,
+      "temp_id": 75,
+      "size": "168*168",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/icon_icon[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/icon_icon",
+      "view_str": "f609d0246bbed6e3545235d0a6ba3912"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        77
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          541,
+          278
+        ],
+        [
+          795,
+          371
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_title_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 71,
+      "temp_id": 76,
+      "size": "254*93",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_title_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_title_container",
+      "view_str": "9bcc218a65146ba045b8b9df9ec83fd1"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          541,
+          278
+        ],
+        [
+          795,
+          371
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_title",
+      "checked": false,
+      "text": "DroidBot",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 76,
+      "temp_id": 77,
+      "size": "254*93",
+      "signature": "[class]android.widget.TextView[resource_id]com.miui.home:id/icon_title[text]DroidBot[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.miui.home:id/icon_title",
+      "view_str": "a332b8fe9b7f18728fcdc3454dcecef3"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u8d70\u8def\u8d5a\u94b1",
+      "children": [
+        79,
+        83
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          795,
+          94
+        ],
+        [
+          1049,
+          371
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 30,
+      "temp_id": 78,
+      "size": "254*277",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None",
+      "view_str": "427f01efa8fc27d6822c37a7961cebce"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        80
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          827,
+          94
+        ],
+        [
+          1017,
+          278
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 78,
+      "temp_id": 79,
+      "size": "190*184",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_container",
+      "view_str": "d9533b2e31a703d11c9bf6b3f404dbef"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        81,
+        82
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          827,
+          94
+        ],
+        [
+          1017,
+          278
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 79,
+      "temp_id": 80,
+      "size": "190*184",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "804cb0a0dbcc36639c0cc2485a444b84"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "\u8d70\u8def\u8d5a\u94b1",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          838,
+          110
+        ],
+        [
+          1006,
+          278
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 80,
+      "temp_id": 81,
+      "size": "168*168",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/icon_icon[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/icon_icon",
+      "view_str": "0ca34122c59a868a497245a441c85265"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          838,
+          110
+        ],
+        [
+          1006,
+          278
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_folder_creation_bg",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 80,
+      "temp_id": 82,
+      "size": "168*168",
+      "signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/icon_folder_creation_bg[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.miui.home:id/icon_folder_creation_bg",
+      "view_str": "17c4af2b889fe1aea4a52db24fbffedc"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        84
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          795,
+          278
+        ],
+        [
+          1049,
+          371
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_title_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 78,
+      "temp_id": 83,
+      "size": "254*93",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_title_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/icon_title_container",
+      "view_str": "babeaa19ea5e4ccce0209f59541a02f8"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          795,
+          278
+        ],
+        [
+          1049,
+          371
+        ]
+      ],
+      "resource_id": "com.miui.home:id/icon_title",
+      "checked": false,
+      "text": "\u8d70\u8def\u8d5a\u94b1",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 83,
+      "temp_id": 84,
+      "size": "254*93",
+      "signature": "[class]android.widget.TextView[resource_id]com.miui.home:id/icon_title[text]\u8d70\u8def\u8d5a\u94b1[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.miui.home:id/icon_title",
+      "view_str": "bb60ab45ebe9a14714006b601694d15f"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1842
+        ],
+        [
+          1080,
+          2030
+        ]
+      ],
+      "resource_id": "com.miui.home:id/hotseat",
+      "checked": false,
+      "text": null,
+      "class": "com.miui.home.launcher.ScreenView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 85,
+      "size": "1080*188",
+      "signature": "[class]com.miui.home.launcher.ScreenView[resource_id]com.miui.home:id/hotseat[text]None[enabled,,]",
+      "content_free_signature": "[class]com.miui.home.launcher.ScreenView[resource_id]com.miui.home:id/hotseat",
+      "view_str": "1a8a74d91c23c393c45707eb52f55725"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          23
+        ],
+        [
+          1080,
+          23
+        ]
+      ],
+      "resource_id": "com.miui.home:id/edit_mode_menu_on_top",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 86,
+      "size": "1080*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/edit_mode_menu_on_top[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/edit_mode_menu_on_top",
+      "view_str": "7d7badf7a622c4fc7480425de9330241"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        88
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          2160
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 87,
+      "size": "1*2160",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None",
+      "view_str": "b6d86878cb8bdc58087ef08855bdf01c"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          50
+        ],
+        [
+          1,
+          2160
+        ]
+      ],
+      "resource_id": "com.miui.home:id/default_position",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 87,
+      "temp_id": 88,
+      "size": "1*2110",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/default_position[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/default_position",
+      "view_str": "200aeb3022d71380fa98438a7d595544"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        90,
+        91
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          627
+        ]
+      ],
+      "resource_id": "com.miui.home:id/drop_target_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 89,
+      "size": "1080*627",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/drop_target_bar[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/drop_target_bar",
+      "view_str": "06b262ea82c363674cbc5f528709083d"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          0
+        ]
+      ],
+      "resource_id": "com.miui.home:id/target_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 89,
+      "temp_id": 90,
+      "size": "1080*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/target_container[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/target_container",
+      "view_str": "8dbaf71fac872d7964cb1411adbb7944"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        92
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          0
+        ]
+      ],
+      "resource_id": "com.miui.home:id/uninstall_dialog",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 89,
+      "temp_id": 91,
+      "size": "1080*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/uninstall_dialog[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.miui.home:id/uninstall_dialog",
+      "view_str": "6093a6708b90a6cff0a446fc9fe7df0f"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        93,
+        98
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          41
+        ],
+        [
+          1080,
+          0
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 92,
+      "size": "1080*-41",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None",
+      "view_str": "0f8aa1aabcc8be8f3d29fc87a36f9c77"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        94,
+        95
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          41
+        ],
+        [
+          1080,
+          0
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 92,
+      "temp_id": 93,
+      "size": "1080*-41",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None",
+      "view_str": "dbd3721e0874e5eaff313aa61858e0d6"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          540,
+          182
+        ],
+        [
+          540,
+          0
+        ]
+      ],
+      "resource_id": "com.miui.home:id/delete_icon_container",
+      "checked": false,
+      "text": null,
+      "class": "com.miui.home.launcher.ScreenView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 93,
+      "temp_id": 94,
+      "size": "0*-182",
+      "signature": "[class]com.miui.home.launcher.ScreenView[resource_id]com.miui.home:id/delete_icon_container[text]None[enabled,,]",
+      "content_free_signature": "[class]com.miui.home.launcher.ScreenView[resource_id]com.miui.home:id/delete_icon_container",
+      "view_str": "6c9ef36f6ce861ba56e093c31fd6abbf"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        96,
+        97
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          295
+        ],
+        [
+          1080,
+          0
+        ]
+      ],
+      "resource_id": "com.miui.home:id/messages",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 93,
+      "temp_id": 95,
+      "size": "1080*-295",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.miui.home:id/messages[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.miui.home:id/messages",
+      "view_str": "73b0d80472571ed442a96a204debdb2e"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          424,
+          295
+        ],
+        [
+          655,
+          0
+        ]
+      ],
+      "resource_id": "com.miui.home:id/title",
+      "checked": false,
+      "text": "\u5378\u8f7d\"\u98d2\u6f2b\u753b\"",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 96,
+      "size": "231*-295",
+      "signature": "[class]android.widget.TextView[resource_id]com.miui.home:id/title[text]\u5378\u8f7d\"\u98d2\u6f2b\u753b\"[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.miui.home:id/title",
+      "view_str": "12b8e962d980865265a486c507c9fca5"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          284,
+          347
+        ],
+        [
+          795,
+          0
+        ]
+      ],
+      "resource_id": "com.miui.home:id/description_text",
+      "checked": false,
+      "text": "\u5378\u8f7d\u540e\u5176\u6240\u6709\u6570\u636e\u4e5f\u5c06\u88ab\u5220\u9664",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 97,
+      "size": "511*-347",
+      "signature": "[class]android.widget.TextView[resource_id]com.miui.home:id/description_text[text]\u5378\u8f7d\u540e\u5176\u6240\u6709\u6570\u636e\u4e5f\u5c06\u88ab\u5220\u9664[enabled,,]",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.miui.home:id/description_text",
+      "view_str": "2336ee04ca57f858faa7de49cdde6085"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        99,
+        100
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          265,
+          489
+        ],
+        [
+          815,
+          0
+        ]
+      ],
+      "resource_id": "com.miui.home:id/buttons",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 92,
+      "temp_id": 98,
+      "size": "550*-489",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.miui.home:id/buttons[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.miui.home:id/buttons",
+      "view_str": "6bb957e3f43c873c1c2c2d3e1e79d4c3"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          265,
+          489
+        ],
+        [
+          540,
+          0
+        ]
+      ],
+      "resource_id": "com.miui.home:id/btnCancel",
+      "checked": false,
+      "text": "\u53d6\u6d88",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 98,
+      "temp_id": 99,
+      "size": "275*-489",
+      "signature": "[class]android.widget.Button[resource_id]com.miui.home:id/btnCancel[text]\u53d6\u6d88[enabled,,]",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.miui.home:id/btnCancel",
+      "view_str": "70e17937443530595396f9d93ccdfab2"
+    },
+    {
+      "package": "com.miui.home",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          540,
+          489
+        ],
+        [
+          815,
+          0
+        ]
+      ],
+      "resource_id": "com.miui.home:id/btnOk",
+      "checked": false,
+      "text": "\u5378\u8f7d",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 98,
+      "temp_id": 100,
+      "size": "275*-489",
+      "signature": "[class]android.widget.Button[resource_id]com.miui.home:id/btnOk[text]\u5378\u8f7d[enabled,,]",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.miui.home:id/btnOk",
+      "view_str": "624df0ad7b9b681087eef7e27f9c649e"
+    }
+  ]
+}

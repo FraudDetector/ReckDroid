@@ -1,0 +1,29 @@
+POST https://api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk/settings/ HTTP/1.1
+Host: api-access.pangolin-sdk-toutiao.com
+User-Agent: VADNetAgent/0 okhttp/3.9.1
+Content-Type: application/json; charset=utf-8
+Content-Length: 667
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json; charset=utf-8
+Connection: keep-alive
+Date: Wed, 17 May 2023 19:27:16 GMT
+Active-Control: 1
+Pst: 87e0aa7b6744c2d2c29f38efb80d26ac
+Ts: 1684351636
+Vary: Accept-Encoding
+X-Tt-Logid: 20230518032716863EE915DC39735C075E
+server-timing: inner; dur=49
+x-tt-trace-host: 01afe37bc103f83a414c8e04a34c4075af594dafa69332c5879ee709ca735881732cda1aadb1ce18573d669c749cb78e128ce5d2c90a21294233b97faf4f45f01674f0226a1babe582e35b8b981972f33546dce2298a4eeb0015f43a7afbde2326
+x-tt-trace-tag: id=03;cdn-cache=miss;type=dyn
+Via: cache2.l2cm12-9[54,0], cache2.cn1105[59,0]
+server-timing: cdn-cache;desc=MISS,edge;dur=5,origin;dur=54
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Timing-Allow-Origin: *
+EagleId: 79c20a4616843516362865335e
+Content-Length: 42498
+

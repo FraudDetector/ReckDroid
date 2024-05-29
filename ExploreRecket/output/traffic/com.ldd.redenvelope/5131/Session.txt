@@ -1,0 +1,20 @@
+GET http://mobads.baidu.com/ads/pa/8/reconfig/__pasys_remote_banner.php?bdr=28&os=android&v=9.241&tp=MI+6X HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads.baidu.com
+Accept-Encoding: gzip
+Cookie: BAIDUID=6092254C310D16436C3745C16D5CEB90:FG=1
+
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Connection: keep-alive
+Content-Length: 6
+Content-Type: application/octet-stream
+Date: Wed, 17 May 2023 05:07:36 GMT
+Etag: "6445e3dd-6"
+Last-Modified: Mon, 24 Apr 2023 02:05:17 GMT
+Server: nginx/1.4.5
+

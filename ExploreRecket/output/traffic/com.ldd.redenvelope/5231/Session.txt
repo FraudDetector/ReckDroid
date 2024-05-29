@@ -1,0 +1,32 @@
+GET https://mobads-pre-config.cdn.bcebos.com/sdk/reward/rvideo_flip_card_finish_big_card.png HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads-pre-config.cdn.bcebos.com
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: JSP3/2.0.14
+Date: Wed, 17 May 2023 05:10:52 GMT
+Content-Type: image/png
+Content-Length: 157802
+Connection: keep-alive
+Expires: Sat, 20 May 2023 05:09:26 GMT
+Last-Modified: Thu, 18 Aug 2022 11:35:08 GMT
+ETag: "a72c75a67f1b966da0034fbe1bb8d484"
+Age: 85
+Accept-Ranges: bytes
+Content-MD5: pyx1pn8blm2gA0++G7jUhA==
+x-bce-content-crc32: 1921620494
+x-bce-debug-id: UQuBkFWBCUn29xVKA3+ocq3XECL8RZ4nJoszLrhTI9AkXnLDYNyHWxO8SIQ388S9DEA0OaViy3+nUaGrgd0Cjg==
+x-bce-request-id: 6c2b7305-3e0c-41c2-a741-0e6ed8bc69a6
+x-bce-storage-class: STANDARD
+Ohc-Global-Saved-Time: Wed, 17 May 2023 05:09:26 GMT
+Ohc-Upstream-Trace: 183.136.195.53
+Ohc-Cache-HIT: nb8ct53 [2], suzix248 [2]
+Ohc-Response-Time: 1 0 0 0 0 0
+Ohc-File-Size: 157802
+X-Cache-Status: HIT
+

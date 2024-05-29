@@ -1,0 +1,22 @@
+GET https://qzs.gdtimg.com/union/res/union_cdn/page/temp_v2/twist_guide_1_android.png HTTP/1.1
+User-Agent: GDTMobSDK4.492.1362-[Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)]
+Host: qzs.gdtimg.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Last-Modified: Thu, 09 Mar 2023 04:10:16 GMT
+Etag: "b54f0ba5da45adb89f1ccc7fe9c3684f"
+Content-Type: image/png
+Date: Mon, 15 May 2023 14:32:54 GMT
+Server: tencent-cos
+x-cos-hash-crc64ecma: 15014878451153765279
+x-cos-request-id: NjQ2MjQyOTZfZTQyZDNkMGJfMWU4NDNfOWI3YzA2Mw==
+x-cos-version-id: null
+Content-Length: 112459
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 18075241401059155481
+Connection: keep-alive
+X-Cache-Lookup: Cache Hit
+

@@ -1,0 +1,11 @@
+{"ret":109502,
+"rpt":0,
+"msg":"",
+"reqinterval":1740,
+"last_ads":{"responsed_ad_data":"8Q1_qpR5jjA"}
+,
+"data":{
+"2012992689648925":{
+}}
+,
+"dc":109502}

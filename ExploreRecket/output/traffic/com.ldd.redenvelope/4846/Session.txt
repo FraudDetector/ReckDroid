@@ -1,0 +1,29 @@
+GET http://cdn.haokan88.cn/favicon.ico HTTP/1.1
+Host: cdn.haokan88.cn
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://cdn.haokan88.cn/hongbao2.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.ldd.redenvelope
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/x-icon
+Content-Length: 4286
+Connection: keep-alive
+Date: Wed, 17 May 2023 05:06:13 GMT
+Last-Modified: Sat, 08 Oct 2022 07:17:34 GMT
+ETag: "6341240e-10be"
+Accept-Ranges: bytes
+Ali-Swift-Global-Savetime: 1684299973
+Via: cache55.l2cn3036[77,76,304-0,M], cache48.l2cn3036[78,0], kunlun3.cn2334[83,92,200-0,H], kunlun8.cn2334[94,0]
+Age: 0
+X-Cache: HIT TCP_REFRESH_HIT dirn:9:1094614249
+X-Swift-SaveTime: Wed, 17 May 2023 05:06:13 GMT
+X-Swift-CacheTime: 3600
+Timing-Allow-Origin: *
+EagleId: 7ac1821c16842999734804013e
+

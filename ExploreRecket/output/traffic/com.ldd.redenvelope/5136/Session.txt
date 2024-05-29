@@ -1,0 +1,20 @@
+GET https://mobads-logs.baidu.com/dz.zb?type=39&_lpWebFinishLoad=1684300053570&_lpWebStartLoad=0&a_ver=adserv_0&act=1&adid=1874570265&appsec=_cpr&appsid=ecd59139&b_cancel=0&b_copy=0&b_goback=0&b_home=0&b_osgoback=1&b_refresh=0&b_threeP=0&bdr=28&brand=xiaomi&buyer=4&clickLp=1684300053290&clicks=0&cuid=nRNjPDmdfYmvfYR3PYD1PDc1wbRLPH9KwWNarHD3fWNtNWPff-K7ybfz&delta=0&duration=10946&e75=1&e75_3=0&from=0&hardware=open&height=0&lpLiveTime=10955&lpState=backKeyFinish&lploadtime=197&maxTabs=1&model=MI%206X&moves=0&ncuid=I7tkwRnYwWNjwWujwH6LfHnYfWPAwHTdrD7APRc4nH9aPgkyndKaRDNpwjcb&net=100&npr=false&obj=backC&onCreate=1684300053373&order=1&os=android&osv=9&p_ver=9.241&pack=com.ldd.redenvelope&prePageFinish=0&prePageStart=0&preloaded=false&prod=int&progress=100&qk=5e111d99042f7200&romn=&romv=&shoubailp=&sn=&ts=1684300064322&urlclicks=0&v=android_9.241_4.1.30&zd=&vd=1f06195bbb0dc94bfbee60609d295280 HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads-logs.baidu.com
+Accept-Encoding: gzip
+Cookie: BAIDUID=6092254C310D16436C3745C16D5CEB90:FG=1
+
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Connection: keep-alive
+Content-Length: 44
+Content-Type: application/json
+Date: Wed, 17 May 2023 05:07:45 GMT
+Etag: "645afff0-2c"
+Last-Modified: Wed, 10 May 2023 02:22:40 GMT
+Server: nginx/1.4.5
+

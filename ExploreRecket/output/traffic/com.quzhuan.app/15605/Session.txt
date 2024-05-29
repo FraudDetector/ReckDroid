@@ -1,0 +1,26 @@
+GET https://hm.baidu.com/hm.gif?cc=1&ck=1&cl=24-bit&ds=393x786&vl=671&et=0&ja=0&ln=zh-cn&lo=0&rnd=930380371&si=39625844f7eb6e9c0abdc1e66cdfd49e&v=1.3.0&lv=1&sn=37196&r=0&ww=393&u=https%3A%2F%2Factivity.doumobthree.top%2Fstatic2%2F7uFiFO%2Fv2%2Flaoyu2%2Findex.html%3FprocessId%3D3802600124d4ddff9c0c57bd2637ce3a%26hdgghtmlid%3D705%26appkey%3D4a65d20f10cceadacf0573779d7cb02c%26adSpaceKey%3D49c0614a1ae0ff3baaebfefd6893852a%26from%3DH5%261%3D1%26t%3D1684352229857%26interactionType%3Dhtml&tt=%E7%8E%B0%E9%87%91%E7%BA%A2%E5%8C%85%E9%80%81%E7%BB%99%E4%BD%A0 HTTP/1.1
+Host: hm.baidu.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://activity.doumobthree.top/static2/7uFiFO/v2/laoyu2/index.html?processId=3802600124d4ddff9c0c57bd2637ce3a&hdgghtmlid=705&appkey=4a65d20f10cceadacf0573779d7cb02c&adSpaceKey=49c0614a1ae0ff3baaebfefd6893852a&from=H5&1=1&t=1684352229857&interactionType=html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200 OK
+Cache-Control: private, max-age=0, no-cache
+Content-Length: 43
+Content-Type: image/gif
+Date: Wed, 17 May 2023 19:37:11 GMT
+P3p: CP="CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Pragma: no-cache
+Server: apache
+Set-Cookie: HMACCOUNT=BBC6250417F4E62D; Path=/; Domain=hm.baidu.com; Expires=Sun, 18 Jan 2038 00:00:00 GMT
+Set-Cookie: HMACCOUNT_BFESS=BBC6250417F4E62D; Path=/; Domain=hm.baidu.com; Expires=Mon, 18 Jan 2038 00:00:00 GMT; Secure; SameSite=None
+Strict-Transport-Security: max-age=172800
+X-Content-Type-Options: nosniff
+

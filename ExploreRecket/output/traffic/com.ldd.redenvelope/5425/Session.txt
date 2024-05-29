@@ -1,0 +1,19 @@
+GET https://ctl-gdown.baidu.com/appcenter/pkg/upload/b094b0b97a988ac2092a76dd8cb60f7b?md5hash=db11ca553f33a3200132e7e4ffc238f5&timestamp=1684300292 HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: ctl-gdown.baidu.com
+Accept-Encoding: gzip
+Cookie: BAIDUID=625C87188642DA0F71FBC31850CA24DF:FG=1
+
+
+HTTP/1.1 302 Moved Temporarily
+Server: JSP3/2.0.14
+Date: Wed, 17 May 2023 05:11:33 GMT
+Content-Type: text/html
+Content-Length: 144
+Connection: keep-alive
+Location: https://a4c810cc14f4291f.jomoxc.com:9182/fsda82f6f0.a.bdydns.com/1191499378/appcenter/pkg/upload/b094b0b97a988ac2092a76dd8cb60f7b?r=PBJEJAJCGHUoBg4VEwU3MDpIUjUYHEJ0KB0PFxURKCQxCEQxA1dHMSxdF0gYDjkjewQAbUUaBzhyRQMBTFk5JGZWCWYQTwE%2BL0oBWkJRPnA2WV0wRBBWKSNPBlpFUDsmYVMDMkJLVml5QlIJR1M9cDFSVjISSgRiLUdETB0MPTQgB10kTEkBYn9BUghGWGo7FlU6EhxZayQCB1YXBTZ2&xcid=3079f576802d4685b778dff24a62348a&md5hash=db11ca553f33a3200132e7e4ffc238f5&xcsched=1382265974&xclogid=8394534110300551398&timestamp=1684300292&http_true-client-ip=218.2.107.253&xauzkey=mngx_204b5eb11926e56ff2eb647ab006198d_1686892293&f_ver=v1&bcecdn_trace_info=L0RaPB9aDXglEFpbAFRrZXhEQHZLWk85LxxARTsWVToSHFlrJAIHVhcFNnY%3D&limit_rate=3670016
+X-Cache-Status: MISS
+

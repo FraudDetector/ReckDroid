@@ -1,0 +1,30 @@
+GET https://openlog.tuia.cn/openlog/collect/?type=73&logName=innerExt02&json=%7B%22activityId%22%3A%2234739%22%2C%22deviceId%22%3A%22766ecaf5-ad17-4ed6-b054-6ded6c4c1b7f%22%2C%22rid%22%3A%220a379fc1lhr53324-1008189%22%2C%22timestamp%22%3A1684352169832%2C%22slotId%22%3A%22309386%22%2C%22appId%22%3A%2261894%22%2C%22getOneIdType%22%3A2%7D HTTP/1.1
+Host: openlog.tuia.cn
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://activity.tuifish.com/activity/index?id=34739&slotId=309386&login=normal&appKey=Gm4nRKHbkyQr5iLyWYbgHM1tkCb&deviceId=766ecaf5-ad17-4ed6-b054-6ded6c4c1b7f&dsm=1.309386.0.0&dsm2=1.309386.2.34739&tenter=SOW&subActivityWay=48&tck_rid_6c8=0a379fc1lhr53324-1008189&tck_loc_c5d=tactivity-34739&dcm=401.309386.0.0&netType=2&tenter=SOW&visType=0&specialType=0&sourcePage=34739&deviceIdType=2&formUserId=null&isTestActivityType=0&algoType=42&userType=1&ep=KLAVobjCxF_pjCpasaq57iehY4L5PdrDxs3-HWzrEXoTUj3sQrkGFt-DDuOpAu1BKsoEu0PfxBx_1-tC6Kovaw==&iframe=1&openStyleType=2136&sign=5D09155564BDE90333F0D93DD4499405
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200
+Content-Type: application/json;charset=UTF-8
+Connection: keep-alive
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: *
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Credentials: true
+Date: Wed, 17 May 2023 19:36:10 GMT
+Server: Archer
+x-service-id: TUIA-OPEN-LOG
+x-profile: prodvpc
+Content-Length: 55
+

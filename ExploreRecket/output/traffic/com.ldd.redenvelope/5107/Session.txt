@@ -1,0 +1,33 @@
+GET https://vdwmto3.bdstatic.com/35313137343037373433643734643235/62353538336138376562336336656239/e4d0c0292df0286c846cc231cdb9a05eaa433a69d352529bdeb7f716595f77fe3840007ef84ab233b35fb567812eec697e0ce68328e3836c23076a5c3a865ecf641ce56a02bf2287000bdaa874b0db85.mp4?auth_key=1684301851-0-0-9acba3e1bd6b2ed427df46013c0846fd&pd=23 HTTP/1.1
+User-Agent: stagefright/1.2 (Linux;Android 9)
+Host: vdwmto3.bdstatic.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: JSP3/2.0.14
+Date: Wed, 17 May 2023 05:07:33 GMT
+Content-Type: video/mp4
+Content-Length: 12170907
+Connection: keep-alive
+Expires: Tue, 16 May 2023 06:20:36 GMT
+Last-Modified: Sat, 13 May 2023 06:20:36 GMT
+ETag: "176113dc0832d14a53d451cfb7173821"
+Age: 317115
+Accept-Ranges: bytes
+Content-MD5: F2ET3Agy0UpT1FHPtxc4IQ==
+x-bce-content-crc32: 2401435636
+x-bce-debug-id: tKGgkp7pnQ0sAXcQS9OiYQkRGfc7SWA0ipukYHyz909WYwtj+prswrk6VSRNv060w6Sr66fyM/vxu1Zl7szVyw==
+x-bce-meta-mid: mda-pebaunp2w1dz12s8
+x-bce-meta-nid: 8462174648567879914
+x-bce-meta-vod_meta: { "durationInSeconds": 187, "bitRateInBps": 520680, "frameRate": 25, "gopAlign": true, "widthInPixel": 640, "heightInPixel": 360, "mp4MoovSize": 89096, "sizeInBytes": 12170907 }
+x-bce-request-id: 6603070d-b3ef-40c9-8cfd-76be00f4482b
+x-bce-storage-class: STANDARD
+Timing-Allow-Origin: *
+Ohc-Global-Saved-Time: Sat, 13 May 2023 07:09:56 GMT
+Ohc-Cache-HIT: cz3ct52 [2], suzix213 [2]
+Ohc-File-Size: 12170907
+X-Cache-Status: HIT
+Access-Control-Allow-Origin: *
+

@@ -1,0 +1,20 @@
+GET https://mobads.baidu.com/ads/preload.php HTTP/1.1
+accept: */*
+connection: Keep-Alive
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads.baidu.com
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Connection: keep-alive
+Content-Length: 1386
+Content-Type: application/octet-stream
+Date: Wed, 17 May 2023 05:07:33 GMT
+Etag: "642e8d06-56a"
+Last-Modified: Thu, 06 Apr 2023 09:12:38 GMT
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: nginx/1.4.5
+Set-Cookie: BAIDUID=6092254C310D16436C3745C16D5CEB90:FG=1; expires=Thu, 16-May-24 05:07:33 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+

@@ -1,0 +1,1 @@
+{"words_result":[{"words":"金币大放送"},{"words":"新人专享"},{"words":"连送三天"},{"words":"開"},{"words":"完成任务当天提现"},{"words":"仅限新注册用户领取"},{"words":"起打卡果"},{"words":"步数挑战赛"},{"words":"起赚金雨"},{"words":"每天一个小目标"}],"words_result_num":10,"log_id":1658916271973847168}

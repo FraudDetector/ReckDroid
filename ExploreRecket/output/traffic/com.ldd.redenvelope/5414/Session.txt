@@ -1,0 +1,19 @@
+GET https://cover.baidu.com/cover/deeplink_android?downloadUrl=5003918065&ssl=1&wd= HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: cover.baidu.com
+Accept-Encoding: gzip
+Cookie: BAIDUID=625C87188642DA0F71FBC31850CA24DF:FG=1
+
+
+HTTP/1.1 302 Found
+Connection: keep-alive
+Content-Length: 424
+Content-Type: text/plain; charset=utf-8
+Date: Wed, 17 May 2023 05:11:32 GMT
+Location: https://m.baidu.com/api?action=redirect&token=ystgsy&from=1020184a&type=app&dltype=new&refid=203732812&tj=0_5003918065_3958224_%E6%8A%96%E9%9F%B3%E6%9E%81%E9%80%9F%E7%89%88&refp=action_search&blink=0b5268747470733a2f2f67646f776e2e62616964752e636f6d2f61707063656e7465722f706b672f75706c6f61642f62303934623062393761393838616332303932613736646438636236306637626464&crversion=1
+Vary: Accept, Accept-Encoding
+X-Response-Time: 3.811ms
+

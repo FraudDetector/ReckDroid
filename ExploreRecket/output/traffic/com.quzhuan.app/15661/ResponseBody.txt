@@ -1,0 +1,1 @@
+{"words_result":[{"words":"恭喜你"},{"words":"获得一个神秘红包"},{"words":"拆"}],"words_result_num":3,"log_id":1658919652015464343}

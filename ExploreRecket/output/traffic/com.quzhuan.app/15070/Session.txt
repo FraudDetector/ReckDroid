@@ -1,0 +1,20 @@
+POST https://ulogs.umengcloud.com/unify_logs HTTP/1.1
+X-Umeng-UTC: 1684351635866
+X-Umeng-Sdk: i/1.2.0 3.3.2/Android/PKQ1.180904.001/MI 6X/9 5b0575157716f9526711e83d658969
+Content-Type: ut/i
+Msg-Type: envelope/json
+X-Umeng-Pro-Ver: 1.0.0
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: ulogs.umengcloud.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Content-Length: 3588
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Date: Wed, 17 May 2023 19:27:16 GMT
+Content-Type: application/thrift
+Content-Length: 22
+Connection: close
+

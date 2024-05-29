@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>现金红包送给你</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+	<meta http-equiv="Pragma" content="no-cache">
+	<link rel="preconnect" href="https://hdggcdn.bayimob.com" crossorigin>
+	<link rel="dns-prefetch" href="https://hdggcdn.bayimob.com">
+	<link rel="preconnect" href="https://api.clotfun.online" crossorigin>
+	<link rel="dns-prefetch" href="https://api.clotfun.online">
+	<link rel="stylesheet" type="text/css" href="../hdgg.css">
+<link href="./css/index.min.css" rel="stylesheet"></head>
+
+<body id="db-content">
+	<div id="contant">
+		<div class="rule"></div>
+		<div class="jiang"></div>
+		<div class="counts">今日剩余：<span id="countZa">8</span>次</div>
+		<div class="contain">
+			
+			<div class="person-container">
+				<div class="fish-container">
+					<div class="pole"></div>
+					<div class="fishnet">
+						<img id="showping" src="https://hdggcdn.bayimob.com/hdggstatic/laoyu9/bao.png" style="display: none;">
+					</div>
+				</div>
+				<div class="persons"></div>
+				<div class="plat"></div>
+			</div>
+			<div class="sea">
+				<div class="prize-container">
+					<div class="floats"></div>
+				</div>
+			</div>
+
+			<div class="start"></div>
+			<div class="DB_guide">
+				<span class="DB_G_circle"></span>
+				<span class="DB_G_hand"></span>
+			</div>
+		</div>
+
+		<div class="clear"></div>
+
+		<div class="alerty">
+			<div class="notice">
+				<div class="saclose"></div>
+				<h1 class="ntile1"></h1>
+				<div class="contant">
+					<h1 class="title font14">活动说明：</h1>
+					<p class="font14">参与活动即有机会获得幸运奖~每天抽奖机会8次免费。此活动为概率中奖，奖品数量有限，祝好运！</p>
+					<p>惊喜一：佳能7D单反</p>
+					<p>惊喜二：小米旅行箱</p>
+					<p>惊喜三：200元红包</p>
+					<p>惊喜四：100元红包</p>
+					<p>惊喜五：幸运福袋</p>
+					<h1 class="title font14">重要声明：</h1>
+					<p>1.奖品将在活动结束后5-10个工作日安排发放,请耐心等待</p>
+					<p>2.优惠券类奖品的使用规则详见每个优惠券的介绍页</p>
+					<p>3.通过非法途径获得奖品的,主办方有权不提供奖品</p>
+					<div class="moresay">中奖概率说明<i></i></div>
+					<div class="moresayp">
+						<p>•佳能7D单反共1份，中奖概率0.001%; </p>
+						<p>•小米旅行箱共2份,中奖概率0.002%; </p>
+						<p>•200元红包共3份,中奖概率0.003%; </p>
+						<p>•100元红包共20份,中奖概率0.02%; </p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="zhenotice"></div>
+		<script src="../require.js"></script>
+<script src="./js/main.min.js"></script></div></body>
+
+</html>

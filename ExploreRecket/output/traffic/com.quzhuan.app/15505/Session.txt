@@ -1,0 +1,27 @@
+GET https://hunter-report.dui88.com/report?client=tuia&appId=61894&pageId=ops_redPacket_v1_vm&slotId=309386&consumerId=36396070734&activityId=34739&version=2.6.2&url=https%3A%2F%2Factivity.tuifish.com%2Factivity%2Findex%3Fid%3D34739%26slotId%3D309386%26login%3Dnormal%26appKey%3DGm4nRKHbkyQr5iLyWYbgHM1tkCb%26deviceId%3D766ecaf5-ad17-4ed6-b054-6ded6c4c1b7f%26dsm%3D1.309386.0.0%26dsm2%3D1.309386.2.34739%26tenter%3DSOW%26subActivityWay%3D48%26tck_rid_6c8%3D0a379fc1lhr53324-1008189%26tck_loc_c5d%3Dtactivity-34739%26dcm%3D401.309386.0.0%26netType%3D2%26tenter%3DSOW%26visType%3D0%26specialType%3D0%26sourcePage%3D34739%26deviceIdType%3D2%26formUserId%3Dnull%26isTestActivityType%3D0%26algoType%3D42%26userType%3D1%26ep%3DKLAVobjCxF_pjCpasaq57iehY4L5PdrDxs3-HWzrEXoTUj3sQrkGFt-DDuOpAu1BKsoEu0PfxBx_1-tC6Kovaw%3D%3D%26iframe%3D1%26openStyleType%3D2136%26sign%3D5D09155564BDE90333F0D93DD4499405&a_oId=&rid=0a379fc1lhr53324-1008189&bqqtokenId=&cache=0&dns=0&tcp=88&req=137&res=7&dom=822&readycb=0&fasrt=382&loadcb=2&fp=328&ready=1150&load=1535&network=4g&width=393&height=786&fmp=1150 HTTP/1.1
+Host: hunter-report.dui88.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://activity.tuifish.com/activity/index?id=34739&slotId=309386&login=normal&appKey=Gm4nRKHbkyQr5iLyWYbgHM1tkCb&deviceId=766ecaf5-ad17-4ed6-b054-6ded6c4c1b7f&dsm=1.309386.0.0&dsm2=1.309386.2.34739&tenter=SOW&subActivityWay=48&tck_rid_6c8=0a379fc1lhr53324-1008189&tck_loc_c5d=tactivity-34739&dcm=401.309386.0.0&netType=2&tenter=SOW&visType=0&specialType=0&sourcePage=34739&deviceIdType=2&formUserId=null&isTestActivityType=0&algoType=42&userType=1&ep=KLAVobjCxF_pjCpasaq57iehY4L5PdrDxs3-HWzrEXoTUj3sQrkGFt-DDuOpAu1BKsoEu0PfxBx_1-tC6Kovaw==&iframe=1&openStyleType=2136&sign=5D09155564BDE90333F0D93DD4499405
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Content-Length: 28
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Access-Control-Allow-Headers: X-Requested-With, Content-Type
+Access-Control-Allow-Max-Age: 3600
+Date: Wed, 17 May 2023 19:36:11 GMT
+Server: Archer
+x-service-id: HUNTER-NODE
+x-profile: prodvpc
+

@@ -1,0 +1,26 @@
+GET https://engine.tuifish.com/index/activity?appKey=Gm4nRKHbkyQr5iLyWYbgHM1tkCb&adslotId=309386&uk_a1=__IMEI__&uk_a2=__IMEI2__&uk_a3=__MUID__&uk_b1=__IDFA__&uk_b2=__IDFA2__&uk_c1=__OAID__ HTTP/1.1
+Host: engine.tuifish.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 302
+Content-Length: 0
+Connection: keep-alive
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Set-Cookie: fingerprint=766ecaf5-ad17-4ed6-b054-6ded6c4c1b7f; Max-Age=31536000; Expires=Thu, 16-May-2024 19:36:09 GMT; Path=/
+Location: https://activity.tuifish.com/activity/index?id=34739&slotId=309386&login=normal&appKey=Gm4nRKHbkyQr5iLyWYbgHM1tkCb&deviceId=766ecaf5-ad17-4ed6-b054-6ded6c4c1b7f&dsm=1.309386.0.0&dsm2=1.309386.2.34739&tenter=SOW&subActivityWay=48&tck_rid_6c8=0a379fc1lhr53324-1008189&tck_loc_c5d=tactivity-34739&dcm=401.309386.0.0&netType=2&tenter=SOW&visType=0&specialType=0&sourcePage=34739&deviceIdType=2&formUserId=null&isTestActivityType=0&algoType=42&userType=1&ep=KLAVobjCxF_pjCpasaq57iehY4L5PdrDxs3-HWzrEXoTUj3sQrkGFt-DDuOpAu1BKsoEu0PfxBx_1-tC6Kovaw==&iframe=1&openStyleType=2136&sign=5D09155564BDE90333F0D93DD4499405
+Date: Wed, 17 May 2023 19:36:09 GMT
+Server: Archer
+x-service-id: TUIA-OPEN-WEB
+x-profile: prodvpc
+

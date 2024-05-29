@@ -1,0 +1,20 @@
+GET https://mobads-logs.baidu.com/dz.zb?type=1008&p_ver=9.241&cuid=&os=android&a_ver=adserv_0&romn=&pack=com.ldd.redenvelope&bdr=28&osv=9&romv=&v=android_9.241&model=MI+6X&sn=&brand=xiaomi&subtype=10086&ext_data=%7B%22sniff_time%22%3A%22661%22%2C%22sniff_value%22%3A%22137438953473%2C1%2C769%2C1%2C1%2C1%2C1%2C1%2C1%2C1%22%2C%22sniff_type%22%3A%22all_sniff%22%2C%22send_time%22%3A1684300053765%2C%22first_sniff%22%3A%22true%22%7D&ncuid=I7tkwRnYwWNjwWujwH6LfHnYfWPAwHTdrD7APRc4nH9aPgkyndKaRDNpwjcb&appsid=ecd59139&zd=&net=100&ts=1684300053775 HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads-logs.baidu.com
+Accept-Encoding: gzip
+Cookie: BAIDUID=6092254C310D16436C3745C16D5CEB90:FG=1
+
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Connection: keep-alive
+Content-Length: 44
+Content-Type: application/json
+Date: Wed, 17 May 2023 05:07:34 GMT
+Etag: "642e8d06-2c"
+Last-Modified: Thu, 06 Apr 2023 09:12:38 GMT
+Server: nginx/1.4.5
+

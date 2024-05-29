@@ -1,0 +1,24 @@
+GET https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?$req=Ch0KDGdvb2dsZWNocm9tZRINMTEzLjAuNTY3Mi45MxopCAUQARobCg0IBRAGGAEiAzAwMTABENvUEBoCGAc8hUcAIgQgASACKAEaKQgBEAEaGwoNCAEQBhgBIgMwMDEwARDCpwwaAhgHVAfrZiIEIAEgAigBGikIBxABGhsKDQgHEAYYASIDMDAxMAEQtu4MGgIYB_PODBwiBCABIAIoARonCAEQARoZCg0IARAGGAEiAzAwMTADEBQaAhgH8euGfCIEIAEgAigDGigIARAIGhoKDQgBEAgYASIDMDAxMAQQgDMaAhgHgxwE6iIEIAEgAigEGigIDxABGhoKDQgPEAYYASIDMDAxMAEQgXUaAhgHEtOqdSIEIAEgAigBGicIChAIGhkKDQgKEAgYASIDMDAxMAEQBxoCGAcJBqerIgQgASACKAEaJwgJEAEaGQoNCAkQBhgBIgMwMDEwARAgGgIYB9FWPd4iBCABIAIoARooCAgQARoaCg0ICBAGGAEiAzAwMTABEN8SGgIYB7Fn9h8iBCABIAIoARopCA0QARobCg0IDRAGGAEiAzAwMTABEITpARoCGAfdR38AIgQgASACKAEaKQgDEAEaGwoNCAMQBhgBIgMwMDEwARCYnQwaAhgHbsIpgyIEIAEgAigBGikIDhABGhsKDQgOEAYYASIDMDAxMAEQuoEHGgIYB4AoekQiBCABIAIoARooCBAQARoaCg0IEBAGGAEiAzAwMTABEKgZGgIYBxa8SQoiBCABIAIoASICCAE=&$ct=application/x-protobuf&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw HTTP/1.1
+Host: safebrowsing.googleapis.com
+Connection: keep-alive
+X-HTTP-Method-Override: POST
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+
+
+HTTP/1.1 200 OK
+Content-Disposition: attachment
+Server: scaffolding on HTTPServer2
+Content-Length: 7564
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Date: Wed, 17 May 2023 19:28:06 GMT
+Content-Type: application/x-protobuf
+Vary: Accept-Encoding
+Age: 543
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

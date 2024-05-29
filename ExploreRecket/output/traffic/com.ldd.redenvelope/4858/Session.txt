@@ -1,0 +1,21 @@
+POST https://gdfp.gifshow.com/rest/infra/gdfp/a/q?secretkey=f12536c198aee4d8198aad2300827430&sign=1a5b90d4fee71b94585c6d11788f1289&appkey=400000&timestamp=1684300039&type=SDK_INIT HTTP/1.1
+Charset: UTF-8
+Content-Type: application/json; charset=UTF-8
+User-Agent: Android/400000/1.0.007
+Cookie: userId=;platform=ANDROID_PHONE;channel=;mod=;sysver=
+Content-Length: 359
+Host: gdfp.gifshow.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200
+Server: Tengine/2.3.2
+Date: Wed, 17 May 2023 05:07:21 GMT
+Content-Type: application/json;charset=UTF-8
+Connection: keep-alive
+Alt-Svc: quic=":8443";ma=2592000;v="43"
+X-KSLOGID: 684300041059045044
+X-KSClient-IP: 153.3.60.85
+Content-Length: 164
+

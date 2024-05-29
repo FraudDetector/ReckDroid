@@ -1,0 +1,11 @@
+CONNECT a4c810cc14f4291f.jomoxc.com:9182 HTTP/1.1
+Host: a4c810cc14f4291f.jomoxc.com:9182
+Connection: Keep-Alive
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+
+
+HTTP/1.1 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 13:11:33.135
+Connection: close
+

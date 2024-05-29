@@ -1,0 +1,15 @@
+GET http://tj.haokan88.cn/templates/hb.html?data=w43CpsKxcMK8w6bDp8KEwo7CkMK6wqjDlXDCnMKifcONw6fCh8KawrzCp8Kfe8OOwq1yw6TCnMOLw5nDhMOSwqDCrcKKw6zDmsK1wrzDo8K6wqPDk8KVw4vDmX3DmcOdwofDhsOcw5%2FCrsOOw5nCucKcw47ClMOZwpDDi8Ofwrd8woXCmcOmwrTCvsOOwohbw6HCnMOOwqfCvMKcw51%2FwoPDlsOXwoDCjMKfwrFqw43ClsKaw4%2FCicKiwq%2FCq8KvwqrDksKpwobDi8KtbsKiacKhwqF9w5jDm8KHwrPDlcKnwoDCucKawoHClsORwpbDjMKgwpDCnMOgfXPDp8KueMKLwqJ%2FaMKcY8KcwqHCkMKawqx6c8Ocw57ChMKOwpzCgMKZw47Cl8KhwqDCj8KbwrHCrcKGwqTCo3rCtsONwoFlw5Jrw4vCnsKMw4vCrHrCs8Kqw5XCqnvDmMK%2FcsK6eMK%2Bw4HCpsK7w4XCqcKkwrzCt8KQe8ORw4DCnsOQcMOQw43CjMOPw5x8wq%2FDmMKoesK2w4x%2FacKiZsKjw43CjMONwq98woXCo8KjfMKJw43Cr2nCn8KWwpDDnsOFwqbCrcKDc8OZw6bCsMK5wqfCgMKaw5Fowp7CoMKNwpvDnHx%2BwqzCpcKqwoXCn8KDwpjCosKZw4vCncKOwprDnHrCsMKnwqbCrMK4w49xwpbDlcKXwqfCmsKHw4vDn3rCr8OZwqZ%2BwovDi8KuwpfDkMKVw4vCm8KNw4vCscKufsOUw5J8wobCnsKxZcKlwpbDkMKQw4XCpsKtwoJzw5TCrsK6w4XDlsKswqjDlFnDncOewpTCncKv HTTP/1.1
+Host: tj.haokan88.cn
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/4.1.0
+
+
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Wed, 17 May 2023 05:11:20 GMT
+Content-Type: image/gif
+Content-Length: 43
+Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+Connection: keep-alive
+

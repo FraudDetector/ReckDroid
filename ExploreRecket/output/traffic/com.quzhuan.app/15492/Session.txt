@@ -1,0 +1,42 @@
+GET https://yun.tuisnake.com/h5-mami/sjf/sjf-boom.png HTTP/1.1
+Host: yun.tuisnake.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://yun.tuisnake.com/tact/core/core.f8070368.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/png
+Content-Length: 27897
+Connection: keep-alive
+Date: Mon, 17 Apr 2023 04:04:02 GMT
+x-oss-request-id: 643CC5329A01B13134673325
+x-oss-cdn-auth: success
+Accept-Ranges: bytes
+ETag: "B942C032C9FC45AC83F6C598D3AB6E5B"
+Last-Modified: Tue, 21 Jan 2020 06:55:36 GMT
+x-oss-object-type: Normal
+x-oss-hash-crc64ecma: 7640237372823027095
+x-oss-storage-class: Standard
+Content-MD5: uULAMsn8RayD9sWY06tuWw==
+x-oss-server-time: 58
+Ali-Swift-Global-Savetime: 1681704242
+Via: cache44.l2cn2602[0,0,200-0,H], cache38.l2cn2602[1,0], vcache21.cn4291[0,0,200-0,H], vcache16.cn4291[1,0]
+Age: 2647928
+X-Cache: HIT TCP_MEM_HIT dirn:9:364649147
+X-Swift-SaveTime: Sat, 06 May 2023 02:05:24 GMT
+X-Swift-CacheTime: 29469518
+Access-Control-Allow-Headers: Content-Length,Range
+Access-Control-Allow-Methods: GET,HEAD,OPTIONS
+Access-Control-Expose-Headers: Content-Length,Range
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: 7c4882a416843521709136471e
+

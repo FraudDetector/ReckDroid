@@ -1,0 +1,17 @@
+GET https://privilege-getway-img.91cpsa.com/k8s-happy-go/activityEarn/tK5NDbxMKy54Fn2LH0DTzhMGnT3e5duKcBJmd8Y3oQcnmkdgrOTuyAnN3wdTWLpi.png HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: privilege-getway-img.91cpsa.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: nginx/1.15.9
+Date: Wed, 17 May 2023 19:23:46 GMT
+Content-Type: image/png
+Last-Modified: Thu, 10 Sep 2020 02:15:33 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: W/"5f598c45-479"
+Content-Length: 1145
+

@@ -1,0 +1,29 @@
+POST https://aip.baidubce.com/rest/2.0/ocr/v1/general_basic?access_token=24.37afd6d9858a9d29e3e932ba2a64bdf2.2592000.1686944044.282335-25245885&aipSdk=python&aipVersion=2_2_20 HTTP/1.1
+Host: aip.baidubce.com
+User-Agent: python-requests/2.24.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Content-Length: 51460
+Content-Type: application/x-www-form-urlencoded
+
+
+HTTP/1.1 200 OK
+Access-Control-Allow-Headers: Content-Type, x-requested-with, X-Custom-Header
+Access-Control-Allow-Methods: POST, GET, DELETE, OPTIONS, DELETE
+Access-Control-Allow-Origin: *
+Appid: 25245885
+Connection: keep-alive
+Content-Type: application/json
+Date: Wed, 17 May 2023 19:34:04 GMT
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: BAIDUID=3DB783D780D52096D6D9E5132184011C:FG=1; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2145916555; path=/; domain=.baidu.com; version=1
+Set-Cookie: BAIDUID=3DB783D780D520969610CBD4A7A66BA3:FG=1; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2145916555; path=/; domain=.baidu.com; version=1
+Vary: Accept-Encoding
+X-B3-Spanid: d347157f822f0000
+X-B3-Traceid: c832c123f4e911edb2f6016b3f302323
+X-Baidu-Request-Id: f0d4c7112d59bc3ee85801e8b7861c301000035
+Content-Length: 278
+

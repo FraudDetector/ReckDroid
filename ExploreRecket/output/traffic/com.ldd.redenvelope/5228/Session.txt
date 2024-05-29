@@ -1,0 +1,32 @@
+GET https://mobads-pre-config.cdn.bcebos.com/sdk/reward/rvideo_flip_card_anim.json HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads-pre-config.cdn.bcebos.com
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: JSP3/2.0.14
+Date: Wed, 17 May 2023 05:10:52 GMT
+Content-Type: application/json
+Content-Length: 2582
+Connection: keep-alive
+Expires: Sat, 20 May 2023 05:08:40 GMT
+Last-Modified: Thu, 18 Aug 2022 11:31:41 GMT
+ETag: "d16e8d32958803cb85cb3ccaeb1a0b3a"
+Age: 121
+Accept-Ranges: bytes
+Content-MD5: 0W6NMpWIA8uFyzzK6xoLOg==
+x-bce-content-crc32: 885983685
+x-bce-debug-id: 2Ec/PVheiG2ug4s3xwGwj1TLbr2R0iNxgBfRWfkxnkuRiylwCOjCFfIn4e/RO4Y4G6/op9TEvGYKFI89d8pc1Q==
+x-bce-request-id: 662392f4-e87d-4934-8b3d-f938af665f74
+x-bce-storage-class: STANDARD
+Ohc-Global-Saved-Time: Wed, 17 May 2023 05:08:40 GMT
+Ohc-Upstream-Trace: 183.136.195.52
+Ohc-Cache-HIT: nb8ct52 [2], xaix176 [2]
+Ohc-Response-Time: 1 0 0 0 0 0
+Ohc-File-Size: 2582
+X-Cache-Status: HIT
+

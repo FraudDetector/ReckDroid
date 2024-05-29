@@ -1,0 +1,49 @@
+{
+  "tag": "2023-05-17_130705",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ldd.redenvelope",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          207,
+          1163
+        ],
+        [
+          262,
+          1222
+        ]
+      ],
+      "resource_id": "com.ldd.redenvelope:id/check_agree",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.CheckBox",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "55*59",
+      "signature": "[class]android.widget.CheckBox[resource_id]com.ldd.redenvelope:id/check_agree[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.ldd.redenvelope:id/check_agree",
+      "view_str": "7f8b745d5e13cacabb46e1cf40062645"
+    }
+  },
+  "start_state": "b025f37a4923e34feb1536cdbd64e86a",
+  "stop_state": "b025f37a4923e34feb1536cdbd64e86a",
+  "event_str": "TouchEvent(state=b025f37a4923e34feb1536cdbd64e86a, view=7f8b745d5e13cacabb46e1cf40062645)"
+}

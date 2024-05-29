@@ -1,0 +1,21 @@
+GET https://dm.bytedance.com/get_domains/v4/?abi=arm64-v8a&aid=1371&device_platform=android&channel=openadsdk&version_code=3251&device_id=null HTTP/1.1
+Host: dm.bytedance.com
+User-Agent: VADNetAgent/0
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 400 Bad Request
+Server: Tengine
+Content-Length: 0
+Connection: keep-alive
+Date: Wed, 17 May 2023 19:37:09 GMT
+Upstream-Caught: 1684352229769374
+X-Tt-Logid: 202305180337091D529426063F6D4C428B
+server-timing: inner; dur=5
+server-timing: cdn-cache;desc=MISS,edge;dur=0,origin;dur=144
+x-alicdn-da-ups-status: endOs,0,400
+Via: cache13.cn2205[144,0]
+Timing-Allow-Origin: *
+EagleId: b461fb2916843522296415908e
+

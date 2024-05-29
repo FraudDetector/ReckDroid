@@ -1,0 +1,52 @@
+{
+  "tag": "2023-05-17_130952",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ldd.redenvelope",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        19,
+        21
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          41,
+          91
+        ],
+        [
+          347,
+          229
+        ]
+      ],
+      "resource_id": "com.ldd.redenvelope:id/rl_login_1",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 18,
+      "size": "306*138",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.ldd.redenvelope:id/rl_login_1[text]None[enabled,,]",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.ldd.redenvelope:id/rl_login_1",
+      "view_str": "1fb59cd4b429daa5d20007fb1863eb4a"
+    }
+  },
+  "start_state": "73b090c918e928ff42b5d5e0aed39c93",
+  "stop_state": "1293b048c860ec9eaf35fb43d815248e",
+  "event_str": "TouchEvent(state=73b090c918e928ff42b5d5e0aed39c93, view=1fb59cd4b429daa5d20007fb1863eb4a)"
+}

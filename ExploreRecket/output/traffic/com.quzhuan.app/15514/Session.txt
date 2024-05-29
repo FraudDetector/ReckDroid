@@ -1,0 +1,16 @@
+POST https://log.tbs.qq.com/ajax?c=pu&v=2&k=9fa909d10e838358e2196ac3ba26ec109d152bd0f6966db3cedf261da6ae30f8797ec4dc722c4fab0b18230a7ff8892fd11e5ff741808d98c4ad31454bf4b9cf8bed48fe8cb749d96d99525803cf9d84482c8a62b23e95f4fe541affe2b7362c5d8ab03888c460ce5ca3527fde3546041a5a003b5e3731a95ebb94f6639db916 HTTP/1.1
+Connection: close
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 608
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: log.tbs.qq.com
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 19:36:22 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 7
+Connection: close
+Set-Cookie: tgw_l7_route=87dc8413883e4378ed67fafe0033adbb; Expires=Wed, 17-May-2023 20:06:22 GMT; Path=/
+

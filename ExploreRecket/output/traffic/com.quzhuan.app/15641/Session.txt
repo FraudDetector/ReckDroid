@@ -1,0 +1,39 @@
+GET https://cdn.vedioads.cn/hdggstatic/common/redpacket-bg.png HTTP/1.1
+Host: cdn.vedioads.cn
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://activity.doumobthree.top/static2/7uFiFO/v2/0.hdgg.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/png
+Content-Length: 90057
+Connection: keep-alive
+Date: Wed, 17 May 2023 16:20:20 GMT
+x-oss-request-id: 6464FEC45EA59C3733B92942
+x-oss-cdn-auth: success
+Accept-Ranges: bytes
+ETag: "5D28C29387750E04A2DBC8ABB34F1AD7"
+Last-Modified: Tue, 31 Jul 2018 03:26:36 GMT
+x-oss-object-type: Normal
+x-oss-storage-class: Standard
+Content-MD5: XSjCk4d1DgSi28irs08a1w==
+x-oss-server-time: 187
+Ali-Swift-Global-Savetime: 1684340420
+Via: cache44.l2cn2647[0,0,304-0,H], cache70.l2cn2647[2,0], vcache12.cn4732[0,0,200-0,H], vcache27.cn4732[2,0]
+x-oss-hash-crc64ecma: 12674706085960379617
+Age: 11813
+X-Cache: HIT TCP_MEM_HIT dirn:10:18980189
+X-Swift-SaveTime: Wed, 17 May 2023 19:16:52 GMT
+X-Swift-CacheTime: 75808
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: b465c62f16843522330187531e
+

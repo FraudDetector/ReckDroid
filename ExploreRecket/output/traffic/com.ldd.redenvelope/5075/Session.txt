@@ -1,0 +1,21 @@
+GET https://mobads-logs.baidu.com/dz.zb?type=387&a_ver=adserv_0&allowIns=false&apid=7949859&appsid=ecd59139&batteryLevel=100&batteryScale=100&bdr=28&brand=xiaomi&chargeState=2&cpuSerial=&cuid=&hasSdPermission=false&isDeviceRooted=false&mac=&model=MI%206X&ncuid=I7tkwRnYwWNjwWujwH6LfHnYfWPAwHTdrD7APRc4nH9aPgkyndKaRDNpwjcb&net=100&os=android&osv=9&p_ver=9.241&pack=com.ldd.redenvelope&prod=int&romn=&romv=&sdState=true&simState=5&sn=&targetVer=28&td=&ts=1684300050884&v=android_9.241&zd=&vd=4098334fed5d064f23458886da7f1b93 HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads-logs.baidu.com
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Connection: keep-alive
+Content-Length: 44
+Content-Type: application/json
+Date: Wed, 17 May 2023 05:07:31 GMT
+Etag: "6459be74-2c"
+Last-Modified: Tue, 09 May 2023 03:31:00 GMT
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: nginx/1.4.5
+Set-Cookie: BAIDUID=42780B5756E4ED516FBECB2EE7B758A5:FG=1; expires=Thu, 16-May-24 05:07:31 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+

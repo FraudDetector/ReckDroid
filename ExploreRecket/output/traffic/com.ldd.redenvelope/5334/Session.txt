@@ -1,0 +1,19 @@
+POST https://rpt.gdt.qq.com/sdk_track HTTP/1.1
+Content-Type: application/json
+User-Agent: GDTMobSDK4.492.1362-[Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)]
+Host: rpt.gdt.qq.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Content-Length: 457
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 05:11:14 GMT
+Content-Type: text/json
+Content-Length: 12
+Connection: keep-alive
+Server: nginx
+Cache-Control: private, no-cache, must-revalidate, max-age=0
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+P3P: CP=NOI NID NOR
+

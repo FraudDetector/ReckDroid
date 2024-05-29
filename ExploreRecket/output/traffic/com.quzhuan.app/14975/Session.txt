@@ -1,0 +1,16 @@
+POST https://cloud.xdrig.com/configcloud/rest/sdk/match HTTP/1.1
+Accept-Encoding: 
+Content-Type: application/json
+Content-Length: 282
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: cloud.xdrig.com
+Connection: Keep-Alive
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 19:23:49 GMT
+Content-Type: application/octet-stream
+Content-Length: 25
+Connection: keep-alive
+Server: nginx
+

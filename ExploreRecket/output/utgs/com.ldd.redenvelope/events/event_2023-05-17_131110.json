@@ -1,0 +1,11 @@
+{
+  "tag": "2023-05-17_131110",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.ldd.redenvelope/com.ldd.purecalendar.activity.EntryActivity"
+  },
+  "start_state": "900ec9e0e9269bf6d901e5834abf45f0",
+  "stop_state": "7f4efb650639bd32cc922cb75475ef99",
+  "event_str": "IntentEvent(intent='am start com.ldd.redenvelope/com.ldd.purecalendar.activity.EntryActivity')"
+}

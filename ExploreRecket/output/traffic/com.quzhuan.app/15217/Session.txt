@@ -1,0 +1,27 @@
+POST https://self.events.data.microsoft.com/OneCollector/1.0/ HTTP/1.1
+Accept: */*
+APIKey: 4bb4d6f7cafc4e9292f972dca2dcde42-bd019ee8-e59c-4b0f-a02c-84e72157a3ef-7485
+Client-Id: NO_AUTH
+Content-Type: application/bond-compact-binary
+Expect: 100-continue
+SDK-Version: EVT-Windows-C++-No-3.4.276.1
+Upload-Time: 1684351866192
+Host: self.events.data.microsoft.com
+Content-Length: 1391
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+
+HTTP/1.1 200 OK
+Content-Length: 9
+Content-Type: application/json
+Server: Microsoft-HTTPAPI/2.0
+Strict-Transport-Security: max-age=31536000
+time-delta-millis: 61
+Access-Control-Allow-Headers: time-delta-millis
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: time-delta-millis
+Date: Wed, 17 May 2023 19:31:06 GMT
+

@@ -1,0 +1,30 @@
+GET https://activity.doumobthree.top/static2/7uFiFO/v2/laoyu2/images/bg.png?e32c0268fdb294a13122e87b621a6c79 HTTP/1.1
+Host: activity.doumobthree.top
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://activity.doumobthree.top/static2/7uFiFO/v2/laoyu2/css/index.min.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/png
+Content-Length: 199624
+Connection: keep-alive
+Date: Wed, 17 May 2023 19:37:10 GMT
+Last-Modified: Wed, 13 Apr 2022 09:51:28 GMT
+ETag: "62569d20-30bc8"
+Accept-Ranges: bytes
+Ali-Swift-Global-Savetime: 1684352230
+Via: cache80.l2cn3037[49,80,200-0,M], cache46.l2cn3037[81,0], ens-vcache31.cn5274[87,86,200-0,M], ens-vcache14.cn5274[88,0]
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Wed, 17 May 2023 19:37:10 GMT
+X-Swift-CacheTime: 600
+Timing-Allow-Origin: *
+EagleId: deba11a116843522302122757e
+

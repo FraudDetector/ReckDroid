@@ -1,0 +1,32 @@
+GET https://mobads-pre-config.cdn.bcebos.com/sdk/reward/eggBox.png HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads-pre-config.cdn.bcebos.com
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: JSP3/2.0.14
+Date: Wed, 17 May 2023 05:10:51 GMT
+Content-Type: image/png
+Content-Length: 23429
+Connection: keep-alive
+Expires: Sat, 20 May 2023 05:09:12 GMT
+Last-Modified: Wed, 18 May 2022 09:39:09 GMT
+ETag: "74f02021d661c5b647b76eca68396200"
+Age: 95
+Accept-Ranges: bytes
+Content-MD5: dPAgIdZhxbZHt27KaDliAA==
+x-bce-content-crc32: 1913821902
+x-bce-debug-id: oHmYmIORbv6sKGlgiPdkwIP2D4iqdoJo27aHE+yIM/+q8J3TJPy9UtrbsQi6DI0BtLG9DdcyaooN67rqMzIwGA==
+x-bce-request-id: 9ac7dfd7-f297-4cb7-9604-ea177f9a285e
+x-bce-storage-class: STANDARD
+Ohc-Global-Saved-Time: Wed, 17 May 2023 05:09:12 GMT
+Ohc-Upstream-Trace: 183.136.195.56
+Ohc-Cache-HIT: nb8ct56 [2], suzix206 [2]
+Ohc-Response-Time: 1 0 0 0 0 0
+Ohc-File-Size: 23429
+X-Cache-Status: HIT
+

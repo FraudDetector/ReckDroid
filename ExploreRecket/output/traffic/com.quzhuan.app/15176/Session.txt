@@ -1,0 +1,17 @@
+GET https://dig.bdurl.net/q?host=is.snssdk.com,pangolin.snssdk.com&aid=1371 HTTP/1.1
+Host: dig.bdurl.net
+User-Agent: VADNetAgent/0 okhttp/3.9.1
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 17 May 2023 19:30:15 GMT
+Content-Type: application/json
+Connection: keep-alive
+Vary: Accept-Encoding
+server-timing: inner; dur=1
+X-TT-LOGID: 202305180330153B05B157AF65E26829CD
+Content-Length: 597
+

@@ -1,0 +1,21 @@
+POST https://mi.gdt.qq.com/gdt_mview.fcg HTTP/1.1
+x-netid: 2
+Content-Type: application/x-www-form-urlencoded
+User-Agent: GDTMobSDK4.492.1362-[Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)]
+Host: mi.gdt.qq.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Content-Length: 3329
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 05:07:23 GMT
+Content-Type: application/x-javascript; charset=utf-8
+Content-Length: 22398
+Connection: keep-alive
+Server: nginx
+Cache-Control: private, no-cache, must-revalidate, max-age=0
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+P3P: CP=NOI NID NOR
+Set-Cookie: snsuid=123375407398912; PATH=/; DOMAIN=gdt.qq.com; EXPIRES=Thu, 16 May 2024 13:07:22 GMT; HttpOnly
+

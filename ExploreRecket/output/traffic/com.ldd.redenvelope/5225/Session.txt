@@ -1,0 +1,32 @@
+GET https://mobads-pre-config.cdn.bcebos.com/sdk/reward/rvideo_flip_card_bg_image.png HTTP/1.1
+Content-type: text/plain
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: mobads-pre-config.cdn.bcebos.com
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Server: JSP3/2.0.14
+Date: Wed, 17 May 2023 05:10:51 GMT
+Content-Type: image/png
+Content-Length: 414351
+Connection: keep-alive
+Expires: Sat, 20 May 2023 05:08:12 GMT
+Last-Modified: Thu, 18 Aug 2022 11:35:08 GMT
+ETag: "1f00ad44448561bb42be167efc062b55"
+Age: 158
+Accept-Ranges: bytes
+Content-MD5: HwCtRESFYbtCvhZ+/AYrVQ==
+x-bce-content-crc32: 976275798
+x-bce-debug-id: 6eKcd4MKEooACTfC/O8BoQVdbTXJJ1Gq+Qed1Lzkwya/ei5PxhvBSI6BiDU2FjDyYCOGhN8UA01IyX9Bolg5NA==
+x-bce-request-id: bbfce74a-68f2-466f-995e-db9cbc440987
+x-bce-storage-class: STANDARD
+Ohc-Global-Saved-Time: Wed, 17 May 2023 05:08:12 GMT
+Ohc-Upstream-Trace: 183.136.195.58
+Ohc-Cache-HIT: nb8ct58 [2], bdix114 [2]
+Ohc-Response-Time: 1 0 0 0 0 0
+Ohc-File-Size: 414351
+X-Cache-Status: HIT
+

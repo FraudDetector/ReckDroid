@@ -1,0 +1,16 @@
+GET https://canvas.gdt.qq.com/canvas/1?viewid=%12%0E%08%8C%84%FA%90%D8%C0%CD%92%3B%20%A6%AC%1D%18%A9%AC%EC%05&ckn=4261872019661816332 HTTP/1.1
+User-Agent: GDTMobSDK4.492.1362-[Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)]
+Host: canvas.gdt.qq.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 OK
+Date: Wed, 17 May 2023 05:07:23 GMT
+Content-Type: image/jpeg
+Content-Length: 171147
+Connection: keep-alive
+Server: nginx
+Content-md5: 650783c252e3369fb22bfedaffbf1af7
+Canvas-Code: SUCCESS
+

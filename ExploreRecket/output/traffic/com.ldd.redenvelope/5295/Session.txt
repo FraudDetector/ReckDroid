@@ -1,0 +1,19 @@
+POST https://msg.umengcloud.com/v3/tag/get HTTP/1.1
+Content-Type: application/octet-stream
+appkey: 6007f8d7f1eb4f3f9b691eb3
+Content-Length: 529
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: msg.umengcloud.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Content-Encoding: xgzip
+
+
+HTTP/1.1 200
+Server: Tengine
+Date: Wed, 17 May 2023 05:11:05 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 102
+Connection: keep-alive
+X-Application-Context: java-logtorrent:7001
+

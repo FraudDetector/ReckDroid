@@ -1,0 +1,1 @@
+{"words_result":[{"words":"恭喜发财，大吉大利"},{"words":"開"}],"words_result_num":2,"log_id":1658701549577493937}

@@ -1,0 +1,39 @@
+GET https://cdn.vedioads.cn/hdggstatic/baoxiangZujian/winqQuan.png HTTP/1.1
+Host: cdn.vedioads.cn
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Linux; Android 9; MI 6X Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://activity.doumobthree.top/static2/7uFiFO/v2/0.hdgg.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+X-Requested-With: com.quzhuan.app
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/png
+Content-Length: 4084
+Connection: keep-alive
+Date: Wed, 17 May 2023 11:50:52 GMT
+x-oss-request-id: 6464BF9C55A1A6393610C468
+x-oss-cdn-auth: success
+Accept-Ranges: bytes
+ETag: "FC8CD1792C1ECD7D550976F366CAD40D"
+Last-Modified: Fri, 15 Jan 2021 06:24:03 GMT
+x-oss-object-type: Normal
+x-oss-storage-class: Standard
+Content-MD5: /IzReSwezX1VCXbzZsrUDQ==
+x-oss-server-time: 22
+Ali-Swift-Global-Savetime: 1684324252
+Via: cache11.l2cn2647[0,0,304-0,H], cache41.l2cn2647[1,0], vcache2.cn4732[0,0,200-0,H], vcache10.cn4732[1,0]
+x-oss-hash-crc64ecma: 10281304051194379002
+Age: 27980
+X-Cache: HIT TCP_HIT dirn:10:365642509
+X-Swift-SaveTime: Wed, 17 May 2023 15:35:42 GMT
+X-Swift-CacheTime: 72910
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: b465c61e16843522326696480e
+

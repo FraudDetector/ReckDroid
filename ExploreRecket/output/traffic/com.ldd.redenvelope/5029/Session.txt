@@ -1,0 +1,18 @@
+POST https://cpu-openapi.baidu.com/api/v2/data/list HTTP/1.1
+Content-type: application/json
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; MI 6X MIUI/9.9.3)
+Host: cpu-openapi.baidu.com
+Accept-Encoding: gzip
+Content-Length: 1440
+
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json;charset=UTF-8
+Date: Wed, 17 May 2023 05:07:31 GMT
+X-B3-Spanid: d3157fdfc39d8000
+X-B3-Traceid: b9e7bd3ef47011eda5922d70bd3e4f42
+Content-Length: 488957
+
