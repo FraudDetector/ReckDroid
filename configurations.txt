@@ -1,0 +1,12 @@
+[ReckDroid]
+1. ExploreRecket/utils.py/get_client(): Set your app ID, API Key and secret key (need to sign up for Baidu OCR).
+2. ExploreRecket/resources/aip-python-sdk-4.15.12.zip: Add baidu-aip-sdk to python environment.
+3. DetectFraud/scan_app.py/VIRUSTOTAL_API_KEY: Set your VirusTotal API key (need to sign up for VirusTotal).
+4. DetectFraud/scan_url.py/VIRUSTOTAL_API_KEY: Set your VirusTotal API key.
+5. Download the pre-trained Sentence-BERT model "paraphrase-multilingual-MiniLM-L12-v2" to the "ExploreRecket/resources" directory.
+
+[Fiddler]
+1. FiddlerScript configuration is provided in "FiddlerScript_customRules.js" file.
+2. You need to set the directories of "trafficdir" and "pkgpath" in the FiddlerScript.
+3. You need to configure the environment for Fiddler to listen to your mobile device.
+4. Make sure you have a static web page hosted on the local server (request url: http://localhost:8080/).
